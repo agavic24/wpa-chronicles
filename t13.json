@@ -1,0 +1,22 @@
+{
+  "guild": {
+    "id": "1031055347319832666",
+    "name": "The Northern Lights Province",
+    "iconUrl": "https://cdn.discordapp.com/icons/1031055347319832666/77621d4d54ceedf6a014452bb48adb19.png?size=512"
+  },
+  "channel": {
+    "id": "1055570877942607962",
+    "type": "GuildTextChat",
+    "categoryId": "1031296362626695190",
+    "category": "City of Lights",
+    "name": "temple",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-02-22T00:00:00-08:00",
+    "before": "2025-02-28T00:00:00-08:00"
+  },
+  "exportedAt": "2025-09-29T01:02:23.6220954-07:00",
+  "messages": [],
+  "messageCount": 0
+}

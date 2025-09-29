@@ -1,0 +1,476 @@
+{
+  "guild": {
+    "id": "1031055347319832666",
+    "name": "The Northern Lights Province",
+    "iconUrl": "https://cdn.discordapp.com/icons/1031055347319832666/77621d4d54ceedf6a014452bb48adb19.png?size=512"
+  },
+  "channel": {
+    "id": "1202009068982784060",
+    "type": "GuildTextChat",
+    "categoryId": "1202008299860672522",
+    "category": "West Island",
+    "name": "lake-ifol",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-02-11T00:00:00-08:00",
+    "before": "2025-02-13T00:00:00-08:00"
+  },
+  "exportedAt": "2025-09-29T00:59:41.7692754-07:00",
+  "messages": [
+    {
+      "id": "1339261371417890889",
+      "type": "Default",
+      "timestamp": "2025-02-12T07:46:33.219-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ">>> *The party travels northwards and follow’s the river upstream to its source: Lake Ifol. Perched atop a plateau, the lake is surrounded by sand and an arid landscape. The lake is a veritable oasis among this environment; easily more than ten miles across, it’s surrounded by trees hosting bounties of dates and figs.*",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339261441319895041",
+      "type": "Default",
+      "timestamp": "2025-02-12T07:46:49.885-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://public.mechanus.zhu.codes/nlp-assets/lake-ifol.png",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://public.mechanus.zhu.codes/nlp-assets/lake-ifol.png",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ctlypxjKO_u2i-R0InH2NiNPekuenieEttNFUC4-iHk/https/public.mechanus.zhu.codes/nlp-assets/lake-ifol.png",
+            "width": 1792,
+            "height": 1024
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339265092428238909",
+      "type": "Default",
+      "timestamp": "2025-02-12T08:01:20.377-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ">>> *As you arrive at the lake, you begin travel around its shoreline. Up ahead you hear soothing melodies coming from the lake.  As you approach, you can see a column of bubbles rises to the water’s surface; inexplicably they are producing the soothing melodies as they pop open.*",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339283175246925985",
+      "type": "Default",
+      "timestamp": "2025-02-12T09:13:11.657-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Curious by the sounds, Quinn crouches down to see the bubbles more closely, admiring the music coming from them.*",
+      "author": {
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
+            "color": null,
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339283930817499237",
+      "type": "Default",
+      "timestamp": "2025-02-12T09:16:11.799-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Aillig tries to think of what could be making music this way. Nothing coming to mind off hand, he shrugs and stands easy to enjoy the performance for a time.*",
+      "author": {
+        "id": "336938667971051531",
+        "name": "sinforge.",
+        "discriminator": "0000",
+        "nickname": "Aillig MacCaird [7] || Sinforge",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1223845294228377692",
+            "name": "LFG: Geoguesser",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336938667971051531/8f8b578384d3d6b637115fb6f5084c5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339345122596360194",
+      "type": "Default",
+      "timestamp": "2025-02-12T13:19:21.056-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> *The party enjoys a short snack break while enjoying the music.  Eventually the bubbles start floating farther out into the lake and you continue on your way.*",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 6
+}

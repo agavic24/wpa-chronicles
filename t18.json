@@ -1,0 +1,96 @@
+{
+  "guild": {
+    "id": "1031055347319832666",
+    "name": "The Northern Lights Province",
+    "iconUrl": "https://cdn.discordapp.com/icons/1031055347319832666/77621d4d54ceedf6a014452bb48adb19.png?size=512"
+  },
+  "channel": {
+    "id": "1033408117561643071",
+    "type": "GuildTextChat",
+    "categoryId": "1033408114533355621",
+    "category": "Boreal Forest",
+    "name": "cold-jungle-canopy",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-03-23T00:00:00-07:00",
+    "before": "2025-04-02T00:00:00-07:00"
+  },
+  "exportedAt": "2025-09-29T01:09:28.3164133-07:00",
+  "messages": [
+    {
+      "id": "1353944817163440238",
+      "type": "ThreadCreated",
+      "timestamp": "2025-03-24T21:13:19.49-07:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Started a thread.",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": null,
+        "channelId": "1353944817163440238",
+        "guildId": "1031055347319832666"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}

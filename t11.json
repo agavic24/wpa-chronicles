@@ -1,0 +1,406 @@
+{
+  "guild": {
+    "id": "1031055347319832666",
+    "name": "The Northern Lights Province",
+    "iconUrl": "https://cdn.discordapp.com/icons/1031055347319832666/77621d4d54ceedf6a014452bb48adb19.png?size=512"
+  },
+  "channel": {
+    "id": "1229814403612807222",
+    "type": "GuildTextChat",
+    "categoryId": "1202008299860672522",
+    "category": "West Island",
+    "name": "calamari-cove-outpost",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-02-11T00:00:00-08:00",
+    "before": "2025-02-14T00:00:00-08:00"
+  },
+  "exportedAt": "2025-09-29T01:00:37.6751034-07:00",
+  "messages": [
+    {
+      "id": "1339370022308548609",
+      "type": "Default",
+      "timestamp": "2025-02-12T14:58:17.61-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> *A party slowly strolls onto the weathered boardwalk after a long journey from Mirewatch Outpost.*\n>  *The four traveler’s silhouettes are stark against the golden sands. Their clothes, still clinging to the damp scent of swamp water, bears the marks of their trials—mud-caked boots, damaged armor, and the lingering stains of battle.*\n> - **Ra’vek** *moves with his usual effortless grace, but his sharp eyes flicker between shadows, ever-watchful.*\n> - **Aillig** *is wrapped in a pristine green cloak and is composed as ever with his hat and cane.*\n> - **Mina** *bears the scars of battle openly, her fierce presence towering and commanding.*\n> - **Quinn** *steps lightly with a hunter’s pace; an impressive bow over her shoulder.*\n> *The outpost's folk pause their work, some casting wary glances at the group, others nodding in respect to seasoned travelers. The lake breeze carries away the last clinging scents of rot and ruin, but nothing will wash away what they’ve endured.*",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1339370021952028763",
+          "url": "https://cdn.discordapp.com/attachments/1229814403612807222/1339370021952028763/NLP-party.png?ex=68db0f09&is=68d9bd89&hm=af3e0bbf96ef547bbd59de93156afc986f90fc83c459ef1d0dbfcf1415bf6847&",
+          "fileName": "NLP-party.png",
+          "fileSizeBytes": 2144130
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339466993316925481",
+      "type": "Default",
+      "timestamp": "2025-02-12T21:23:37.3-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Aillig takes a moment to take in the view of the outpost,before noting* “It was a long, somewhat strange trip, but we made it.”",
+      "author": {
+        "id": "336938667971051531",
+        "name": "sinforge.",
+        "discriminator": "0000",
+        "nickname": "Aillig MacCaird [7] || Sinforge",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1223845294228377692",
+            "name": "LFG: Geoguesser",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336938667971051531/8f8b578384d3d6b637115fb6f5084c5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339470346688139356",
+      "type": "Default",
+      "timestamp": "2025-02-12T21:36:56.806-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Ra’vek nods in agreement.* “It’s good to be here.  I can’t wait for a hot soak.”\n\n*He then adjusts the leather straps of his pack and scans the settlement with quiet intent.  A faint smirk plays upon his lips. This place is exactly what he has been hoping for.  A bustling frontier town where trade, opportunity, and ambitions can take root.*",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339581241904599122",
+      "type": "Default",
+      "timestamp": "2025-02-13T04:57:36.286-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Mina promptly finds a comfortable patch of beach to nap in and swiftly dozes off*",
+      "author": {
+        "id": "573353658759249942",
+        "name": "thenerdess",
+        "discriminator": "0000",
+        "nickname": "Mina'Khor (6) || Nerdess",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
+            "color": null,
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/573353658759249942/avatars/3b0b8537ee45e467d711bd1a97a966e6.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1339725213948055623",
+      "type": "Default",
+      "timestamp": "2025-02-13T14:29:41.896-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"I'm so glad to finally get some clean air after all that. A hot soak doesn't sound too bad either, Ra.\" *Quinn takes in their surroundings before venturing forth to explore the outpost and all it held.*",
+      "author": {
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
+            "color": null,
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 5
+}

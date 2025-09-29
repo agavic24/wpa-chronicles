@@ -1,0 +1,2903 @@
+{
+  "guild": {
+    "id": "1031055347319832666",
+    "name": "The Northern Lights Province",
+    "iconUrl": "https://cdn.discordapp.com/icons/1031055347319832666/77621d4d54ceedf6a014452bb48adb19.png?size=512"
+  },
+  "channel": {
+    "id": "1103377012359446571",
+    "type": "GuildTextChat",
+    "categoryId": "1103377001601060884",
+    "category": "South Island",
+    "name": "swamp",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2025-01-08T00:00:00-08:00",
+    "before": "2025-02-10T00:00:00-08:00"
+  },
+  "exportedAt": "2025-09-29T00:56:52.165713-07:00",
+  "messages": [
+    {
+      "id": "1326826640483024917",
+      "type": "ThreadCreated",
+      "timestamp": "2025-01-09T00:15:22.338-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Started a thread.",
+      "author": {
+        "id": "1240736630118027285",
+        "name": "noahthekoala",
+        "discriminator": "0000",
+        "nickname": "Koala",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1240736630118027285/6b4a1cf03e878e8092c361a176894e5a.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": null,
+        "channelId": "1326826640483024917",
+        "guildId": "1031055347319832666"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327833508604809307",
+      "type": "Default",
+      "timestamp": "2025-01-11T18:56:18.405-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Domnius makes a Survival check!",
+          "url": null,
+          "timestamp": null,
+          "description": "1d20 (6) + 3 = `9`",
+          "color": "#421565",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/esSqzO1khZORhqh0ep8Zk-wNpHgOPY2tEDylOT2TLy0/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/45607/952/1581111423-136452801.jpeg",
+            "width": 1080,
+            "height": 1350
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE14",
+            "code": "pensive",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f614.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1127873096754397225",
+              "name": "karfaxxx2",
+              "discriminator": "0000",
+              "nickname": "Arnulf  [5] || CarFax",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1127873096754397225/c3d168de86e9e783ef7a7416cd2546f2.png?size=512"
+            },
+            {
+              "id": "1324026197382004778",
+              "name": "onecephalopodinthreetrenchcoats",
+              "discriminator": "0000",
+              "nickname": "Haldaal [7] || S.J the 2nd",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327833764302159873",
+      "type": "Default",
+      "timestamp": "2025-01-11T18:57:19.368-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poe Beep makes a Survival check!",
+          "url": null,
+          "timestamp": null,
+          "description": "1d20 (**1**) + 4 = `5`",
+          "color": "#143985",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0DWqsqUEbBCkVPdxUqDDHyUpM915PUKI2q_N-HQ9oJw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46084/688/1581111423-136680239.jpeg",
+            "width": 1005,
+            "height": 999
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1032002522589692084",
+            "name": "NekoFlop",
+            "code": "NekoFlop",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1032002522589692084.png"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "1127873096754397225",
+              "name": "karfaxxx2",
+              "discriminator": "0000",
+              "nickname": "Arnulf  [5] || CarFax",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1127873096754397225/c3d168de86e9e783ef7a7416cd2546f2.png?size=512"
+            },
+            {
+              "id": "1307561381616422942",
+              "name": "sophie075391",
+              "discriminator": "0000",
+              "nickname": "Poe [10] || sophie\uD83C\uDF80",
+              "color": "#D8BBFF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1307561381616422942/f70e13bf522dc881a0b809c824cd371b.png?size=512"
+            },
+            {
+              "id": "1324026197382004778",
+              "name": "onecephalopodinthreetrenchcoats",
+              "discriminator": "0000",
+              "nickname": "Haldaal [7] || S.J the 2nd",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327833906824609876",
+      "type": "Default",
+      "timestamp": "2025-01-11T18:57:53.348-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Haldaal Idani makes a Perception check!",
+          "url": null,
+          "timestamp": null,
+          "description": "1d20 (**1**) + 7 = `8`",
+          "color": "#4B6654",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uFLsxeOreVDyQHn9PO6yAUP6IsR1AWSecQMAe9SqHHE/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46537/691/1581111423-139282155.jpeg",
+            "width": 280,
+            "height": 280
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1310746957597376654",
+            "name": "Blobhaj_Glare",
+            "code": "Blobhaj_Glare",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1310746957597376654.png"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1307561381616422942",
+              "name": "sophie075391",
+              "discriminator": "0000",
+              "nickname": "Poe [10] || sophie\uD83C\uDF80",
+              "color": "#D8BBFF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1307561381616422942/f70e13bf522dc881a0b809c824cd371b.png?size=512"
+            },
+            {
+              "id": "1324026197382004778",
+              "name": "onecephalopodinthreetrenchcoats",
+              "discriminator": "0000",
+              "nickname": "Haldaal [7] || S.J the 2nd",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD0F",
+            "code": "pinching_hand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f90f.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "1307561381616422942",
+              "name": "sophie075391",
+              "discriminator": "0000",
+              "nickname": "Poe [10] || sophie\uD83C\uDF80",
+              "color": "#D8BBFF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1307561381616422942/f70e13bf522dc881a0b809c824cd371b.png?size=512"
+            },
+            {
+              "id": "1324026197382004778",
+              "name": "onecephalopodinthreetrenchcoats",
+              "discriminator": "0000",
+              "nickname": "Haldaal [7] || S.J the 2nd",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327838435549118486",
+      "type": "Default",
+      "timestamp": "2025-01-11T19:15:53.08-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Domnius makes an Insight check!",
+          "url": null,
+          "timestamp": null,
+          "description": "1d20 (**1**) - 1 = `0`",
+          "color": "#3C8F94",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/esSqzO1khZORhqh0ep8Zk-wNpHgOPY2tEDylOT2TLy0/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/45607/952/1581111423-136452801.jpeg",
+            "width": 1080,
+            "height": 1350
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327839115504390246",
+      "type": "Default",
+      "timestamp": "2025-01-11T19:18:35.194-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poe Beep makes an Insight check!",
+          "url": null,
+          "timestamp": null,
+          "description": "1d20 (**1**) + 4 = `5`",
+          "color": "#1F5ADF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0DWqsqUEbBCkVPdxUqDDHyUpM915PUKI2q_N-HQ9oJw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46084/688/1581111423-136680239.jpeg",
+            "width": 1005,
+            "height": 999
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327839373634572321",
+      "type": "Default",
+      "timestamp": "2025-01-11T19:19:36.737-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Haldaal Idani makes an Insight check!",
+          "url": null,
+          "timestamp": null,
+          "description": "1d20 (10) + 7 = `17`",
+          "color": "#5B2259",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uFLsxeOreVDyQHn9PO6yAUP6IsR1AWSecQMAe9SqHHE/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46537/691/1581111423-139282155.jpeg",
+            "width": 280,
+            "height": 280
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849701634216027",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:00:39.124-08:00",
+      "timestampEdited": "2025-01-11T20:37:17.265-08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```md\nCurrent initiative: 19 (round 2)\n================================\n# 19: Poe Beep <123/123 HP, 2 temp> (AC 18, Aid [8.0 hours], Rage [9.9 minutes], Blessed [10 rounds], Reckless [until start of next turn])\n  14: Haldaal Idani <55/55 HP> (AC 15, Aid [8.0 hours], Blessed [10 rounds])\n   5: GH1 <Dead> \n   5: Deathknight\n     - Domnius <95/95 HP> (AC 20, Aid [8.0 hours], Bless [10 rounds], Blessed [10 rounds])\n     - Umbra <35/35 HP> (AC 17, Saddle of the Cavalier, Aura of Protection)``` ```-----COMBAT ENDED-----```",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849702921605171",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2025-01-11T20:00:39.431-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "1327849701634216027",
+        "channelId": "1103377012359446571",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849704184090726",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:00:39.732-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Everyone roll for initiative!\nIf you have a character set up with SheetManager: `!init join`\nIf it's a 5e monster: `!init madd <monster name>`\nOtherwise: `!init add <modifier> <name>`\nMessages sent in this channel during combat will be recorded for research purposes. By sending messages in this channel during this combat, you agree to participate in the Avrae NLP study. See `!init nlp` for more information.",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849723121631285",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:00:44.247-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poe Beep makes an Initiative check!",
+          "url": null,
+          "timestamp": null,
+          "description": "2d20kh1 (~~16~~, 17) + 2 = `19`",
+          "color": "#76BE14",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0DWqsqUEbBCkVPdxUqDDHyUpM915PUKI2q_N-HQ9oJw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46084/688/1581111423-136680239.jpeg",
+            "width": 1005,
+            "height": 999
+          },
+          "footer": {
+            "text": "Added to combat!"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849753194795090",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:00:51.417-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Haldaal Idani makes an Initiative check!",
+          "url": null,
+          "timestamp": null,
+          "description": "1d20 (14) + 0 = `14`",
+          "color": "#BFAEB7",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uFLsxeOreVDyQHn9PO6yAUP6IsR1AWSecQMAe9SqHHE/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46537/691/1581111423-139282155.jpeg",
+            "width": 280,
+            "height": 280
+          },
+          "footer": {
+            "text": "Added to combat!"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849757791752232",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:00:52.513-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Domnius makes an Initiative check!",
+          "url": null,
+          "timestamp": null,
+          "description": "1d20 (6) - 1 = `5`",
+          "color": "#8CED6C",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/esSqzO1khZORhqh0ep8Zk-wNpHgOPY2tEDylOT2TLy0/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/45607/952/1581111423-136452801.jpeg",
+            "width": 1080,
+            "height": 1350
+          },
+          "footer": {
+            "text": "Joined group Deathknight!"
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849764498309272",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:00:54.112-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Umbra was added to combat with initiative 5 as part of group Deathknight.",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849770424995870",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:00:55.525-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#60BE8F",
+          "author": {
+            "name": "Domnius [9] || CarFax",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/k3i7cIgPFJiMfWjRBoQbyQKNG_YLrdsFm-o2H1y3IEQ/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1127873096754397225/c3d168de86e9e783ef7a7416cd2546f2.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Umbra",
+              "value": "Added effect Saddle of the Cavalier to Umbra.",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849775747567617",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:00:56.794-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Domnius spreads their Aura of Protection!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#78D7BC",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/esSqzO1khZORhqh0ep8Zk-wNpHgOPY2tEDylOT2TLy0/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/45607/952/1581111423-136452801.jpeg",
+            "width": 1080,
+            "height": 1350
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Umbra",
+              "value": "**Effect**: Aura of Protection (Save Bonus: 4; Leave Aura of Protection)",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "Whenever you or a friendly creature within 10 feet of you must make a saving throw, the creature gains a bonus to the saving throw equal to your Charisma modifier (with a minimum bonus of +1). You must be conscious to grant this bonus.\n\nAt 18th level, the range of this aura increases to 30 feet.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849795078979616",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:01:01.403-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GH1 was added to combat with initiative 1d20 (4) + 1 = `5`.",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849828859777064",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:01:09.457-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Haldaal Idani casts Aid!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#F50276",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uFLsxeOreVDyQHn9PO6yAUP6IsR1AWSecQMAe9SqHHE/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46537/691/1581111423-139282155.jpeg",
+            "width": 280,
+            "height": 280
+          },
+          "footer": {
+            "text": "Domnius: <95/95 HP> (10 overflow)\nPoe Beep: <123/123 HP, 6 temp> (10 overflow)\nHaldaal Idani: <55/55 HP> (10 overflow)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Meta",
+              "value": "**Heal**: 5 + 5 = `10`",
+              "isInline": false
+            },
+            {
+              "name": "Domnius",
+              "value": "**Effect**: Aid [8.0 hours] (Max HP Bonus: 10)\n**Healing**: -10 [magical heal] = `-10`",
+              "isInline": false
+            },
+            {
+              "name": "Poe Beep",
+              "value": "**Effect**: Aid [8.0 hours] (Max HP Bonus: 10)\n**Healing**: -10 [magical heal] = `-10`",
+              "isInline": false
+            },
+            {
+              "name": "Haldaal Idani",
+              "value": "**Effect**: Aid [8.0 hours] (Max HP Bonus: 10)\n**Healing**: -10 [magical heal] = `-10`",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "Choose up to three creatures within range. Each target’s Hit Point maximum and current Hit Points increase by 5 for the duration. Using a Higher-Level Spell Slot. Each target's Hit Points increase by 5 for each spell slot level above 2.",
+              "isInline": false
+            },
+            {
+              "name": "At Higher Levels",
+              "value": "Each target's Hit Points increase by 5 for each spell slot level above 2.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327849898778820639",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:01:26.127-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Initiative 19 (round 1)**: Poe Beep (@Poe [10] || sophie\uD83C\uDF80)\n```md\nPoe Beep <123/123 HP, 6 temp> (AC 18) \n> Immunities: critical hits\n* Aid [8.0 hours] (Max HP Bonus: 10)```",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1307561381616422942",
+          "name": "sophie075391",
+          "discriminator": "0000",
+          "nickname": "Poe [10] || sophie\uD83C\uDF80",
+          "color": "#D8BBFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1054066228727124099",
+              "name": "Tier 3",
+              "color": "#D8BBFF",
+              "position": 51
+            },
+            {
+              "id": "1054066226458013839",
+              "name": "Tier 2",
+              "color": "#D0D1FF",
+              "position": 50
+            },
+            {
+              "id": "1054066224310534265",
+              "name": "Tier 1",
+              "color": "#C8E7FF",
+              "position": 49
+            },
+            {
+              "id": "1031277823404560404",
+              "name": "Player",
+              "color": "#A9DEF9",
+              "position": 48
+            },
+            {
+              "id": "1031272359069491210",
+              "name": "Member",
+              "color": "#D0F4DE",
+              "position": 47
+            },
+            {
+              "id": "1054261323883622460",
+              "name": "they/them",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1054266800814161970",
+              "name": "any pronouns",
+              "color": null,
+              "position": 38
+            },
+            {
+              "id": "1054261388815646793",
+              "name": "NA West",
+              "color": null,
+              "position": 36
+            },
+            {
+              "id": "1069777279321915392",
+              "name": "Looking for RP",
+              "color": null,
+              "position": 23
+            },
+            {
+              "id": "1072963242726539307",
+              "name": "Looking for Quests",
+              "color": null,
+              "position": 22
+            },
+            {
+              "id": "1079975875853963345",
+              "name": "Looking for Tier 2",
+              "color": null,
+              "position": 20
+            },
+            {
+              "id": "1100272824180035584",
+              "name": "2nd Account",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1307561381616422942/f70e13bf522dc881a0b809c824cd371b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327850246113460325",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:02:48.938-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#3326A6",
+          "author": {
+            "name": "Poe [9] || sophie\uD83C\uDF80",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/5UvyMBi2hvpzBb09-n5G_dNU1ZFWT6WbRU38bNKIoG0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1307561381616422942/f70e13bf522dc881a0b809c824cd371b.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Poe Beep",
+              "value": "Added effect Reckless to Poe Beep.",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327850385494507672",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:03:22.169-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poe Beep attacks with a Velvet Slash!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#EA6FA7",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0DWqsqUEbBCkVPdxUqDDHyUpM915PUKI2q_N-HQ9oJw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46084/688/1581111423-136680239.jpeg",
+            "width": 1005,
+            "height": 999
+          },
+          "footer": {
+            "text": "GH1: <Injured> (-18)\nGH1: <Injured> (-15)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "GH1",
+              "value": "**__Attack 1__**\n**To Hit**: 2d20kh1 (12, ~~5~~) + 9 = `21`\n**Damage**: 1d10 (9) + 5 + 4 [magical slashing] = `18`\n\n**__Attack 2__**\n**To Hit**: 2d20kh1 (13, ~~**1**~~) + 9 = `22`\n**Damage**: 1d10 (6) + 5 + 4 [magical slashing] = `15`\n\n**__Total Damage__**: 33",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "You have a +1 bonus to attack and damage rolls made with this magic weapon.",
+              "isInline": false
+            },
+            {
+              "name": "Heavy Weapon Mastery",
+              "value": "When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.",
+              "isInline": false
+            },
+            {
+              "name": "Butcher’s Bid",
+              "value": "Once per turn when you roll damage for a melee attack with a weapon, you can reroll the weapon’s damage dice. If you do so, you must use the second total.\nYour weapon attacks that deal slashing damage score a critical hit on a roll of 19 or 20 on the d20.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327850436929126541",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:03:34.432-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Initiative 14 (round 1)**: Haldaal Idani (@Haldaal [7] || S.J the 2nd)\n```md\nHaldaal Idani <55/55 HP> (AC 15) \n> Immunities: magical sleep\n* Aid [8.0 hours] (Max HP Bonus: 10)```",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1324026197382004778",
+          "name": "onecephalopodinthreetrenchcoats",
+          "discriminator": "0000",
+          "nickname": "Haldaal [7] || S.J the 2nd",
+          "color": "#D0D1FF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1054066226458013839",
+              "name": "Tier 2",
+              "color": "#D0D1FF",
+              "position": 50
+            },
+            {
+              "id": "1054066224310534265",
+              "name": "Tier 1",
+              "color": "#C8E7FF",
+              "position": 49
+            },
+            {
+              "id": "1031277823404560404",
+              "name": "Player",
+              "color": "#A9DEF9",
+              "position": 48
+            },
+            {
+              "id": "1031272359069491210",
+              "name": "Member",
+              "color": "#D0F4DE",
+              "position": 47
+            },
+            {
+              "id": "1054261274072076318",
+              "name": "she/her",
+              "color": null,
+              "position": 39
+            },
+            {
+              "id": "1054261449444302989",
+              "name": "NA East",
+              "color": null,
+              "position": 35
+            },
+            {
+              "id": "1069777279321915392",
+              "name": "Looking for RP",
+              "color": null,
+              "position": 23
+            },
+            {
+              "id": "1072963242726539307",
+              "name": "Looking for Quests",
+              "color": null,
+              "position": 22
+            },
+            {
+              "id": "1079975875853963345",
+              "name": "Looking for Tier 2",
+              "color": null,
+              "position": 20
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327850875682816133",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:05:19.039-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#8F8566",
+          "author": {
+            "name": "Haldaal Idani",
+            "url": null
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uFLsxeOreVDyQHn9PO6yAUP6IsR1AWSecQMAe9SqHHE/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46537/691/1581111423-139282155.jpeg",
+            "width": 280,
+            "height": 280
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Elven Lineage Spells: Misty Step",
+              "value": "〇 (-1)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327850922063171615",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:05:30.097-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Haldaal Idani casts Misty Step!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#D3E499",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uFLsxeOreVDyQHn9PO6yAUP6IsR1AWSecQMAe9SqHHE/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46537/691/1581111423-139282155.jpeg",
+            "width": 280,
+            "height": 280
+          },
+          "footer": {
+            "text": "No spell automation found."
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Description",
+              "value": "Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space you can see.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327851030813343825",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:05:56.025-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Haldaal Idani casts Toll the Dead!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#A4F591",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uFLsxeOreVDyQHn9PO6yAUP6IsR1AWSecQMAe9SqHHE/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46537/691/1581111423-139282155.jpeg",
+            "width": 280,
+            "height": 280
+          },
+          "footer": {
+            "text": "GH1: <Bloodied> (-14)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Meta",
+              "value": "**DC**: 15",
+              "isInline": false
+            },
+            {
+              "name": "GH1",
+              "value": "**WIS Save**: 1d20 (10) + 2 = `12`; Failure!\n**Damage**: 2d12 (8, 6) [magical necrotic] = `14`",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "You point at one creature you can see within range, and the single chime of a dolorous bell is audible within 10 feet of the target. The target must succeed on a Wisdom saving throw or take 1d8 Necrotic damage. If the target is missing any of its Hit Points, it instead takes 1d12 Necrotic damage.",
+              "isInline": false
+            },
+            {
+              "name": "**Cantrip Upgrade**",
+              "value": "The damage increases by one die when you reach levels 5 (2d8 or 2d12), 11 (3d8 or 3d12), and 17 (4d8 or 4d12).",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327851107250077716",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:06:14.249-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Initiative 5 (round 1)**: GH1 (@Poe [10] || sophie\uD83C\uDF80)\n```md\nGH1 <Bloodied>```",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1307561381616422942",
+          "name": "sophie075391",
+          "discriminator": "0000",
+          "nickname": "Poe [10] || sophie\uD83C\uDF80",
+          "color": "#D8BBFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1054066228727124099",
+              "name": "Tier 3",
+              "color": "#D8BBFF",
+              "position": 51
+            },
+            {
+              "id": "1054066226458013839",
+              "name": "Tier 2",
+              "color": "#D0D1FF",
+              "position": 50
+            },
+            {
+              "id": "1054066224310534265",
+              "name": "Tier 1",
+              "color": "#C8E7FF",
+              "position": 49
+            },
+            {
+              "id": "1031277823404560404",
+              "name": "Player",
+              "color": "#A9DEF9",
+              "position": 48
+            },
+            {
+              "id": "1031272359069491210",
+              "name": "Member",
+              "color": "#D0F4DE",
+              "position": 47
+            },
+            {
+              "id": "1054261323883622460",
+              "name": "they/them",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1054266800814161970",
+              "name": "any pronouns",
+              "color": null,
+              "position": 38
+            },
+            {
+              "id": "1054261388815646793",
+              "name": "NA West",
+              "color": null,
+              "position": 36
+            },
+            {
+              "id": "1069777279321915392",
+              "name": "Looking for RP",
+              "color": null,
+              "position": 23
+            },
+            {
+              "id": "1072963242726539307",
+              "name": "Looking for Quests",
+              "color": null,
+              "position": 22
+            },
+            {
+              "id": "1079975875853963345",
+              "name": "Looking for Tier 2",
+              "color": null,
+              "position": 20
+            },
+            {
+              "id": "1100272824180035584",
+              "name": "2nd Account",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1307561381616422942/f70e13bf522dc881a0b809c824cd371b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327851587804074099",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:08:08.822-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GH1 attacks with Claws!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#2B858E",
+          "footer": {
+            "text": "Poe Beep: <115/123 HP> (-6 temp, -8 HP)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Poe Beep",
+              "value": "**To Hit**: 2d20kh1 (15, ~~3~~) + 6 = `21`\n**Damage**: 2d8 (2, **8**) + 4 [slashing] = `14`",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "*Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) slashing damage.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327851698030510092",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:08:35.102-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poe Beep uses Rage (Enter)!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#BB453F",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0DWqsqUEbBCkVPdxUqDDHyUpM915PUKI2q_N-HQ9oJw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46084/688/1581111423-136680239.jpeg",
+            "width": 1005,
+            "height": 999
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Poe Beep",
+              "value": "**Effect**: Rage [10.0 minutes] (Check Advantage: Strength; Resistance: piercing, slashing, bludgeoning; Damage Bonus: 3; Save Advantage: Strength; End Rage)",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "You can imbue yourself with a primal power called Rage, a force that grants you extraordinary might and resilience. You can enter it as a Bonus Action if you aren’t wearing Heavy armor.  Whilst raging, you have the following benefits:\n - You are resistant to bludgeoning, piercing, and slashing damage.\n - When you make an attack using Strength and deal damage, you deal an additional 3 damage.",
+              "isInline": false
+            },
+            {
+              "name": "Rage (Enter)",
+              "value": "◉◉〇〇 (-1)",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327852008719515730",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:09:49.176-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Initiative 5 (round 1)**: Deathknight (@Arnulf  [5] || CarFax)\n```md\nDomnius <95/95 HP> (AC 20) \n> Resistances: radiant, necrotic\n> Immunities: critical hits\n* Aid [8.0 hours] (Max HP Bonus: 10)\nUmbra <35/35 HP> (AC 17) \n* Saddle of the Cavalier  \n - All attacks against Umbra are made at disadvantage.\n* Aura of Protection (Save Bonus: 4; Leave Aura of Protection) \n - As long as you stay within 10 feet of Domnius, and they remain conscious```",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1127873096754397225",
+          "name": "karfaxxx2",
+          "discriminator": "0000",
+          "nickname": "Arnulf  [5] || CarFax",
+          "color": "#D0D1FF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1054066226458013839",
+              "name": "Tier 2",
+              "color": "#D0D1FF",
+              "position": 50
+            },
+            {
+              "id": "1054066224310534265",
+              "name": "Tier 1",
+              "color": "#C8E7FF",
+              "position": 49
+            },
+            {
+              "id": "1031277823404560404",
+              "name": "Player",
+              "color": "#A9DEF9",
+              "position": 48
+            },
+            {
+              "id": "1031272359069491210",
+              "name": "Member",
+              "color": "#D0F4DE",
+              "position": 47
+            },
+            {
+              "id": "1069777279321915392",
+              "name": "Looking for RP",
+              "color": null,
+              "position": 23
+            },
+            {
+              "id": "1079975875853963345",
+              "name": "Looking for Tier 2",
+              "color": null,
+              "position": 20
+            },
+            {
+              "id": "1100272824180035584",
+              "name": "2nd Account",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1127873096754397225/c3d168de86e9e783ef7a7416cd2546f2.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327852185903431723",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:10:31.42-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Domnius casts Bless!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#4CB38F",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/esSqzO1khZORhqh0ep8Zk-wNpHgOPY2tEDylOT2TLy0/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/45607/952/1581111423-136452801.jpeg",
+            "width": 1080,
+            "height": 1350
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Poe Beep",
+              "value": "**Effect**: Blessed [10 rounds] (Save Bonus: 1d4 [bless]; Attack Bonus: 1d4 [bless]; Parent: Bless)",
+              "isInline": false
+            },
+            {
+              "name": "Haldaal Idani",
+              "value": "**Effect**: Blessed [10 rounds] (Save Bonus: 1d4 [bless]; Attack Bonus: 1d4 [bless]; Parent: Bless)",
+              "isInline": false
+            },
+            {
+              "name": "Domnius",
+              "value": "**Effect**: Blessed [10 rounds] (Save Bonus: 1d4 [bless]; Attack Bonus: 1d4 [bless]; Parent: Bless)",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "You bless up to three creatures within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target adds 1d4 to the attack roll or save.",
+              "isInline": false
+            },
+            {
+              "name": "Spell Slots",
+              "value": "`1` ◉◉◉〇 (-1)",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327852282879934576",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:10:54.541-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Initiative 19 (round 2)**: Poe Beep (@Poe [10] || sophie\uD83C\uDF80)\n```md\nPoe Beep <123/123 HP, 2 temp> (AC 18) \n> Resistances: piercing, slashing, bludgeoning\n> Immunities: critical hits\n* Aid [8.0 hours] (Max HP Bonus: 10)\n* Rage [9.9 minutes] (Check Advantage: Strength; Resistance: piercing, slashing, bludgeoning; Damage Bonus: 3; Save Advantage: Strength; End Rage) \n - Cannot cast/concentrate on spells\n - Ends if knocked unconscious or if your turn ends and you haven't attacked a hostile creature or taken damage since your last turn\n* Blessed [10 rounds] (Save Bonus: 1d4 [bless]; Attack Bonus: 1d4 [bless]; Parent: Bless)```",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1307561381616422942",
+          "name": "sophie075391",
+          "discriminator": "0000",
+          "nickname": "Poe [10] || sophie\uD83C\uDF80",
+          "color": "#D8BBFF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1054066228727124099",
+              "name": "Tier 3",
+              "color": "#D8BBFF",
+              "position": 51
+            },
+            {
+              "id": "1054066226458013839",
+              "name": "Tier 2",
+              "color": "#D0D1FF",
+              "position": 50
+            },
+            {
+              "id": "1054066224310534265",
+              "name": "Tier 1",
+              "color": "#C8E7FF",
+              "position": 49
+            },
+            {
+              "id": "1031277823404560404",
+              "name": "Player",
+              "color": "#A9DEF9",
+              "position": 48
+            },
+            {
+              "id": "1031272359069491210",
+              "name": "Member",
+              "color": "#D0F4DE",
+              "position": 47
+            },
+            {
+              "id": "1054261323883622460",
+              "name": "they/them",
+              "color": null,
+              "position": 41
+            },
+            {
+              "id": "1054266800814161970",
+              "name": "any pronouns",
+              "color": null,
+              "position": 38
+            },
+            {
+              "id": "1054261388815646793",
+              "name": "NA West",
+              "color": null,
+              "position": 36
+            },
+            {
+              "id": "1069777279321915392",
+              "name": "Looking for RP",
+              "color": null,
+              "position": 23
+            },
+            {
+              "id": "1072963242726539307",
+              "name": "Looking for Quests",
+              "color": null,
+              "position": 22
+            },
+            {
+              "id": "1079975875853963345",
+              "name": "Looking for Tier 2",
+              "color": null,
+              "position": 20
+            },
+            {
+              "id": "1100272824180035584",
+              "name": "2nd Account",
+              "color": null,
+              "position": 13
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1307561381616422942/f70e13bf522dc881a0b809c824cd371b.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327854332229451827",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:19:03.144-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#DA52CB",
+          "author": {
+            "name": "Poe [9] || sophie\uD83C\uDF80",
+            "url": null,
+            "iconUrl": "https://images-ext-1.discordapp.net/external/5UvyMBi2hvpzBb09-n5G_dNU1ZFWT6WbRU38bNKIoG0/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/1307561381616422942/f70e13bf522dc881a0b809c824cd371b.png"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "Poe Beep",
+              "value": "Added effect Reckless to Poe Beep.",
+              "isInline": true
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327854402211549184",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:19:19.829-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poe Beep attacks with a Velvet Slash!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#56CADF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0DWqsqUEbBCkVPdxUqDDHyUpM915PUKI2q_N-HQ9oJw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46084/688/1581111423-136680239.jpeg",
+            "width": 1005,
+            "height": 999
+          },
+          "footer": {
+            "text": "GH1: <Critical> (-28)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "GH1",
+              "value": "**To Hit**: 2d20kh1 (19, ~~4~~) + 9 + 1d4 (**1**) [bless] = `29`\n**Damage (CRIT!)**: 2d10 (8, 8) + 5 + 4 + 3 [magical slashing] = `28`",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "You have a +1 bonus to attack and damage rolls made with this magic weapon.",
+              "isInline": false
+            },
+            {
+              "name": "Heavy Weapon Mastery",
+              "value": "When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.",
+              "isInline": false
+            },
+            {
+              "name": "Butcher’s Bid",
+              "value": "Once per turn when you roll damage for a melee attack with a weapon, you can reroll the weapon’s damage dice. If you do so, you must use the second total.\nYour weapon attacks that deal slashing damage score a critical hit on a roll of 19 or 20 on the d20.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327854435275247659",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:19:27.712-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poe Beep attacks with a Velvet Slash!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#336364",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0DWqsqUEbBCkVPdxUqDDHyUpM915PUKI2q_N-HQ9oJw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46084/688/1581111423-136680239.jpeg",
+            "width": 1005,
+            "height": 999
+          },
+          "footer": {
+            "text": "GH1: <Dead> (-18)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "GH1",
+              "value": "**To Hit**: 2d20kh1 (17, ~~9~~) + 9 + 1d4 (**1**) [bless] = `27`\n**Damage**: 1d10 (6) + 5 + 4 + 3 [magical slashing] = `18`",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "You have a +1 bonus to attack and damage rolls made with this magic weapon.",
+              "isInline": false
+            },
+            {
+              "name": "Heavy Weapon Mastery",
+              "value": "When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.",
+              "isInline": false
+            },
+            {
+              "name": "Butcher’s Bid",
+              "value": "Once per turn when you roll damage for a melee attack with a weapon, you can reroll the weapon’s damage dice. If you do so, you must use the second total.\nYour weapon attacks that deal slashing damage score a critical hit on a roll of 19 or 20 on the d20.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327854866638442496",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:21:10.557-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Poe Beep attacks with a Velvet Slash!",
+          "url": null,
+          "timestamp": null,
+          "description": "",
+          "color": "#9A3DCF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0DWqsqUEbBCkVPdxUqDDHyUpM915PUKI2q_N-HQ9oJw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/46084/688/1581111423-136680239.jpeg",
+            "width": 1005,
+            "height": 999
+          },
+          "footer": {
+            "text": "GH1: <Dead> (-27)"
+          },
+          "images": [],
+          "fields": [
+            {
+              "name": "GH1",
+              "value": "**To Hit**: 1d20 (9) + 9 + 1d4 (2) [bless] = `20`\n**Damage**: 1d10 (**10**) + 5 + 4 + 1d10 (5) + 3 [magical slashing] = `27`",
+              "isInline": false
+            },
+            {
+              "name": "Effect",
+              "value": "You have a +1 bonus to attack and damage rolls made with this magic weapon.",
+              "isInline": false
+            },
+            {
+              "name": "Butcher’s Bid",
+              "value": "Once per turn when you roll damage for a melee attack with a weapon, you can reroll the weapon’s damage dice. If you do so, you must use the second total.\nYour weapon attacks that deal slashing damage score a critical hit on a roll of 19 or 20 on the d20.",
+              "isInline": false
+            },
+            {
+              "name": "Heavy Weapon Mastery",
+              "value": "When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency Bonus.",
+              "isInline": false
+            },
+            {
+              "name": "Hamstring Blow",
+              "value": "The target’s Speed is reduced by 15 feet until the start of your next turn. A target can be affected by only one Hamstring Blow at a time—the most recent one.",
+              "isInline": false
+            }
+          ],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "1031967502214897664",
+            "name": "NekoBday",
+            "code": "NekoBday",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/1031967502214897664.png"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1324026197382004778",
+              "name": "onecephalopodinthreetrenchcoats",
+              "discriminator": "0000",
+              "nickname": "Haldaal [7] || S.J the 2nd",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7",
+            "code": "regional_indicator_b",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1324026197382004778",
+              "name": "onecephalopodinthreetrenchcoats",
+              "discriminator": "0000",
+              "nickname": "Haldaal [7] || S.J the 2nd",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEE",
+            "code": "regional_indicator_i",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ee.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1324026197382004778",
+              "name": "onecephalopodinthreetrenchcoats",
+              "discriminator": "0000",
+              "nickname": "Haldaal [7] || S.J the 2nd",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF8",
+            "code": "regional_indicator_s",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f8.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1324026197382004778",
+              "name": "onecephalopodinthreetrenchcoats",
+              "discriminator": "0000",
+              "nickname": "Haldaal [7] || S.J the 2nd",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDED",
+            "code": "regional_indicator_h",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ed.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1324026197382004778",
+              "name": "onecephalopodinthreetrenchcoats",
+              "discriminator": "0000",
+              "nickname": "Haldaal [7] || S.J the 2nd",
+              "color": "#D0D1FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1324026197382004778/aa476db6912d6a3568545296036b9b0d.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1327858919946715187",
+      "type": "Default",
+      "timestamp": "2025-01-11T20:37:16.941-08:00",
+      "timestampEdited": "2025-01-11T20:37:17.488-08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Combat ended.",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1328528913797742704",
+      "type": "Default",
+      "timestamp": "2025-01-13T16:59:35.923-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```\n​\n```",
+      "author": {
+        "id": "261302296103747584",
+        "name": "Avrae",
+        "discriminator": "6944",
+        "nickname": "Avrae",
+        "color": "#FFD670",
+        "isBot": true,
+        "roles": [
+          {
+            "id": "1033514863005274203",
+            "name": "Bots",
+            "color": "#FFD670",
+            "position": 53
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031065449682718763",
+            "name": "Bot: Avrae",
+            "color": null,
+            "position": 10
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 37
+}

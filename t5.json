@@ -1,0 +1,126 @@
+{
+  "guild": {
+    "id": "1031055347319832666",
+    "name": "The Northern Lights Province",
+    "iconUrl": "https://cdn.discordapp.com/icons/1031055347319832666/77621d4d54ceedf6a014452bb48adb19.png?size=512"
+  },
+  "channel": {
+    "id": "1103377012359446571",
+    "type": "GuildTextChat",
+    "categoryId": "1103377001601060884",
+    "category": "South Island",
+    "name": "swamp",
+    "topic": null
+  },
+  "dateRange": {
+    "after": "2024-12-06T00:00:00-08:00",
+    "before": "2024-12-11T00:00:00-08:00"
+  },
+  "exportedAt": "2025-09-29T00:53:26.0470938-07:00",
+  "messages": [
+    {
+      "id": "1315035216221311086",
+      "type": "ThreadCreated",
+      "timestamp": "2024-12-07T11:20:27.72-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Started a thread.",
+      "author": {
+        "id": "1184317249213968414",
+        "name": "rnietzsche2",
+        "discriminator": "0000",
+        "nickname": "Flapjacks-over-Eggs [19] || RNie",
+        "color": "#DEAAFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066230740398220",
+            "name": "Tier 4",
+            "color": "#DEAAFF",
+            "position": 52
+          },
+          {
+            "id": "1054066228727124099",
+            "name": "Tier 3",
+            "color": "#D8BBFF",
+            "position": 51
+          },
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054266800814161970",
+            "name": "any pronouns",
+            "color": null,
+            "position": 38
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1403397338663223306",
+            "name": "Looking for Raid",
+            "color": null,
+            "position": 21
+          },
+          {
+            "id": "1079975967889567828",
+            "name": "Looking for Tier 4",
+            "color": null,
+            "position": 18
+          },
+          {
+            "id": "1100272824180035584",
+            "name": "2nd Account",
+            "color": null,
+            "position": 13
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1184317249213968414/27bb4e328288dc23ef2232677f2d104e.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": null,
+        "channelId": "1315035216221311086",
+        "guildId": "1031055347319832666"
+      },
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 1
+}
