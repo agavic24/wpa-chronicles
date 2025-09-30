@@ -5,40 +5,46 @@
     "iconUrl": "https://cdn.discordapp.com/icons/1031055347319832666/77621d4d54ceedf6a014452bb48adb19.png?size=512"
   },
   "channel": {
-    "id": "1031296364979695638",
+    "id": "1031296365659177082",
     "type": "GuildTextChat",
     "categoryId": "1031296362626695190",
     "category": "City of Lights",
-    "name": "the-caravansary",
+    "name": "the-borealis",
     "topic": null
   },
   "dateRange": {
-    "after": "2025-02-23T00:00:00-08:00",
-    "before": "2025-02-26T00:00:00-08:00"
+    "after": "2025-02-22T00:00:00-08:00",
+    "before": "2025-02-24T00:00:00-08:00"
   },
-  "exportedAt": "2025-09-29T01:03:21.0038743-07:00",
+  "exportedAt": "2025-09-29T23:12:01.9667775-07:00",
   "messages": [
     {
-      "id": "1343274831797289082",
+      "id": "1343249317674352680",
       "type": "Default",
-      "timestamp": "2025-02-23T09:34:36.74-08:00",
-      "timestampEdited": null,
+      "timestamp": "2025-02-23T07:53:13.699-08:00",
+      "timestampEdited": "2025-02-23T08:05:04.076-08:00",
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "```\n​\n```",
+      "content": "*Quinn walked into the borealis with about as much energy as a tortoise. All the walking and fighting had caught up to her the previous night and she didn't think she was going to be able to get up and walk. But thankfully, after some protest, she was able to get her body off the mattress and make her way to the borealis for some food that would likely stir her energy. She walked into the building with a yawn, ordering some oysters and water before slumping down in a larger booth and beginning to eat, keeping her eyes scanning the floor for her companions.*",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -47,13 +53,43 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
             "color": null,
-            "position": 10
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -63,26 +99,32 @@
       "inlineEmojis": []
     },
     {
-      "id": "1343594267322482769",
+      "id": "1343251294126870580",
       "type": "Default",
-      "timestamp": "2025-02-24T06:43:56.104-08:00",
+      "timestamp": "2025-02-23T08:01:04.922-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "```\n​\n```",
+      "content": "*Aillig walks in and immediately scans the room, looking for someone. Seeing Quinn, he nods and heads to the bar to order breakfast. Holding a mug of coffee, he strides over and folds his tall thin frame into the opposite bench.* \"Manage to get any rest?\" *He asks before taking a sip and wincing at the heat.*",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "336938667971051531",
+        "name": "sinforge.",
+        "discriminator": "0000",
+        "nickname": "Aillig MacCaird [7] || Sinforge",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -91,13 +133,49 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
             "color": null,
-            "position": 10
+            "position": 40
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1223845294228377692",
+            "name": "LFG: Geoguesser",
+            "color": null,
+            "position": 17
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336938667971051531/8f8b578384d3d6b637115fb6f5084c5c.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -107,13 +185,168 @@
       "inlineEmojis": []
     },
     {
-      "id": "1343603904566263890",
-      "type": "ThreadCreated",
-      "timestamp": "2025-02-24T07:22:13.802-08:00",
+      "id": "1343252238772207636",
+      "type": "Default",
+      "timestamp": "2025-02-23T08:04:50.143-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "Started a thread.",
+      "content": "*An older human with a broad, hooked nose and slightly crooked teeth enters the tavern with an air of quiet confidence.*",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1343252238503641188",
+          "url": "https://cdn.discordapp.com/attachments/1031296365659177082/1343252238503641188/Raskar.jpg?ex=68dca862&is=68db56e2&hm=8591ed323569fb83416652742f285ebf69e31c3d4466a1140df82e591f9a333e&",
+          "fileName": "Raskar.jpg",
+          "fileSizeBytes": 120365
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343252778344120420",
+      "type": "Default",
+      "timestamp": "2025-02-23T08:06:58.787-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Quinn sees Aillig and gives a little wave with her free hand as her other holds and oyster. She's finished eating it by the time he joins her.* \"I think I slept like a log and I'm still tired,\" *she says with a grin.* \"What about you?\"",
+      "author": {
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
+            "color": null,
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343253363684278332",
+      "type": "Default",
+      "timestamp": "2025-02-23T08:09:18.343-08:00",
+      "timestampEdited": "2025-02-23T08:09:30.088-08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*The man scans the room until he finds Aillig and Quinn and steps up to the table, resting a gloved hand upon the back of the booth. With a little smirk tugging at his lips he interrupts...*\n\"Ah, what an utterly charming establishment. Rustic, with just the right touch of... lingering ale fumes. Quaint, truly.\"",
       "author": {
         "id": "705249468928360609",
         "name": "eiger415",
@@ -172,34 +405,35 @@
       "stickers": [],
       "reactions": [],
       "mentions": [],
-      "reference": {
-        "messageId": null,
-        "channelId": "1343603904566263890",
-        "guildId": "1031055347319832666"
-      },
       "inlineEmojis": []
     },
     {
-      "id": "1343611220221235231",
+      "id": "1343255786725441626",
       "type": "Default",
-      "timestamp": "2025-02-24T07:51:17.99-08:00",
+      "timestamp": "2025-02-23T08:18:56.041-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "",
+      "content": "*Quinn is about to eat again when an unfamiliar man approaches the table and speaks. She closes her mouth and sets her food down, raising a brow at him.* \"Uhh, can we help you?\"",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -208,299 +442,43 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
             "color": null,
-            "position": 10
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [
-        {
-          "title": "Saba Ti makes a Stealth check!",
-          "url": null,
-          "timestamp": null,
-          "description": "1d20 (15) + 3 = `18`",
-          "color": "#07EAA9",
-          "thumbnail": {
-            "url": "https://images-ext-1.discordapp.net/external/2sjX19IBpCn37nYQR-qmD_vX9YD4RPwJvoN0EpVktXA/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/44268/502/1581111423-132311027.jpeg",
-            "width": 1177,
-            "height": 1037
-          },
-          "images": [],
-          "fields": [],
-          "inlineEmojis": []
-        }
-      ],
-      "stickers": [],
-      "reactions": [],
-      "mentions": [],
-      "inlineEmojis": []
-    },
-    {
-      "id": "1343615512650842123",
-      "type": "Default",
-      "timestamp": "2025-02-24T08:08:21.385-08:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
-        "roles": [
-          {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
-          },
-          {
-            "id": "1031277823404560404",
-            "name": "Player",
-            "color": "#A9DEF9",
-            "position": 48
-          },
-          {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
-            "color": null,
-            "position": 10
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [
-        {
-          "title": "Evagar Moran makes a Deception check!",
-          "url": null,
-          "timestamp": null,
-          "description": "1d20 (14) + 5 = `19`",
-          "thumbnail": {
-            "url": "https://images-ext-1.discordapp.net/external/Wm6O-VW2R0eEadLUjKC8ny-YddnSCeICa1Ss9v-5spk/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/47139/625/1581111423-141004615.jpeg",
-            "width": 1024,
-            "height": 1024
-          },
-          "images": [],
-          "fields": [],
-          "inlineEmojis": []
-        }
-      ],
-      "stickers": [],
-      "reactions": [],
-      "mentions": [],
-      "inlineEmojis": []
-    },
-    {
-      "id": "1343616318015934495",
-      "type": "Default",
-      "timestamp": "2025-02-24T08:11:33.399-08:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
-        "roles": [
-          {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
-          },
-          {
-            "id": "1031277823404560404",
-            "name": "Player",
-            "color": "#A9DEF9",
-            "position": 48
-          },
-          {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
-            "color": null,
-            "position": 10
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [
-        {
-          "title": "Captain Rolland makes an Insight check!",
-          "url": null,
-          "timestamp": null,
-          "description": "1d20 (14) + 0 = `14`",
-          "color": "#7C134C",
-          "images": [],
-          "fields": [],
-          "inlineEmojis": []
-        }
-      ],
-      "stickers": [],
-      "reactions": [],
-      "mentions": [],
-      "inlineEmojis": []
-    },
-    {
-      "id": "1343616396105613323",
-      "type": "Default",
-      "timestamp": "2025-02-24T08:11:52.017-08:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
-        "roles": [
-          {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
-          },
-          {
-            "id": "1031277823404560404",
-            "name": "Player",
-            "color": "#A9DEF9",
-            "position": 48
-          },
-          {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
-            "color": null,
-            "position": 10
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [
-        {
-          "title": "Captain Rolland attacks with a Tactical Mind!",
-          "url": null,
-          "timestamp": null,
-          "description": "",
-          "color": "#CFD6AE",
-          "footer": {
-            "text": "<No Target>: Dealt 4 damage!"
-          },
-          "images": [],
-          "fields": [
-            {
-              "name": "Meta",
-              "value": "**Damage**: 1d10 (4) = `4`",
-              "isInline": false
-            },
-            {
-              "name": "Effect",
-              "value": "When you fail an ability check, you can expend a use of Second Wind, and instead of regaining HP, you roll **1d10** and add the result to the ability check. If the check still fails, this use of Second Wind isn’t expended.",
-              "isInline": false
-            }
-          ],
-          "inlineEmojis": []
-        }
-      ],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83D\uDE39",
-            "code": "joy_cat",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f639.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "487087366461325314",
-              "name": "faislittlewhiteraven5129",
-              "discriminator": "0000",
-              "nickname": "FaisLittleWhiteRaven",
-              "color": null,
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/487087366461325314/41bf6bc304b36c33c4d060c6712bdc1b.png?size=512"
-            }
-          ]
-        },
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83E\uDD72",
-            "code": "smiling_face_with_tear",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f972.svg"
-          },
-          "count": 1,
-          "users": [
-            {
-              "id": "487087366461325314",
-              "name": "faislittlewhiteraven5129",
-              "discriminator": "0000",
-              "nickname": "FaisLittleWhiteRaven",
-              "color": null,
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/487087366461325314/41bf6bc304b36c33c4d060c6712bdc1b.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": [],
-      "inlineEmojis": []
-    },
-    {
-      "id": "1343716613798756444",
-      "type": "Default",
-      "timestamp": "2025-02-24T14:50:05.777-08:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "```\n​\n```",
-      "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
-        "roles": [
-          {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
-          },
-          {
-            "id": "1031277823404560404",
-            "name": "Player",
-            "color": "#A9DEF9",
-            "position": 48
-          },
-          {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
-            "color": null,
-            "position": 10
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -510,26 +488,32 @@
       "inlineEmojis": []
     },
     {
-      "id": "1343763400852766903",
+      "id": "1343256690417598484",
       "type": "Default",
-      "timestamp": "2025-02-24T17:56:00.68-08:00",
+      "timestamp": "2025-02-23T08:22:31.498-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "```\n​\n```",
+      "content": "\"You know, it is a rare pleasure to dine in such esteemed company. Aillig, Quinn... surely you won’t deny an old friend the courtesy of a shared meal?\"\n*He pulls up a chair and settles himself with effortless grace while signaling bar keep for a cup of tea.*\n\n\"Though I must admit, I am positively wounded you did not greet me with the usual enthusiasm. Have I grown so unremarkable in my age, or is it simply the early hour clouding your wits?\"",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -538,13 +522,31 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
             "color": null,
-            "position": 10
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -554,26 +556,32 @@
       "inlineEmojis": []
     },
     {
-      "id": "1343778471662321775",
+      "id": "1343258267907919953",
       "type": "Default",
-      "timestamp": "2025-02-24T18:55:53.841-08:00",
+      "timestamp": "2025-02-23T08:28:47.601-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "",
+      "content": "*Quinn studies the man for a few long moments. Nothing was coming to mind, but maybe it* was *just morning amnesia. However, even after another moment, she shakes her head, taking a long drink of her water to hopefully jog her memory.* \"I can't say it's *not* merely the time causing my forgetfulness but I also can't say that I remember you in general. Have we played dice?\"",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -582,134 +590,43 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
             "color": null,
-            "position": 10
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [
-        {
-          "title": "Idalia Vyrael makes an Insight check!",
-          "url": null,
-          "timestamp": null,
-          "description": "1d20 (**1**) + 5 = `6`",
-          "color": "#978851",
-          "thumbnail": {
-            "url": "https://images-ext-1.discordapp.net/external/pva-xIacGzY8WY96pEVBcuoQ7ervFisiX5Ke3TceJGw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/47475/963/1581111423-138540404.jpeg",
-            "width": 2324,
-            "height": 2316
-          },
-          "images": [],
-          "fields": [],
-          "inlineEmojis": []
-        }
-      ],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "1068991625256247467",
-            "name": "KannaInspect",
-            "code": "KannaInspect",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.discordapp.com/emojis/1068991625256247467.png"
-          },
-          "count": 2,
-          "users": [
-            {
-              "id": "487087366461325314",
-              "name": "faislittlewhiteraven5129",
-              "discriminator": "0000",
-              "nickname": "FaisLittleWhiteRaven",
-              "color": null,
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/487087366461325314/41bf6bc304b36c33c4d060c6712bdc1b.png?size=512"
-            },
-            {
-              "id": "710504522732142612",
-              "name": "kweenchi",
-              "discriminator": "0000",
-              "nickname": "Psyche [5] || Chi \uD83E\uDE70",
-              "color": "#60D394",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/710504522732142612/avatars/1e496568e9e3a7fc4d1ca34bc82221cb.png?size=512"
-            }
-          ]
-        },
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83E\uDD23",
-            "code": "rofl",
-            "isAnimated": false,
-            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f923.svg"
-          },
-          "count": 2,
-          "users": [
-            {
-              "id": "487087366461325314",
-              "name": "faislittlewhiteraven5129",
-              "discriminator": "0000",
-              "nickname": "FaisLittleWhiteRaven",
-              "color": null,
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/avatars/487087366461325314/41bf6bc304b36c33c4d060c6712bdc1b.png?size=512"
-            },
-            {
-              "id": "710504522732142612",
-              "name": "kweenchi",
-              "discriminator": "0000",
-              "nickname": "Psyche [5] || Chi \uD83E\uDE70",
-              "color": "#60D394",
-              "isBot": false,
-              "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/710504522732142612/avatars/1e496568e9e3a7fc4d1ca34bc82221cb.png?size=512"
-            }
-          ]
-        }
-      ],
-      "mentions": [],
-      "inlineEmojis": []
-    },
-    {
-      "id": "1343812497420849225",
-      "type": "Default",
-      "timestamp": "2025-02-24T21:11:06.214-08:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "```\n​\n```",
-      "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
-        "roles": [
-          {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
-          },
-          {
-            "id": "1031277823404560404",
-            "name": "Player",
-            "color": "#A9DEF9",
-            "position": 48
-          },
-          {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
-            "color": null,
-            "position": 10
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -719,26 +636,32 @@
       "inlineEmojis": []
     },
     {
-      "id": "1343867221495119895",
+      "id": "1343259995860504626",
       "type": "Default",
-      "timestamp": "2025-02-25T00:48:33.45-08:00",
+      "timestamp": "2025-02-23T08:35:39.577-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "",
+      "content": "*Aillig quirks and eyebrow as he studies the man.* \"I rarely forget a face, important in my past line of work, but I must admit to not being able to place you, friend. Did we perhaps meet in Mirewatch? The lighting in that tavern isn't great.\"",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "336938667971051531",
+        "name": "sinforge.",
+        "discriminator": "0000",
+        "nickname": "Aillig MacCaird [7] || Sinforge",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -747,73 +670,49 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
             "color": null,
-            "position": 10
+            "position": 40
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1223845294228377692",
+            "name": "LFG: Geoguesser",
+            "color": null,
+            "position": 17
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [
-        {
-          "title": "Felix makes a History check!",
-          "url": null,
-          "timestamp": null,
-          "description": "1d20 (7) - 1 = `6`",
-          "color": "#48782D",
-          "thumbnail": {
-            "url": "https://images-ext-1.discordapp.net/external/-z2nhmY240uDJ4e7J4On0Q6KL72WzCIbJqFmZjg0cpY/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/17/464/636377891128895915.jpeg",
-            "width": 256,
-            "height": 256
-          },
-          "images": [],
-          "fields": [],
-          "inlineEmojis": []
-        }
-      ],
-      "stickers": [],
-      "reactions": [],
-      "mentions": [],
-      "inlineEmojis": []
-    },
-    {
-      "id": "1344083092259737673",
-      "type": "Default",
-      "timestamp": "2025-02-25T15:06:21.051-08:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "```\n​\n```",
-      "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
-        "roles": [
-          {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
-          },
-          {
-            "id": "1031277823404560404",
-            "name": "Player",
-            "color": "#A9DEF9",
-            "position": 48
-          },
-          {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
-            "color": null,
-            "position": 10
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336938667971051531/8f8b578384d3d6b637115fb6f5084c5c.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -823,26 +722,32 @@
       "inlineEmojis": []
     },
     {
-      "id": "1344088300255969352",
+      "id": "1343260602474434630",
       "type": "Default",
-      "timestamp": "2025-02-25T15:27:02.734-08:00",
+      "timestamp": "2025-02-23T08:38:04.205-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "",
+      "content": "\"Oh, come now, must I truly spell it out for you? You stare as though I were a ghost—or worse, an uninvited guest.\"\n*He leans back, feigning offense, before reaching for the nearest mug and inspecting it with exaggerated scrutiny.*\n\n\"They say you can see a person's soul within their eyes.\"\n*His gaze flickers between them.  And then he closes his eyes, taking a steady breath.*\n\n*When they open again the are no longer brown, but instead the deep, knowing pale blue eyes of Ra’vek. In the familiar, warm dwarven voice they’ve heard through countless nights of revelry, battle, and whispered plans, he speaks once more.*\n\"It’s been far too long, hasn’t it?\"",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -851,148 +756,31 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
             "color": null,
-            "position": 10
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [
-        {
-          "title": "Idalia Vyrael makes a Stealth check!",
-          "url": null,
-          "timestamp": null,
-          "description": "1d20 (9) + 7 = `16`",
-          "color": "#9A90A8",
-          "thumbnail": {
-            "url": "https://images-ext-1.discordapp.net/external/pva-xIacGzY8WY96pEVBcuoQ7ervFisiX5Ke3TceJGw/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/47475/963/1581111423-138540404.jpeg",
-            "width": 2324,
-            "height": 2316
-          },
-          "images": [],
-          "fields": [],
-          "inlineEmojis": []
-        }
-      ],
-      "stickers": [],
-      "reactions": [],
-      "mentions": [],
-      "inlineEmojis": []
-    },
-    {
-      "id": "1344090639381565450",
-      "type": "Default",
-      "timestamp": "2025-02-25T15:36:20.425-08:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
-        "roles": [
-          {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
-          },
-          {
-            "id": "1031277823404560404",
-            "name": "Player",
-            "color": "#A9DEF9",
-            "position": 48
-          },
-          {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
-            "color": null,
-            "position": 10
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
-      },
-      "attachments": [],
-      "embeds": [
-        {
-          "title": "",
-          "url": null,
-          "timestamp": null,
-          "description": "",
-          "color": "#80864C",
-          "author": {
-            "name": "Jarren",
-            "url": null
-          },
-          "thumbnail": {
-            "url": "https://images-ext-1.discordapp.net/external/esTyv4cfm3289LvyhKoiuChAoS2DgCMrSm4EhbuxF1A/%3Fwidth%3D150%26height%3D150%26fit%3Dcrop%26quality%3D95%26auto%3Dwebp/https/www.dndbeyond.com/avatars/17/310/636377871028699922.jpeg",
-            "width": 256,
-            "height": 256
-          },
-          "images": [],
-          "fields": [
-            {
-              "name": "Travel Tokens",
-              "value": "◉◉〇 (-1)",
-              "isInline": true
-            },
-            {
-              "name": "Description",
-              "value": "Traveling to a wilderness zone requires one travel token.\nYou have three travel tokens, which reset on a long rest. \nEach time you take a short rest, you regain one travel token. You can regain a number of travel tokens equal to your proficency bonus between each long rest.\nUse `!travel` to travel.",
-              "isInline": false
-            }
-          ],
-          "inlineEmojis": []
-        }
-      ],
-      "stickers": [],
-      "reactions": [],
-      "mentions": [],
-      "inlineEmojis": []
-    },
-    {
-      "id": "1344116861448486944",
-      "type": "Default",
-      "timestamp": "2025-02-25T17:20:32.253-08:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "```\n​\n```",
-      "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
-        "roles": [
-          {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
-          },
-          {
-            "id": "1031277823404560404",
-            "name": "Player",
-            "color": "#A9DEF9",
-            "position": 48
-          },
-          {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
-            "color": null,
-            "position": 10
-          }
-        ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -1002,26 +790,32 @@
       "inlineEmojis": []
     },
     {
-      "id": "1344179615249334294",
+      "id": "1343261559170011136",
       "type": "Default",
-      "timestamp": "2025-02-25T21:29:53.925-08:00",
+      "timestamp": "2025-02-23T08:41:52.299-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "```\n​\n```",
+      "content": "*Giving a little snort, Aillig shakes his head.* \"New trick?\"",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "336938667971051531",
+        "name": "sinforge.",
+        "discriminator": "0000",
+        "nickname": "Aillig MacCaird [7] || Sinforge",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -1030,13 +824,49 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
             "color": null,
-            "position": 10
+            "position": 40
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1223845294228377692",
+            "name": "LFG: Geoguesser",
+            "color": null,
+            "position": 17
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336938667971051531/8f8b578384d3d6b637115fb6f5084c5c.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -1046,26 +876,32 @@
       "inlineEmojis": []
     },
     {
-      "id": "1344182109207793777",
+      "id": "1343262212390780989",
       "type": "Default",
-      "timestamp": "2025-02-25T21:39:48.531-08:00",
+      "timestamp": "2025-02-23T08:44:28.039-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "@Winston [5] || Surf ²  :game_die:\n**Result**: 1d2 (**2**)\n**Total**: 2",
+      "content": "*She blinks, then blinks again, before rubbing her eyes and staring at the man in front of her.* \"It's hard to see souls at...whatever time it is right now.\"",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -1074,110 +910,78 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
             "color": null,
-            "position": 10
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
       },
       "attachments": [],
       "embeds": [],
       "stickers": [],
       "reactions": [],
-      "mentions": [
-        {
-          "id": "1313431570572382241",
-          "name": "surfinpikatwo",
-          "discriminator": "0000",
-          "nickname": "Winston [5] || Surf ²",
-          "color": "#60D394",
-          "isBot": false,
-          "roles": [
-            {
-              "id": "1031277822142066708",
-              "name": "Dungeon Master",
-              "color": "#60D394",
-              "position": 54
-            },
-            {
-              "id": "1054066226458013839",
-              "name": "Tier 2",
-              "color": "#D0D1FF",
-              "position": 50
-            },
-            {
-              "id": "1054066224310534265",
-              "name": "Tier 1",
-              "color": "#C8E7FF",
-              "position": 49
-            },
-            {
-              "id": "1031277823404560404",
-              "name": "Player",
-              "color": "#A9DEF9",
-              "position": 48
-            },
-            {
-              "id": "1031272359069491210",
-              "name": "Member",
-              "color": "#D0F4DE",
-              "position": 47
-            },
-            {
-              "id": "1069777279321915392",
-              "name": "Looking for RP",
-              "color": null,
-              "position": 23
-            },
-            {
-              "id": "1079975875853963345",
-              "name": "Looking for Tier 2",
-              "color": null,
-              "position": 20
-            },
-            {
-              "id": "1100272824180035584",
-              "name": "2nd Account",
-              "color": null,
-              "position": 13
-            }
-          ],
-          "avatarUrl": "https://cdn.discordapp.com/avatars/1313431570572382241/cdee479dfd86b591f0a345a6d09f6ad2.png?size=512"
-        }
-      ],
-      "inlineEmojis": [
-        {
-          "id": "",
-          "name": "\uD83C\uDFB2",
-          "code": "game_die",
-          "isAnimated": false,
-          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3b2.svg"
-        }
-      ]
+      "mentions": [],
+      "inlineEmojis": []
     },
     {
-      "id": "1344206686067494964",
+      "id": "1343262982552948756",
       "type": "Default",
-      "timestamp": "2025-02-25T23:17:28.111-08:00",
+      "timestamp": "2025-02-23T08:47:31.66-08:00",
       "timestampEdited": null,
       "callEndedTimestamp": null,
       "isPinned": false,
-      "content": "```\n​\n```",
+      "content": "*The man closes his yes again, and they turn back to the old man's brown color. He looks to Aillig*\n\"Not a trick, old friend.  I take many forms.\"\n\n*He looks back at them collectively.*\n\"My name is Ra... but for today I am Ra'skar.  You will see Ra'vek again, when the time is right.\"",
       "author": {
-        "id": "261302296103747584",
-        "name": "Avrae",
-        "discriminator": "6944",
-        "nickname": "Avrae",
-        "color": "#FFD670",
-        "isBot": true,
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
         "roles": [
           {
-            "id": "1033514863005274203",
-            "name": "Bots",
-            "color": "#FFD670",
-            "position": 53
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
           },
           {
             "id": "1031277823404560404",
@@ -1186,13 +990,1103 @@
             "position": 48
           },
           {
-            "id": "1031065449682718763",
-            "name": "Bot: Avrae",
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
             "color": null,
-            "position": 10
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
           }
         ],
-        "avatarUrl": "https://cdn.discordapp.com/avatars/261302296103747584/b4926b52f7f1c966e01e25f0b33253f1.png?size=512"
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343263565163003904",
+      "type": "Default",
+      "timestamp": "2025-02-23T08:49:50.565-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Quinn stares. She wasn't dreaming, right? She looks into her cup and sees a reflection. Nope, not a dream. She looks back up at Ra.* \"Okay then, Ra'skar...welcome to breakfast.\" *She gives a wary smile, wanting to accept this form as much as her companion from their travels.* \"Though, you could have told us up front rather than make us look rude.\"",
+      "author": {
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
+            "color": null,
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343264228231876640",
+      "type": "Default",
+      "timestamp": "2025-02-23T08:52:28.653-08:00",
+      "timestampEdited": "2025-02-23T08:52:47.462-08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Just a little amusement for myself, Quinn.  Please take no offense.\"\n*Then, with a small, knowing smile, he places a hand over his heart—a gesture of quiet sincerity.*\n\"You are among the very few who know this truth, and that is no small thing.\"\n\n*He continues...*\n\"I am a changeling, able to shift my flesh as easily as one might change a coat. It is not trickery, nor illusion—simply what I am.\"\n\n*His voice remains gentle, reassuring.*\n\"I never meant deception, only safety. But you, my friends— you have always known the truth of me, even if not the whole of it.\"",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343266079400788098",
+      "type": "Default",
+      "timestamp": "2025-02-23T08:59:50.006-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Aillig's eyes soften a bit* \"People are mistrustful of things that are different. There are contracts that exist as the only thing keeping certain peoples safe from being hunted when all they wish is to be left in peace. I can understand a reluctance to divulge such a thing.\"",
+      "author": {
+        "id": "336938667971051531",
+        "name": "sinforge.",
+        "discriminator": "0000",
+        "nickname": "Aillig MacCaird [7] || Sinforge",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1223845294228377692",
+            "name": "LFG: Geoguesser",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336938667971051531/8f8b578384d3d6b637115fb6f5084c5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343267209291632662",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:04:19.393-08:00",
+      "timestampEdited": "2025-02-23T09:05:48.225-08:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Very true, Aillig. This is not a secret I share lightly.\"\n\n*He smiles and looks up at you both.*\n\"But if there are any souls I would entrust with such a truth, it is you two. After all, if I can't rely on friends who have saved my life countless times, who else would I trust?\"\n\n*He then takes a sip of his tea and places both hands on the table*\n\"Now enough about me.  How have you been?  What are we going to do about that...\"\n*he leans in and whispers...*\n\n\"... that seed.  You have it safe, Aillig?\"",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343267743813730457",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:06:26.833-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"A changeling? I'm surprised you tell us this now, but, well...\" *Quinn wasn't sure what to say about it. She'd never met one before and quite frankly wasn't expecting such an announcement so early in the morning.* \"I appreciate you telling us nonetheless.\" *She looks between Aillig and Ra, waiting for the seed.*",
+      "author": {
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
+            "color": null,
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343268176963702817",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:08:10.104-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Frowning Aillig pats his coat,* \"It is safe, though I am not so sure about myself... there is a sense of weight about the thing, and I'm never sure if I more want to hold it close or fling it away.\"",
+      "author": {
+        "id": "336938667971051531",
+        "name": "sinforge.",
+        "discriminator": "0000",
+        "nickname": "Aillig MacCaird [7] || Sinforge",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1223845294228377692",
+            "name": "LFG: Geoguesser",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336938667971051531/8f8b578384d3d6b637115fb6f5084c5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343268936698957845",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:11:11.239-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Ra'skar looks to Quinn*  \"I know, Quinn.  No more secrets, ok?\"",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343269602158968953",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:13:49.897-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*He then turns to Aillig* \"If it is a burden, I can hold it for us... but it would be good to find a better... container for it. My skills with that vial were only so good.\"\n\n*He looks them both.* \"Any ideas who me might inquire about the truth behind this seed?\"",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343271130898763837",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:19:54.377-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"A trustworthy master druid or priest perhaps. My brief examinations have come up with nothing in my expertise. I had considered construction a puzzle box, but those are made to keep things out, not so much to contain something within.\"",
+      "author": {
+        "id": "336938667971051531",
+        "name": "sinforge.",
+        "discriminator": "0000",
+        "nickname": "Aillig MacCaird [7] || Sinforge",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1223845294228377692",
+            "name": "LFG: Geoguesser",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336938667971051531/8f8b578384d3d6b637115fb6f5084c5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343271329108983839",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:20:41.634-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Quinn shrugged.* \"Only Feligrinn comes to mind for me. But I doubt he'd know too much. A druid may be a good idea though, like Aillig said. They're more knowledgeable when it comes to things of nature.\"",
+      "author": {
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
+            "color": null,
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343272735253467259",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:26:16.885-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "*Ra'skar turns to Quinn*\n\"If I remember, Feligrinn wasn't quite sure what was behind the corruption.  We may be able to ask him more questions but he's quite far away from the city.\"\n\n*He then looks at Aillig*\n\"Perhaps we can stop by the temple here in town to see if anyone there can help.  It is at least rather convenient.  What do you say, shall we saunter over?\"",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343273984552337511",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:31:14.741-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"If it's that close, then sure.\" *Quinn shrugs and begins to shovel down the rest of her breakfast.*",
+      "author": {
+        "id": "297867642083999744",
+        "name": "pumpkincup",
+        "discriminator": "0000",
+        "nickname": "Quinn [7] || Pumpkin",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1031340755710652507",
+            "name": "Server Booster",
+            "color": "#F47FFF",
+            "position": 45
+          },
+          {
+            "id": "1054261274072076318",
+            "name": "she/her",
+            "color": null,
+            "position": 39
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/guilds/1031055347319832666/users/297867642083999744/avatars/0579f04ff97ac940ba9e4eb680ed997f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343274297610731611",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:32:29.38-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\"Worst case, they can tell us nothing, and then we have lost but a bit of time.\"",
+      "author": {
+        "id": "336938667971051531",
+        "name": "sinforge.",
+        "discriminator": "0000",
+        "nickname": "Aillig MacCaird [7] || Sinforge",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261449444302989",
+            "name": "NA East",
+            "color": null,
+            "position": 35
+          },
+          {
+            "id": "1069777279321915392",
+            "name": "Looking for RP",
+            "color": null,
+            "position": 23
+          },
+          {
+            "id": "1072963242726539307",
+            "name": "Looking for Quests",
+            "color": null,
+            "position": 22
+          },
+          {
+            "id": "1079975875853963345",
+            "name": "Looking for Tier 2",
+            "color": null,
+            "position": 20
+          },
+          {
+            "id": "1223845294228377692",
+            "name": "LFG: Geoguesser",
+            "color": null,
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/336938667971051531/8f8b578384d3d6b637115fb6f5084c5c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1343274860436131945",
+      "type": "Default",
+      "timestamp": "2025-02-23T09:34:43.568-08:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> *The party finishes their breakfast and departs.  Hopefully the day will bring some answers*",
+      "author": {
+        "id": "705249468928360609",
+        "name": "eiger415",
+        "discriminator": "0000",
+        "nickname": "Ra’vek [8] || Eiger",
+        "color": "#D0D1FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1054066226458013839",
+            "name": "Tier 2",
+            "color": "#D0D1FF",
+            "position": 50
+          },
+          {
+            "id": "1054066224310534265",
+            "name": "Tier 1",
+            "color": "#C8E7FF",
+            "position": 49
+          },
+          {
+            "id": "1031277823404560404",
+            "name": "Player",
+            "color": "#A9DEF9",
+            "position": 48
+          },
+          {
+            "id": "1031272359069491210",
+            "name": "Member",
+            "color": "#D0F4DE",
+            "position": 47
+          },
+          {
+            "id": "1054261183739351070",
+            "name": "he/him",
+            "color": null,
+            "position": 40
+          },
+          {
+            "id": "1054261388815646793",
+            "name": "NA West",
+            "color": null,
+            "position": 36
+          },
+          {
+            "id": "1075198949348085891",
+            "name": "No XP",
+            "color": null,
+            "position": 15
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/705249468928360609/aa9f1add1bcf87b589dac88a1f606625.png?size=512"
       },
       "attachments": [],
       "embeds": [],
@@ -1202,5 +2096,5 @@
       "inlineEmojis": []
     }
   ],
-  "messageCount": 19
+  "messageCount": 27
 }
