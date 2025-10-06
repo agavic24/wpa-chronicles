@@ -5,22 +5,24 @@
 -- Final logic        
 CREATE OR REPLACE TABLE FINAL_MESSAGES AS
 SELECT 
-    1 + SUM(CASE WHEN MESSAGE = 'Start Init' OR MESSAGE = 'End Init' OR MESSAGE = 'New Scene' 
+    SUM(CASE WHEN MESSAGE = 'Start Init' OR MESSAGE = 'End Init' OR MESSAGE = 'New Scene' 
                  OR MOD(THREAD_MSG_NUM, 1000) = 10 -- NEW LOCATION MARKER
-            THEN 1 ELSE 0 END) OVER (ORDER BY MSG_ID ROWS UNBOUNDED PRECEDING) AS SESSION_NUM,
-    MSG_ID,
+            THEN 1 ELSE 0 END) OVER (ORDER BY THREAD_MSG_NUM ROWS UNBOUNDED PRECEDING) AS SESSION_NUM,
+    THREAD_MSG_NUM,
     LOCATION_NAME,
     CHARACTER_NAME,
     MESSAGE    
 FROM STG_MESSAGES
-ORDER BY MSG_ID
+ORDER BY THREAD_MSG_NUM
 ;
 
+SELECT SESSION_NUM, COUNT(*) AS MESSAGE_COUNT
+FROM FINAL_MESSAGES GROUP BY ALL ORDER BY SESSION_NUM
+;
 
-SELECT THREAD_ID, COUNT(*) AS MESSAGE_COUNT
-FROM STG_MESSAGES
-GROUP BY THREAD_ID
-ORDER BY THREAD_ID
+SELECT *
+FROM FINAL_MESSAGES
+ORDER BY THREAD_MSG_NUM
 ;
 
 
@@ -47,11 +49,13 @@ ORDER BY THREAD_MSG_NUM
 ;
 
 
+
 SELECT THREAD_MSG_NUM, LOCATION_NAME, MESSAGE
 FROM STG_MESSAGES 
-WHERE THREAD_MSG_NUM >= 9005985
+WHERE THREAD_MSG_NUM >= 17005400
+
 ORDER BY THREAD_MSG_NUM
-limit 200;
+limit 300;
 
 8004590 -- NEW SCENE
 
@@ -60,5 +64,53 @@ FROM WPA.RAW_VIEWS.v_thread17_messages
 --WHERE MSG_ID > 1345160368225255505 AND MSG_ID < 1351589087035002950
 ;
 
+WITH SESS AS (
+    -- Your query that aggregates events into a single string
+    SELECT 
+        SESSION_NUM
+        , LISTAGG(        
+            CONCAT('Msg #: ', THREAD_MSG_NUM, ' | Location: ', LOCATION_NAME, ' | Persona: ', CHARACTER_NAME, ' | Message: ', MESSAGE), 
+            '\n'
+            ) WITHIN GROUP (ORDER BY THREAD_MSG_NUM) AS SESSION_LOG
+        , CONCAT(
+            'You are a fantasy chronicler creating a D&D session summary. ',
+            'Analyze the following session events and create a structured scroll entry.\n\n',
+            'Use rich, descriptive language to capture the atmosphere and tone of the session. ',
+            'Ensure clarity and coherence, making it engaging for readers. ',
+            'Focus on the most impactful moments and details. ',
+            'Avoid extraneous information. ',
+            'Format the output as a well-structured scroll entry.\n\n',
+            'Required format:\n',
+            '- Session Title: [Create an evocative title]\n',
+            '- Location(s): [Extract all locations mentioned]\n',
+            '- Key NPCs Encountered: [List NPCs with brief descriptions]\n',
+            '- Party Members Present: [List player characters]\n',
+            '- Major Events Summary: [Narrative overview of what happened]\n',
+            '- Loot & Rewards: [Items, gold, XP mentioned]\n',
+            '- Unresolved Threads: [Open plot hooks or cliffhangers]\n',
+            '- Key Quotes: [Memorable dialogue]\n',
+            '- Casualties/Consequences: [Deaths, injuries, setbacks]\n',
+            '- Maps/Sketches Notes: [References to locations needing maps]\n\n'              
+        ) AS PROMPT
+    FROM FINAL_MESSAGES
+    GROUP BY ALL
+)
+
+SELECT SESSION_NUM
+    , AI_AGG(SESSION_LOG,PROMPT ) AS SESSION_SCROLL
+FROM SESS
+GROUP BY SESSION_NUM
+;
 
 
+
+-- Your query that aggregates events into a single string
+    SELECT 
+        SESSION_NUM,
+        LISTAGG(        
+            CONCAT('Msg #: ', THREAD_MSG_NUM, ' | Location: ', LOCATION_NAME, ' | Persona: ', CHARACTER_NAME, ' | Message: ', MESSAGE), 
+            '\n'
+        ) WITHIN GROUP (ORDER BY THREAD_MSG_NUM) AS event_log
+    FROM FINAL_MESSAGES
+    GROUP BY SESSION_NUM
+    ;
