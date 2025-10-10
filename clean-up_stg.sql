@@ -28,8 +28,10 @@ CASE WHEN LOCATION_NAME = 'City of Lights: the-borealis' THEN 'East Island: City
     ELSE LOCATION_NAME
 END;
 
+DELETE FROM STG_MESSAGES WHERE THREAD_MSG_NUM = 2000380; -- IGNORE
 INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
 VALUES (1, 0, 1000005, '2024-11-27 04:57:10'::TIMESTAMP_NTZ, 'East Island: Autumnal Forest', 'Dungeon Master', '>>> *A band of adventurers begins their journey in the Autumnal Forest, a place of vibrant colors and gentle breezes. As they walk along a winding path, the leaves crunch softly underfoot, and the scent of pine and earth fills the air.*') ;
+UPDATE STG_MESSAGES SET THREAD_MSG_NUM = 100008 WHERE THREAD_MSG_NUM = 1000010;
 
 UPDATE STG_MESSAGES SET LOCATION_NAME = LOCATION_NAME || ' (ENCOUNTER)' WHERE MESSAGE = 'Start Init' AND LOCATION_NAME NOT LIKE '%(ENCOUNTER)%';
 UPDATE STG_MESSAGES SET LOCATION_NAME = 'East Island: Cold Jungle Floor (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 2000380 AND THREAD_MSG_NUM <= 2000890;
@@ -51,7 +53,7 @@ UPDATE STG_MESSAGES SET LOCATION_NAME = 'South Island: Swamp - Feligrinn\'s Home
 INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
 VALUES (9, 0, 9001165, '2025-01-22 08:43:03'::TIMESTAMP_NTZ, 'South Island: Swamp', 'Dungeon Master', 'New Scene');
 DELETE FROM STG_MESSAGES WHERE MESSAGE ILIKE '%Changed the channel name%';
-UPDATE STG_MESSAGES SET LOCATION_NAME = 'South Island: Swamp (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 9001220 AND THREAD_MSG_NUM <= 9001690;
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'South Island: Swamp (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 9001165 AND THREAD_MSG_NUM <= 9001690;
 INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
 VALUES (9, 0, 9001695, '2025-01-24 19:15:02'::TIMESTAMP_NTZ, 'South Island: Swamp', 'Dungeon Master', 'New Scene');
 UPDATE STG_MESSAGES SET LOCATION_NAME = 'South Island: Swamp - Oona\'s Hilltop (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 9001800 AND THREAD_MSG_NUM <= 9004610;
@@ -106,6 +108,13 @@ INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCA
 VALUES (20, 0, 20000055, '2025-03-25 05:51:24'::TIMESTAMP_NTZ, 'East Island: Cold Jungle Canopy (ENCOUNTER)', 'Dungeon Master', 'New Scene');
 UPDATE STG_MESSAGES SET LOCATION_NAME = 'East Island: Cold Jungle Canopy (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 20000055 AND THREAD_MSG_NUM <= 20000210;
 INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (20, 0, 20000215, '2025-03-25 17:38:40'::TIMESTAMP_NTZ, 'East Island: Cold Jungle Canopy', 'Dungeon Master', 'New Scene');
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (20, 0, 20001095, '2025-03-30 08:07:04'::TIMESTAMP_NTZ, 'East Island: Cold Jungle Canopy', 'Dungeon Master', 'New Scene');
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (20, 0, 20001475, '2025-03-31 23:29:42'::TIMESTAMP_NTZ, 'East Island: Cold Jungle Canopy', 'Dungeon Master', 'New Scene');
+
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
 VALUES (20, 0, 20000705, '2025-03-27 14:28:29'::TIMESTAMP_NTZ, 'East Island: Cold Jungle Canopy (ENCOUNTER)', 'Dungeon Master', 'New Scene');
 UPDATE STG_MESSAGES SET LOCATION_NAME = 'East Island: Cold Jungle Canopy (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 20000710 AND THREAD_MSG_NUM <= 20001090;
 INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
@@ -131,6 +140,98 @@ INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCA
 VALUES (21, 0, 21003875, '2025-04-11 11:08:55'::TIMESTAMP_NTZ, 'Mountains: Isanya\'s Spine (ENCOUNTER)', 'Dungeon Master', '> *The noise of the cracking and falling ice, along with the parties yelling floats in the wind... and far above, shapes begin to circle. A screech tears through the cold sky and you see them dive!*
 > 
 (What do you do?)');
-
 UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: Isanya\'s Spine (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 21003870 AND THREAD_MSG_NUM <= 21006780;
 
+UPDATE STG_MESSAGES SET THREAD_MSG_NUM = 21006793, MSG_TIMESTAMP = '2025-04-14 20:32:29'::TIMESTAMP_NTZ WHERE THREAD_MSG_NUM = 21006780;  -- Push back close of encounter to capture final msg
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: Isanya\'s Spine (ENCOUNTER)', MESSAGE = '*Hit after hit, the creature flies higher and higher. She can hear the frustration building from her team as she pulls an arrow from its quiver. She takes a deep breath in, focusing her sight when she hears a whisper of words in her ear, a small bit of encouragement. A glint comes to her eye as she releases her breath, the arrow flying from her bow in a straight line at the fleeing beast. The tip pierces its body and it falls, shadows flaring out like a firework as it descends, until those shadows fade into the wind.*' WHERE THREAD_MSG_NUM = 21006790; -- Update to capture final action of encounter
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21006796, '2025-04-14 20:32:28'::TIMESTAMP_NTZ, 'Mountains: Isanya\'s Spine', 'Quinn', '*Quinn watches the sky, another arrow nocked just in case, but when there\'s nothing but cheers and otherwise quiet, she can take a breath and lower her weapon, sheathing her arrow.* "Everyone okay?" *She asks, turning to face the group.*');
+DELETE FROM STG_MESSAGES WHERE THREAD_MSG_NUM = 21007730;  -- IGNORE
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: Isanya\'s Spine' WHERE THREAD_MSG_NUM >= 21006796 AND THREAD_MSG_NUM <= 21007870;
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21007875, '2025-04-15 20:57:37'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra', 'Dungeon Master', 'New Scene');
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra' WHERE THREAD_MSG_NUM >= 21007875 AND THREAD_MSG_NUM <= 21009370;
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21009375, '2025-04-18 08:34:10'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - Shrine of History', 'Dungeon Master', 'New Scene');
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra - Shrine of History' WHERE THREAD_MSG_NUM >= 21009375 AND THREAD_MSG_NUM <= 21009640;
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21009645, '2025-04-19 07:28:32'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra', 'Dungeon Master', 'New Scene');
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra' WHERE THREAD_MSG_NUM >= 21009650 AND THREAD_MSG_NUM <= 21010260;
+UPDATE STG_MESSAGES SET THREAD_MSG_NUM = 21010265, MSG_TIMESTAMP = '2025-04-22 07:32'::TIMESTAMP_NTZ WHERE THREAD_MSG_NUM = 21010290;  -- Push back start of encounter to capture first messages
+UPDATE STG_MESSAGES SET THREAD_MSG_NUM = 21011615, MSG_TIMESTAMP = '2025-04-24 13:50:01'::TIMESTAMP_NTZ WHERE THREAD_MSG_NUM = 21011630;  -- Push back end of encounter to capture final messages
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 21010265 AND THREAD_MSG_NUM <= 21011620;
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra' WHERE THREAD_MSG_NUM >= 21011640 AND THREAD_MSG_NUM <= 21012370;
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21012375, '2025-04-26 17:01:45'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Inner Sanctum', 'Dungeon Master', 'New Scene');
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra - The Inner Sanctum' WHERE THREAD_MSG_NUM >= 21012375 AND THREAD_MSG_NUM <= 21012980;
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21015475, '2025-05-01 07:22:16'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Inner Sanctum (ENCOUNTER)', 'Dungeon Master', 'End Init');
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra - The Inner Sanctum (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 21012990 AND THREAD_MSG_NUM <= 21015475;
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra - The Ritual of the First Light' WHERE THREAD_MSG_NUM >= 21015480 AND THREAD_MSG_NUM <= 21016590;
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21016595, '2025-05-05 11:46:35'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Inner Sanctum', 'Dungeon Master', 'New Scene');
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra - The Inner Sanctum' WHERE THREAD_MSG_NUM >= 21016595 AND THREAD_MSG_NUM <= 21018620;
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21018625, '2025-05-12 07:37:04'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Catacombs', 'Dungeon Master', 'New Scene');
+DELETE FROM STG_MESSAGES WHERE THREAD_MSG_NUM BETWEEN 21020730 AND 21021590; -- IGNORE
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra - The Catacombs' WHERE THREAD_MSG_NUM >= 21018625 AND THREAD_MSG_NUM <= 21021590;
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21021595, '2025-05-22 19:01:38'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Ice Chamber', 'Dungeon Master', 'New Scene');
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra - The Ice Chamber' WHERE THREAD_MSG_NUM >= 21021595 AND THREAD_MSG_NUM <= 21021910;
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21021602, '2025-05-22 19:01:40'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Ice Chamber (ENCOUNTER)', 'Dungeon Master', 'Start Init');
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21021604, '2025-05-22 19:01:42'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Ice Chamber (ENCOUNTER)', 'Dungeon Master', '> *During this time an ominous ritual was coming to a close and the hag\'s latest flesh creation was awakened.*
+> 
+> *A battle ensued, Cala burped out fire, Darias got enlarged, and eventually he party defeated the flesh meld!  The hag didn\'t stick around though and disappeared down a tunnel of huge ice crystals filled with many frozen statues.*');
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21021606, '2025-05-22 19:01:44'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Ice Chamber (ENCOUNTER)', 'Dungeon Master', 'End Init');
+UPDATE STG_MESSAGES SET MESSAGE = '> *With the battle against the flesh meld over, everyone split up.  Cala and Ra\'vek got into a playful tussle.  Quinn heard some clawing sounds but opted to pulled some gnarly teeth instead.  Darias found the hag\'s flesh-bound journals (one especially sticky!); opting to do a thorough read later.  Aillig found the hag\'s lab, along with a stitching table and partial corpse.  Within the room were very organized organ vats and jars, one of which contained a still-beating frost-infused heart.  He grabbed that are rejoined everyone back in the main.*' WHERE THREAD_MSG_NUM = 21021610;  
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21024035, '2025-05-30 14:08:20'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Ice Chamber (ENCOUNTER)', 'Dungeon Master', 'End Init');
+
+INSERT INTO STG_MESSAGES (THREAD_ID, MSG_ID, THREAD_MSG_NUM, MSG_TIMESTAMP, LOCATION_NAME, CHARACTER_NAME, MESSAGE)
+VALUES (21, 0, 21021755, '2025-05-23 17:17:58'::TIMESTAMP_NTZ, 'Mountains: The Sanctuary of Shinra - The Crystal Corridor (ENCOUNTER)', 'Dungeon Master', 'Start Init');
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra - The Crystal Corridor (ENCOUNTER)' WHERE THREAD_MSG_NUM >= 21021755 AND THREAD_MSG_NUM <= 21024035;
+
+SELECT CHARACTER_NAME, MESSAGE 
+FROM WPA.DATA.STG_MESSAGES 
+WHERE LEN(CHARACTER_NAME) <> 3 
+AND CHARACTER_NAME NOT IN ('Aillig', 'Ra', 'Quinn', 'Darias', 'Cala', 'Skye', 'Klymok', 'Mina', 'Mina\'Khor', 'An unknown creature'
+        , 'Dungeon Master', 'Koala', 'Feligrinn', 'Oona', 'Calabaza', 'Flapjacks-over-Eggs', 'Ra\'vek', 'Ra\’vek', 'Saba')
+ORDER BY CHARACTER_NAME;
+
+-- Clean up Character Names
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'Abominable Yeti' WHERE CHARACTER_NAME = 'Abominable';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'Assassin Vine' WHERE CHARACTER_NAME = 'Assassin';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'Black Pudding' WHERE CHARACTER_NAME = 'Black';
+DELETE FROM STG_MESSAGES WHERE CHARACTER_NAME = 'Linked';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'Darias' WHERE CHARACTER_NAME = 'Darias\'s';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'Frost Salamander' WHERE CHARACTER_NAME = 'Frost';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'Giant Boar' WHERE CHARACTER_NAME = 'Giant';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'Ra' WHERE CHARACTER_NAME = 'Misfortune';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'DM' WHERE CHARACTER_NAME = 'Nick';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'Shambling Mound' WHERE CHARACTER_NAME = 'Shambling';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'DM' WHERE CHARACTER_NAME = 'Steadied';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'DM' WHERE CHARACTER_NAME = 'Vexing';
+UPDATE STG_MESSAGES SET CHARACTER_NAME = 'Winter Wolf' WHERE CHARACTER_NAME = 'Winter';
+
+-- Need to update the location for all message with 'End Init' to be the next leading location
+UPDATE STG_MESSAGES AS S
+SET LOCATION_NAME = C.NEXT_LOCATION
+FROM (
+    SELECT THREAD_MSG_NUM,
+           LEAD(LOCATION_NAME) OVER (ORDER BY THREAD_MSG_NUM) AS NEXT_LOCATION
+    FROM STG_MESSAGES
+) AS C
+WHERE S.THREAD_MSG_NUM = C.THREAD_MSG_NUM
+AND S.MESSAGE = 'End Init';  
+
+UPDATE STG_MESSAGES SET LOCATION_NAME = 'Mountains: The Sanctuary of Shinra - Hag Lair' WHERE THREAD_MSG_NUM = 21024035;
+
+
+--Let's see how many locations we have
+SELECT LOCATION_NAME, COUNT(*) AS MSG_COUNT
+FROM WPA.DATA.STG_MESSAGES
+GROUP BY LOCATION_NAME
+ORDER BY MSG_COUNT DESC;
