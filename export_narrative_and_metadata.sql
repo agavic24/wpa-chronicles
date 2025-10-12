@@ -17,7 +17,7 @@ FROM (
         '# Written Path Adventures\n\n' ||
         LISTAGG(
             '## ' || SCENE_TITLE || '\n\n' ||
-            '### ' || PRIMARY_LOCATION || '\n\n' ||
+            '**' || PRIMARY_LOCATION || '**\n\n' ||
             NARRATIVE_TEXT || '\n\n',
             ''
         ) WITHIN GROUP (ORDER BY SCENE_NUM)
