@@ -1,14 +1,16 @@
 -- ============================================================================
--- EXPORT SCENE NARRATIVE TO CSV FORMAT
+-- EXPORT SCENE NARRATIVE AND METADATA TO CSV FORMAT
 -- ============================================================================
--- This query uses COPY INTO to export markdown-formatted output directly to CSV
+-- This query uses COPY INTO to export data directly to CSV files
 -- Output will be written to the WPA.RAW_DATA.RAW_WPA stage
 -- ============================================================================
 
 USE ROLE SYSADMIN;
 USE SCHEMA WPA.DATA;
 
--- Export complete markdown document to CSV file in stage
+-- ============================================================================
+-- Export 1: Complete markdown document to CSV file
+-- ============================================================================
 COPY INTO @WPA.RAW_DATA.RAW_WPA/WPA_NARRATIVE_1_to_83.csv
 FROM (
     SELECT 
@@ -32,4 +34,25 @@ FILE_FORMAT = (
 SINGLE = TRUE
 OVERWRITE = TRUE
 HEADER = FALSE;
+
+-- ============================================================================
+-- Export 2: Scene metadata to CSV file
+-- ============================================================================
+COPY INTO @WPA.RAW_DATA.RAW_WPA/SCENE_METADATA.csv
+FROM (
+    SELECT *
+    FROM SCENE_METADATA
+    ORDER BY SCENE_NUM
+)
+FILE_FORMAT = (
+    TYPE = 'CSV'
+    FIELD_DELIMITER = ','
+    RECORD_DELIMITER = '\n'
+    COMPRESSION = 'NONE'
+    FIELD_OPTIONALLY_ENCLOSED_BY = '"'
+    ESCAPE_UNENCLOSED_FIELD = NONE
+)
+SINGLE = TRUE
+OVERWRITE = TRUE
+HEADER = TRUE;
 
