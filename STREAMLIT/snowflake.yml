@@ -1,0 +1,9 @@
+definition_version: 1
+streamlit:
+  name: scene_metadata_editor
+  stage: WPA.APPS.STREAMLIT_STAGE
+  query_warehouse: COMPUTE_XS
+  main_file: scene_metadata_editor.py
+  title: "Scene Metadata Editor"
+  env_file: environment.yml
+
