@@ -1,0 +1,1 @@
+You are a dnd character creation expert.  Read through this file and create a nicely formated markdown file Cala.md.  Include all details on stats, abilities, features, spells, inventory, etc.  Do not summarize.
