@@ -1,0 +1,57 @@
+
+USE ROLE SECURITYADMIN;
+
+Use database WPA;
+use schema WPA.APPS;
+
+-- Create the WPA_SI_ROLE role
+CREATE ROLE IF NOT EXISTS WPA_SI_ROLE;
+
+-- Grant out to the WPA_SI_ROLE role
+GRANT DATABASE ROLE SNOWFLAKE.CORTEX_USER TO ROLE WPA_SI_ROLE;  -- Enables access to Cortex AI functionality
+GRANT USAGE ON DATABASE SNOWFLAKE_INTELLIGENCE TO ROLE WPA_SI_ROLE ;  -- WPA_SI_ROLE can access the DB
+GRANT USAGE ON SCHEMA SNOWFLAKE_INTELLIGENCE.AGENTS TO ROLE WPA_SI_ROLE;  -- WPA_SI_ROLE can access the public schema
+GRANT CREATE AGENT ON SCHEMA SNOWFLAKE_INTELLIGENCE.AGENTS TO ROLE WPA_SI_ROLE;  -- Only WPA_SI_ROLE can create agents
+GRANT USAGE ON DATABASE WPA TO ROLE WPA_SI_ROLE ;  -- WPA_SI_ROLE can access the DB
+GRANT USAGE ON SCHEMA WPA.APPS TO ROLE WPA_SI_ROLE;  -- WPA_SI_ROLE can access the apps schema
+GRANT CREATE SEMANTIC VIEW ON SCHEMA WPA.APPS TO ROLE WPA_SI_ROLE; -- grant create semantic views for cortex analyst to WPA_SI_ROLE
+GRANT CREATE CORTEX SEARCH SERVICE ON SCHEMA WPA.APPS TO ROLE WPA_SI_ROLE; -- grant create cortex search service to WPA_SI_ROLE
+-- Grant out to the WPA_SI_ROLE role
+CREATE ROLE IF NOT EXISTS WPA_SI_ROLE ;
+GRANT DATABASE ROLE SNOWFLAKE.CORTEX_USER TO ROLE WPA_SI_ROLE;  -- Enables access to Cortex AI functionality
+GRANT USAGE ON DATABASE SNOWFLAKE_INTELLIGENCE TO ROLE WPA_SI_ROLE ;  -- WPA_SI_ROLE can access the DB
+GRANT USAGE ON SCHEMA SNOWFLAKE_INTELLIGENCE.AGENTS TO ROLE WPA_SI_ROLE;  -- WPA_SI_ROLE can access the public schema
+GRANT CREATE AGENT ON SCHEMA WPA.APPS TO ROLE WPA_SI_ROLE;  -- Only WPA_SI_ROLE can create agents
+GRANT USAGE ON DATABASE WPA TO ROLE WPA_SI_ROLE ;  -- WPA_SI_ROLE can access the DB
+GRANT USAGE ON SCHEMA WPA.APPS TO ROLE WPA_SI_ROLE;  -- WPA_SI_ROLE can access the apps schema
+GRANT CREATE SEMANTIC VIEW ON SCHEMA WPA.APPS TO ROLE WPA_SI_ROLE; -- grant create semantic views for cortex analyst to WPA_SI_ROLE
+GRANT CREATE CORTEX SEARCH SERVICE ON SCHEMA WPA.APPS TO ROLE WPA_SI_ROLE; -- grant create cortex search service to WPA_SI_ROLE
+
+
+-- Grant out usage and select to tables in WPA.DATA schema
+GRANT USAGE ON SCHEMA WPA.DATA TO ROLE WPA_SI_ROLE;
+GRANT SELECT ON ALL TABLES IN SCHEMA WPA.DATA TO ROLE WPA_SI_ROLE;
+
+-- Grant out usage to COMPUTE_XS warehouse to WPA_SI_ROLE
+GRANT USAGE ON WAREHOUSE COMPUTE_XS TO ROLE WPA_SI_ROLE;
+GRANT OPERATE ON WAREHOUSE COMPUTE_XS TO ROLE WPA_SI_ROLE;
+-- Grant out to the WPA_SI_ROLE user
+GRANT ROLE WPA_SI_ROLE TO USER WPA;
+
+
+-- ====================================================================
+-- VERIFICATION COMMANDS
+-- ====================================================================
+
+-- Verify the network rule was created
+SHOW NETWORK RULES LIKE 'WPA_ALLOW_ALL_IPS';
+
+-- Verify the network policy was created
+SHOW NETWORK POLICIES LIKE 'WPA_FULL_ACCESS_POLICY';
+
+-- Describe the network policy to see its configuration
+DESCRIBE NETWORK POLICY WPA_FULL_ACCESS_POLICY;
+
+-- Verify the network policy is assigned to the WPA user
+DESCRIBE USER WPA;
+
