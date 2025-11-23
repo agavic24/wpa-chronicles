@@ -38,20 +38,47 @@ GRANT OPERATE ON WAREHOUSE COMPUTE_XS TO ROLE WPA_SI_ROLE;
 -- Grant out to the WPA_SI_ROLE user
 GRANT ROLE WPA_SI_ROLE TO USER WPA;
 
+-- ====================================================================
+-- CREATE NETWORK RULE FOR EXTERNAL ACCESS
+-- ====================================================================
+
+USE ROLE ACCOUNTADMIN;
+USE DATABASE WPA;
+USE SCHEMA WPA.APPS;
+
+-- This allows EGRESS access to all hosts on ports 80 and 443
+CREATE OR REPLACE NETWORK RULE SI_WEBACCESSRULE
+  TYPE = HOST_PORT
+  MODE = EGRESS
+  VALUE_LIST = ('0.0.0.0:443', '0.0.0.0:80')
+  COMMENT = 'Allow web access for SI';
+
+-- Grant usage on the network rule to WPA_SI_ROLE
+GRANT USAGE ON NETWORK RULE WPA.APPS.SI_WEBACCESSRULE TO ROLE WPA_SI_ROLE;
+
+-- Create external access integration using the network rule
+CREATE OR REPLACE EXTERNAL ACCESS INTEGRATION SI_WEB_ACCESS_INTEGRATION
+  ALLOWED_NETWORK_RULES = (WPA.APPS.SI_WEBACCESSRULE)
+  ENABLED = TRUE
+  COMMENT = 'External access integration for SI';
+
+-- Grant usage on the external access integration to WPA_SI_ROLE
+GRANT USAGE ON INTEGRATION SI_WEB_ACCESS_INTEGRATION TO ROLE WPA_SI_ROLE;
+SHOW NETWORK RULES LIKE 'SI_WEBACCESSRULE';
+SHOW EXTERNAL ACCESS INTEGRATIONS LIKE 'SI_WEB_ACCESS_INTEGRATION';
 
 -- ====================================================================
--- VERIFICATION COMMANDS
+-- CREATE NETWORK POLICY FOR INCOMING CONNECTIONS
 -- ====================================================================
 
--- Verify the network rule was created
-SHOW NETWORK RULES LIKE 'WPA_ALLOW_ALL_IPS';
+-- Create network policy to allow incoming connections from specific IP
+CREATE OR REPLACE NETWORK POLICY WPA_SI_NETWORK_POLICY
+  ALLOWED_IP_LIST = ('0.0.0.0/0')
+  COMMENT = 'Allow incoming connections for WPA_SI_ROLE';
 
--- Verify the network policy was created
-SHOW NETWORK POLICIES LIKE 'WPA_FULL_ACCESS_POLICY';
+-- Apply the network policy to the WPA_SI_ROLE
+ALTER USER WPA SET NETWORK_POLICY = WPA_SI_NETWORK_POLICY;
 
--- Describe the network policy to see its configuration
-DESCRIBE NETWORK POLICY WPA_FULL_ACCESS_POLICY;
+SHOW NETWORK POLICIES LIKE 'WPA_SI_NETWORK_POLICY';
 
--- Verify the network policy is assigned to the WPA user
-DESCRIBE USER WPA;
 
