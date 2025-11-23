@@ -25,6 +25,9 @@ USE_LOCAL_FILE = None  # Set to None to download from web
 #USE_LOCAL_FILE = "Ra'vek-raw.html"
 #USE_LOCAL_FILE = "AilligMcCaird-raw.html"
 
+# Output directory for character sheets
+OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "sheets")
+
 
 
 
@@ -981,9 +984,10 @@ def process_character(url: str) -> None:
                     character_name = "Unknown-" + url.split('/')[-1]
 
                 # Save raw HTML to file
-                with open(f"{character_name}-raw.html", "w", encoding='utf-8') as file:
+                raw_html_path = os.path.join(OUTPUT_DIR, f"{character_name}-raw.html")
+                with open(raw_html_path, "w", encoding='utf-8') as file:
                     file.write(page_content)
-                print(f"✓ Raw HTML (with JavaScript rendered) saved to {character_name}-raw.html")
+                print(f"✓ Raw HTML (with JavaScript rendered) saved to {raw_html_path}")
                     
             except Exception as e:
                 print(f"Error: {e}")
@@ -992,7 +996,8 @@ def process_character(url: str) -> None:
                 # Save whatever we got
                 if not character_name:
                     character_name = "Character-" + url.split('/')[-1]
-                with open(f"{character_name}-raw.html", "w", encoding='utf-8') as file:
+                raw_html_path = os.path.join(OUTPUT_DIR, f"{character_name}-raw.html")
+                with open(raw_html_path, "w", encoding='utf-8') as file:
                     file.write(page.content())
                 
             finally:
@@ -1029,7 +1034,8 @@ def process_character(url: str) -> None:
             character_sheet_annotate = character_sheet_annotate.replace('\u2019', "'")
             
             # Save the full character sheet HTML
-            with open(f"{character_name}-sheet.html", "w", encoding='utf-8') as file:
+            sheet_html_path = os.path.join(OUTPUT_DIR, f"{character_name}-sheet.html")
+            with open(sheet_html_path, "w", encoding='utf-8') as file:
                 file.write(str(character_sheet_annotate))
 
             # Get text from the filtered HTML
@@ -1040,7 +1046,8 @@ def process_character(url: str) -> None:
             lines = sheet_text.splitlines()
             cleaned_lines = [line.strip() for line in lines if line.strip()]
             
-            with open(f"{character_name}-stripped.txt", "w", encoding='utf-8') as file:
+            stripped_txt_path = os.path.join(OUTPUT_DIR, f"{character_name}-stripped.txt")
+            with open(stripped_txt_path, "w", encoding='utf-8') as file:
                 file.write("\n".join(cleaned_lines))
             
             print("✓ Character sheet data successfully processed!")
@@ -1052,13 +1059,18 @@ def process_character(url: str) -> None:
             
             # Save as Markdown
             markdown_output = format_as_markdown(character_data)
-            with open(f"{character_name}.md", "w", encoding='utf-8') as f:
+            markdown_path = os.path.join(OUTPUT_DIR, f"{character_name}.md")
+            with open(markdown_path, "w", encoding='utf-8') as f:
                 f.write(markdown_output)
-            print(f"✓ Saved markdown format to {character_name}.md")
+            print(f"✓ Saved markdown format to {markdown_path}")
             
             # Clean up intermediate files if we downloaded from web
             if DEBUG_IND == "N":
-                files_to_delete = [f"{character_name}-raw.html", f"{character_name}-sheet.html", f"{character_name}-stripped.txt"]
+                files_to_delete = [
+                    os.path.join(OUTPUT_DIR, f"{character_name}-raw.html"),
+                    os.path.join(OUTPUT_DIR, f"{character_name}-sheet.html"),
+                    os.path.join(OUTPUT_DIR, f"{character_name}-stripped.txt")
+                ]
                 for file_path in files_to_delete:
                     try:
                         if os.path.exists(file_path):
