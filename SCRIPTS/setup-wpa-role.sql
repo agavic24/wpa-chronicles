@@ -76,9 +76,10 @@ CREATE OR REPLACE NETWORK POLICY WPA_SI_NETWORK_POLICY
   ALLOWED_IP_LIST = ('0.0.0.0/0')
   COMMENT = 'Allow incoming connections for WPA_SI_ROLE';
 
--- Apply the network policy to the WPA_SI_ROLE
+-- Apply the network policy to the WPA_SI_ROLE.  Will need to do this prior to using externally (removed every 4 hours)
+USE ROLE ACCOUNTADMIN;
 ALTER USER WPA SET NETWORK_POLICY = WPA_SI_NETWORK_POLICY;
 
 SHOW NETWORK POLICIES LIKE 'WPA_SI_NETWORK_POLICY';
 
-
+desc user wpa;
