@@ -8,11 +8,12 @@ from typing import Dict, List, Any
 
 # URLs of the D&D Beyond character sheets to download
 urls = [
-    "https://www.dndbeyond.com/characters/144286017",  # Cala
-    "https://www.dndbeyond.com/characters/144271085",  # Ra
-    "https://www.dndbeyond.com/characters/144272244",  # Aillig
-    "https://www.dndbeyond.com/characters/144272508",  # Quinn
-    "https://www.dndbeyond.com/characters/141723643",  # Darias
+  #  "https://www.dndbeyond.com/characters/144286017",  # Cala
+  #  "https://www.dndbeyond.com/characters/144271085",  # Ra
+  #  "https://www.dndbeyond.com/characters/144272244",  # Aillig
+ #   "https://www.dndbeyond.com/characters/144272508",  # Quinn
+ #   "https://www.dndbeyond.com/characters/141723643",  # Darias
+    "https://www.dndbeyond.com/characters/156262581",  # Mina
 ]
 
 # Add your CobaltSession cookie value here
@@ -20,17 +21,14 @@ COBALT_SESSION = "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..LK9jA_HvZyDtt
 DEBUG_IND = "N"  # Set to "N" for no, "Y" for debugging output
 
 # Set this to an HTML file path to skip downloading and parse from file instead
-# Example: USE_LOCAL_FILE = "Cala-raw.html"
-USE_LOCAL_FILE = None  # Set to None to download from web
+USE_LOCAL_FILE = None    # Set to None to download from web
+#USE_LOCAL_FILE = "Cala-raw.html"
 #USE_LOCAL_FILE = "Ra'vek-raw.html"
 #USE_LOCAL_FILE = "AilligMcCaird-raw.html"
+USE_LOCAL_FILE = "Mina'KhorDelhin-raw.html"
 
 # Output directory for character sheets
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "sheets")
-
-
-
-
+OUTPUT_DIR = "/home/eiger/code/chronicles/sheets"
 
 
 
@@ -584,6 +582,8 @@ def parse_character_data(text: str) -> Dict[str, Any]:
     
     return character
 
+
+
 def format_as_markdown(character: Dict[str, Any]) -> str:
     """Format character data as clean markdown."""
     output = []
@@ -764,16 +764,24 @@ def format_as_markdown(character: Dict[str, Any]) -> str:
             item_type = item.get('type', '')
             item_name = item.get('name', 'Unknown')
             
+            if item_type == "Potion":
+                item_type = 'Potion'
+
             # If item name equals type or contains type, change type to "Weapon"
-            if item_name == item_type or (item_type and item_type in item_name):
+            elif item_name == item_type or (item_type and item_type in item_name):
                 item_type = 'Weapon'
             
-            if item_type == "*":
+            elif item_type == "*":
                 item_type = 'Custom'
+
+            # Normalize empty/unknown types so we always have a bucket
+            if not item_type:
+                item_type = 'Misc'
 
             if item_type not in items_by_type:
                 items_by_type[item_type] = []
-            items_by_type[item_type].append(item_name)
+            
+            items_by_type[item_type].append(item_name.replace(",", "").replace("  ", " "))
         
         # Sort items within each type
         for item_type in items_by_type:
@@ -847,15 +855,15 @@ def process_character(url: str) -> None:
         # Parse from local HTML file
         print(f"Using local file: {USE_LOCAL_FILE}")
         try:
-            with open(USE_LOCAL_FILE, "r", encoding='utf-8') as file:
+            with open(OUTPUT_DIR + "/" + USE_LOCAL_FILE, "r", encoding='utf-8') as file:
                 page_content = file.read()
 
             # Get the name of the character from the local filename
             character_name = re.sub(r'[<>:"/\\|?*]', '', USE_LOCAL_FILE.rsplit('-', 1)[0]).strip()
             
-            print(f"✓ Loaded HTML from {USE_LOCAL_FILE}")
+            print(f"✓ Loaded HTML from {OUTPUT_DIR + "/" + USE_LOCAL_FILE}")
         except FileNotFoundError:
-            print(f"✗ Error: File '{USE_LOCAL_FILE}' not found")
+            print(f"✗ Error: File '{OUTPUT_DIR + "/" + USE_LOCAL_FILE}' not found")
         except Exception as e:
             print(f"✗ Error reading file: {e}")
     else:
