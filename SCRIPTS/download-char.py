@@ -28,7 +28,7 @@ USE_LOCAL_FILE = None    # Set to None to download from web
 USE_LOCAL_FILE = "Mina'KhorDelhin-raw.html"
 
 # Output directory for character sheets
-OUTPUT_DIR = "/home/eiger/code/chronicles/sheets"
+OUTPUT_DIR = "/home/eiger/code/chronicles/CHARACTERS"
 
 
 

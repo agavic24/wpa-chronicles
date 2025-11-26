@@ -1,4 +1,7 @@
-# Campaign Outline: Restoring Balance to the Swamp
+# Campaign Outline
+
+## Overall Goal of Campaign
+Restoring Balance.  It's not just about removing corruption, but 
 
 ## Overview
 An evil green dragon, Venom, settled into the southern side of the island, drawn to the powerful ley lines there.
@@ -6,7 +9,69 @@ Venom’s magic started tainting the ley lines as it tapped into their power.
 Battles between Venom's minions and druidic elves ensued, but the elves lost.
 A plague spread across the south, corrupting the lands and creating abominations and a deadly swamp.
 To restore balance, they must uncover the origins of the corruption, find a way to purify the ley lines, and ultimately defeat Venom, the ancient green dragon who orchestrated this devastation.
-This journey will take them across distant lands, from the depths of the Underdark to the heart of elven sanctuaries, before returning to the corrupted swamp for the final battle.
+This journey will take them across distant lands, from the heights of Isanya’s Spire to the depths of the Underdark, before returning to the corrupted swamp for the final battle.
+
+
+# 🗺️ Storyboard / Campaign Outline
+
+This outline details locations, characters, key events, and narrative flow within the world.
+
+## Key Locations 
+
+### Galadrian Forest
+ - Also known as the Swamp and 
+ - ** | Oona, Vaelith | Starting Area? |
+| **Autumnal Forest** | Krip-Krip, Edrik | |
+| **Venom's Lair** | Venom, Sporion (Corrupt) | |
+| **Unknown Forest** | | Focus Artifact? |
+| **Mythealas** | Galadrian Blues | |
+| **Underdark** | Stunting Shadow Magic | |
+| **Fey Dark** | Harron Hame | |
+| **Mag Toreah** | | |
+| **Brokenstone Vale** | Viktor Mazan | |
+| **Mythrendan** | | |
+| **Feywild** | Cala (Father), Maiden of Moon (Mother) | Event: **Murder** (Implied related to Cala/Mother) |
+
+## II. Key Characters
+
+* **Oona**
+* **Vaelith**
+* **Venom**
+* **Sporion** (Corrupt)
+* **Krip-Krip**
+* **Edrik**
+* **Other:** Allig, Qunn, Ra
+* **Cala** (Protagonist/Focus?)
+    * *Father* (in Feywild)
+    * *Mother* (Maiden of Moon)
+    * *Friend* (Thrumbbolg)
+* **Viktor Mazan**
+* **Ansalon**
+
+## III. Major Events & Flow
+
+The arrows indicate a general flow or connection between elements/locations.
+
+1.  **Swamp/Galadrian Forest** (Oona, Vaelith) $\rightarrow$ **Venom's Lair** (Venom, Sporion Corrupt)
+2.  **Autumnal Forest** (Krip-Krip, Edrik)
+3.  **Other** (Allig, Qunn, Ra) $\rightarrow$ **Pact** (Connection to Autumnal Forest/Unknown Forest?)
+4.  **Venom's Lair** $\rightarrow$ **Mythealas** (Galadrian Blues)
+5.  **Mythealas** $\rightarrow$ **Unknown Forest** (Focus Artifact?)
+6.  **Unknown Forest** $\rightarrow$ **Underdark** (Stunting Shadow Magic)
+7.  **Underdark** $\rightarrow$ **Fey Dark** (Harron Hame)
+8.  **Fey Dark** (Harron Hame) $\rightarrow$ **Braunor** (Kidnapped)
+9.  **Braunor** (Kidnapped) $\rightarrow$ **Mag Toreah** (Thrumbbolg)
+10. **Mag Toreah** (Thrumbbolg) $\rightarrow$ **Thrumbbolg** (Enslaved) $\rightarrow$ **Cala Friend**
+11. **Cala Friend** $\rightarrow$ **Feywild** (Cala Father, Maiden of Moon)
+    * **Feywild** $\rightarrow$ **Murder**
+12. **Feywild** $\rightarrow$ **Brokenstone Vale** (Viktor Mazan)
+13. **Brokenstone Vale** $\rightarrow$ **Mythrendan**
+14. **Mythrendan** $\rightarrow$ **Cala - Find Mother / Ansalon**
+15. **Mythrendan** $\rightarrow$ **Victor [Dead?]**
+16. **Mythrendan** $\rightarrow$ **4EA**
+17. **4EA** $\rightarrow$ **Lost Story** $\rightarrow$ **To NLF** (Next Level/Focus?)
+
+---
 
 ## Part 0: Setting the Stage
 An unlocky troop of characters bond together as they explore an island continent, the Norther Lights Providence.
