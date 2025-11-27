@@ -18,60 +18,56 @@ This outline details locations, characters, key events, and narrative flow withi
 
 ## Key Locations 
 
-### Galadrian Forest
- - Also known as the Swamp and 
- - ** | Oona, Vaelith | Starting Area? |
-| **Autumnal Forest** | Krip-Krip, Edrik | |
-| **Venom's Lair** | Venom, Sporion (Corrupt) | |
-| **Unknown Forest** | | Focus Artifact? |
-| **Mythealas** | Galadrian Blues | |
-| **Underdark** | Stunting Shadow Magic | |
-| **Fey Dark** | Harron Hame | |
-| **Mag Toreah** | | |
-| **Brokenstone Vale** | Viktor Mazan | |
-| **Mythrendan** | | |
-| **Feywild** | Cala (Father), Maiden of Moon (Mother) | Event: **Murder** (Implied related to Cala/Mother) |
+    ### Galadrian Forest
 
-## II. Key Characters
+        #### Description
+        Currently a corrupted swamp that's called "Snakewood" by the locals.
+        Who could be here? Vaelith, Oona, Sporion, Feligrinn, Venom
 
-* **Oona**
-* **Vaelith**
-* **Venom**
-* **Sporion** (Corrupt)
-* **Krip-Krip**
-* **Edrik**
-* **Other:** Allig, Qunn, Ra
-* **Cala** (Protagonist/Focus?)
-    * *Father* (in Feywild)
-    * *Mother* (Maiden of Moon)
-    * *Friend* (Thrumbbolg)
-* **Viktor Mazan**
-* **Ansalon**
+        #### Major Landmarks
+        - Verdant Nexus Ruin - Perviously Mythalas, the ancient elven capital city of the Galadrian Elevels, where two ley lines intersect.
+        - Venom's Lair - Home to the evil green dragon
+        - Oona's Hut - A humble druid's dwelling nestled below an ancient stone circle on a hilltop
+        - Feligrinn's Caravan - An abandoned, tilted caravan deep in the cypress cathedral, home to an albino fox
 
-## III. Major Events & Flow
 
-The arrows indicate a general flow or connection between elements/locations.
+    ### Autumnal Forest
+        #### Description
+        A vibrant woodland of amber-leafed wilderness where ancient magic swirls
+        Who could be here? Krip-Krip, Edrik
 
-1.  **Swamp/Galadrian Forest** (Oona, Vaelith) $\rightarrow$ **Venom's Lair** (Venom, Sporion Corrupt)
-2.  **Autumnal Forest** (Krip-Krip, Edrik)
-3.  **Other** (Allig, Qunn, Ra) $\rightarrow$ **Pact** (Connection to Autumnal Forest/Unknown Forest?)
-4.  **Venom's Lair** $\rightarrow$ **Mythealas** (Galadrian Blues)
-5.  **Mythealas** $\rightarrow$ **Unknown Forest** (Focus Artifact?)
-6.  **Unknown Forest** $\rightarrow$ **Underdark** (Stunting Shadow Magic)
-7.  **Underdark** $\rightarrow$ **Fey Dark** (Harron Hame)
-8.  **Fey Dark** (Harron Hame) $\rightarrow$ **Braunor** (Kidnapped)
-9.  **Braunor** (Kidnapped) $\rightarrow$ **Mag Toreah** (Thrumbbolg)
-10. **Mag Toreah** (Thrumbbolg) $\rightarrow$ **Thrumbbolg** (Enslaved) $\rightarrow$ **Cala Friend**
-11. **Cala Friend** $\rightarrow$ **Feywild** (Cala Father, Maiden of Moon)
-    * **Feywild** $\rightarrow$ **Murder**
-12. **Feywild** $\rightarrow$ **Brokenstone Vale** (Viktor Mazan)
-13. **Brokenstone Vale** $\rightarrow$ **Mythrendan**
-14. **Mythrendan** $\rightarrow$ **Cala - Find Mother / Ansalon**
-15. **Mythrendan** $\rightarrow$ **Victor [Dead?]**
-16. **Mythrendan** $\rightarrow$ **4EA**
-17. **4EA** $\rightarrow$ **Lost Story** $\rightarrow$ **To NLF** (Next Level/Focus?)
+        #### Major Landmarks
+        - Edrik's Homestead - An ivy-covered cottage nestled in the Crimson Grove where trees burn gold and crimson even at night, filled with towering bookshelves and protected by spectral guardians
 
----
+
+    ### Underdark
+        #### Description
+        A vast subterranean realm where those driven from the surface world descend into the deep darkness and become twisted.
+        Who could be here? Vaelith
+
+        #### Major Landmarks
+        - Vaelith Labratory - Where he studies Shadow Magic.        
+
+    ### Feywild
+        #### Description
+        A vibrant, magical mirror of the mortal world, where emotions shape reality and whimsical beauty hides perilous, unpredictable power.
+        Who could be here? Cala's Parents, Maiden of Moon, Mina's Parents, Viktor Mazan, Lord Calenon
+
+        #### Major Landmarks
+        - Shatterstone - A city within Brokenstone Vale with a nearby connection to the Underdark
+        - Shinaelestra - The Fading City ruled by Lord Calenon that's connected to the material plane
+            
+    ### Feydark
+        #### Description
+        The Feydark is a vast, eerie, and labyrinthine subterranean realm beneath the Feywild, where beauty twists into danger and ancient, capricious powers dwell in endless shadow.
+        Who could be here? Thrumbolg, Snæbjörg, Cala
+
+        #### Major Landmarks
+        - Mag Tureah
+        - 
+        - Snæbjörg's Cold Nursery
+
+## Campaign Arc
 
 ## Part 0: Setting the Stage
 An unlocky troop of characters bond together as they explore an island continent, the Norther Lights Providence.

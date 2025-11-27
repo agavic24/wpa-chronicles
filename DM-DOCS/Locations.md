@@ -1,0 +1,7 @@
+# LOCATIONS
+
+    ## Shatterstone - A city within Brokenstone Vale. 
+    After decades of strife and bloodshed, the Court of Stars conceded the vale, a forest domain deep in the shadows of a mountain pass, to lycans who have forsaken the mortal world. It is one of the few places where lycanthropes can roam freely. There is a nearby fey crossing that facilitates trade between the material plane and the Feywilds, allowing for access to the material plane's resources. Additionally, Brokenstone Vale's magic gives lycans greater self-control of their curse, allowing them to live relatively normal lives.
+
+    ## Shinaelestra - The Fading City ruled by Lord Calenon.
+    Shinaelestra is being reclaimed by the wilderness. Covered by trees and thick with undergrowth, Shinaelestra lies mostly in ruins, but that doesn't bother the rangers who live there. During the "day", it exists in the Feywild, occasionally coming under attack by the fomorians of Queen Connomae. At midnight, it worldfalls to the material plane. While the specific location it appears in always changes, it is always within a deep, dangerous forest that the locals of the city refer to as the Howling Forest. The city then comes under attack by the creatures of these forests until dawn, when the city worldfalls back to the Feywild.
