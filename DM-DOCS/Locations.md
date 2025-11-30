@@ -5,3 +5,12 @@
 
     ## Shinaelestra - The Fading City ruled by Lord Calenon.
     Shinaelestra is being reclaimed by the wilderness. Covered by trees and thick with undergrowth, Shinaelestra lies mostly in ruins, but that doesn't bother the rangers who live there. During the "day", it exists in the Feywild, occasionally coming under attack by the fomorians of Queen Connomae. At midnight, it worldfalls to the material plane. While the specific location it appears in always changes, it is always within a deep, dangerous forest that the locals of the city refer to as the Howling Forest. The city then comes under attack by the creatures of these forests until dawn, when the city worldfalls back to the Feywild.
+
+    ## Szinth’alyra - The Vault
+    Szinth’alyra is an ancient, half-forgotten Drow city of scholars, outcasts, and shadowed knowledge in the Underdark.
+
+    ## Jexara Landing
+    The original port town where Quinn, Marx, and Makolo first met.
+
+    ## Blackreef Reach
+    A hidden pirate port on a secluded and uncharted island off the west coast of NLP. It's where Makolo is head captive.

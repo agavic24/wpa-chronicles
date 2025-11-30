@@ -18,13 +18,13 @@ This outline details locations, characters, key events, and narrative flow withi
 
 ## Key Locations 
 
-    ### Galadrian Forest
+    ### Swamp
 
         #### Description
-        Currently a corrupted swamp that's called "Snakewood" by the locals.
+        Previously known as Galadrian Forest, but currently a corrupted swamp that's called "Snakewood" by the locals.
         Who could be here? Vaelith, Oona, Sporion, Feligrinn, Venom
 
-        #### Major Landmarks
+        #### Points of Interest
         - Verdant Nexus Ruin - Perviously Mythalas, the ancient elven capital city of the Galadrian Elevels, where two ley lines intersect.
         - Venom's Lair - Home to the evil green dragon
         - Oona's Hut - A humble druid's dwelling nestled below an ancient stone circle on a hilltop
@@ -34,18 +34,25 @@ This outline details locations, characters, key events, and narrative flow withi
     ### Autumnal Forest
         #### Description
         A vibrant woodland of amber-leafed wilderness where ancient magic swirls
-        Who could be here? Krip-Krip, Edrik
+        Who could be here? Krip-Krip, Edrik Fenwyn
 
-        #### Major Landmarks
-        - Edrik's Homestead - An ivy-covered cottage nestled in the Crimson Grove where trees burn gold and crimson even at night, filled with towering bookshelves and protected by spectral guardians
+        #### Points of Interest
+        - Edrik's Homestead - An ivy-covered cottage nestled in the Crimson Grove where trees burn gold and crimson even at night, filled with towering bookshelves and run by a spectral servant, Gregory.
 
+    ### Mushroom Forest
+        #### Description
+        Massive treelike fungal forest covered in creeping mycelium
+        Who could be here? Merriwig Fiddlecap, Vaelith Duskrune
+
+        #### Points of Interest
+        - Merriwig's Tea House - A tea house hidden beneath blue-capped mushrooms
 
     ### Underdark
         #### Description
         A vast subterranean realm where those driven from the surface world descend into the deep darkness and become twisted.
-        Who could be here? Vaelith
+        Who could be here? Vaelith Duskrune
 
-        #### Major Landmarks
+        #### Points of Interest
         - Vaelith Labratory - Where he studies Shadow Magic.        
 
     ### Feywild
@@ -53,16 +60,16 @@ This outline details locations, characters, key events, and narrative flow withi
         A vibrant, magical mirror of the mortal world, where emotions shape reality and whimsical beauty hides perilous, unpredictable power.
         Who could be here? Cala's Parents, Maiden of Moon, Mina's Parents, Viktor Mazan, Lord Calenon
 
-        #### Major Landmarks
+        #### Points of Interest
         - Shatterstone - A city within Brokenstone Vale with a nearby connection to the Underdark
-        - Shinaelestra - The Fading City ruled by Lord Calenon that's connected to the material plane
+        - Shinaelestra - The Fading City ruled by Lord Calenon that's connected to the Woodlands in the material plane
             
     ### Feydark
         #### Description
         The Feydark is a vast, eerie, and labyrinthine subterranean realm beneath the Feywild, where beauty twists into danger and ancient, capricious powers dwell in endless shadow.
         Who could be here? Thrumbolg, Snæbjörg, Cala
 
-        #### Major Landmarks
+        #### Points of Interest
         - Mag Tureah
         - 
         - Snæbjörg's Cold Nursery
@@ -70,21 +77,28 @@ This outline details locations, characters, key events, and narrative flow withi
 ## Campaign Arc
 
 ## Part 0: Setting the Stage
-An unlocky troop of characters bond together as they explore an island continent, the Norther Lights Providence.
-Within the swamp of Snakewood, the party will meet a friend in Feligrinn and battle Oona the Lost.
-The will vanquished the Sporion and obtain its corrupted heart - a pulsating, vile mass of decay.
-They know not what it exactly is or what to do with it, so the journey begins seeking knowledge on how to unwind the corruption.
+An unlikely troop of characters bond together as they explore an island continent, the Norther Lights Providence.
+Within the swamp of Snakewood the party will see Saba depart the party, but make a new friend in Feligrinn.
+They will battle Oona the Lost and the Sporion that corrupted her.
+They know not what the Sporion exactly is or what to do with its heart they collected, so the journey begins seeking knowledge on how to unwind the corruption.
+Mina will depart at this point.
 
 ## Part 1: Seeking Knowledge
 The party will seek out Edrik Fenwyn, a historian living in the Crimson Grove, who is their best lead on what the Sporion and the corruption could be.
 Edrik provides some answers into personal backstories and suggests they find Vaelith Duskrune, an elf likely to understand the corruption's true nature.
 Along the way, the party gets caught up with a bheur hag, Mother Snæbjörg, who's been corrupting the mountainous region of Isanya's Spine.
-The will eventually arrive at Merriwig Fiddlecap's in the Mushroom Forest, only to find out that Vaelith was rumored to have left for the Underdark.  The journey will continue there.
+As it turns out, she was behind Cala's kidnapping and loss of memory; clues are left for a future exploration of the Feywild and Feydark.
+The party will eventually defeat Snæbjörg and arrive at the Verdant Outpost.  Here they will be reunited with Mina and meet one of Quinn's old acquaintances, Marz. 
+Merriwig Fiddlecap's in the Mushroom Forest, only to find out that Vaelith was rumored to have left for the Underdark.  
+The journey will continue under ground.
 
-Part 2: The Path in Underdark
-Location: The Underdark, The Veil of Shadows
-Deep beneath the surface lies the Veil of Shadows, an ancient Drow city hidden in the vast tunnels of the Underdark. The party must seek out Vaelith Duskrune, a reclusive Drow sage who possesses forbidden knowledge of ley lines and corruption.
-Challenge: Gaining entry into the Veil of Shadows is perilous—Drow society is highly secretive, and the party must either sneak in, earn an invitation, or strike a dangerous bargain with an Underdark faction.
+Part 2: Navigating Darkness
+Deep beneath the surface lies the Underdark.
+Szinth’alyra, or The Vault, is an ancient Drow city hidden in the vast tunnels of the Underdark. 
+The party must seek out Vaelith Duskrune there and obtain her knowledge of ley lines and corruption.
+Vaelith will explain that the dragon’s magic which corrupted the ley lines has started a rot is spreading on its own now.  If something could be made to consume the corruption in the ley lines, just as the mushrooms consumed rot, it could be undone from within.
+
+Challenge: Gaining entry into the surface is perilous — Drow society is highly secretive, and the party must either sneak in, earn an invitation, or strike a dangerous bargain with an Underdark faction.
 Key NPC: Vaelith Duskrune, an exiled Drow druid and scholar, once a protector of the ley lines but now hunted for defying the Matron Mothers. She agrees to help if the party can eliminate a Mind Flayer cult that seeks to enslave the region.
 Discovery: Through her studies, Vaelith reveals that the corruption is tied directly to Venom’s heart, which he bound to the ley lines using a long-lost artifact—the Verdant Core—now hidden in a sunken elven vault.
 
