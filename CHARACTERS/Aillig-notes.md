@@ -9,14 +9,18 @@ Aillig's belief system is based in the energy that ties everything together and 
 
 ## DM Notes
 
-###  Backstory
+### Backstory
 
 ### Key Moments
 
-### Goal: Gain some new skill or power that could lead towards a new purpose as his old life as a sigil agent is done.
+
+### Goals
+- Gain some power that could lead towards a new purpose as his old life as a sigil agent is done.
+- Add Magical Tattoos to party members; needs to learn the plan for a Magical Ability Tattoo Needle at 14th level; then create the needle, and collect gem dust.
 
 ### Unique Items in his Possession
-- Lockbox of Holding (contains a schematic for the creation of a magical tattoo pen)
+- Lockbox of Holding (contains plan for a "Magical Ability Tattoo Needle")
 
 ### Magic Items of Interest
 - All-Purpose Tool
+- Magical Ability Tattoo Needle - Allows an Artificer to infuse gem dust into the needle, creating a single-use magical tattoo that permanently enhances an ability score.

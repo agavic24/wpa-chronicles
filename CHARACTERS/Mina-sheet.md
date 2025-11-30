@@ -18,31 +18,39 @@
 
 ## Skills
 
-**Acrobatics:** DEX (+3)
-**Animal Handling:** WIS (+5)
-**Athletics:** STR (+9)
-**Insight:** WIS (+1)
-**Medicine:** WIS (+1)
-**Nature:** INT (+3)
-**Perception:** WIS (+5)
-**Sleight of Hand:** DEX (+3)
-**Stealth:** DEX (+3)
-**Survival:** WIS (+5)
+**Acrobatics:** DEX (+4)
+**Animal Handling:** WIS (+6)
+**Arcana:** INT (+0)
+**Athletics:** STR (+10)
+**Deception:** CHA (+0)
+**History:** INT (+0)
+**Insight:** WIS (+2)
+**Intimidation:** CHA (+0)
+**Investigation:** INT (+0)
+**Medicine:** WIS (+2)
+**Nature:** INT (+4)
+**Perception:** WIS (+6)
+**Performance:** CHA (+0)
+**Persuasion:** CHA (+0)
+**Religion:** INT (+0)
+**Sleight of Hand:** DEX (+4)
+**Stealth:** DEX (+4)
+**Survival:** WIS (+6)
 
 ## Saving Throws
 
-- **Strength:** +9
-- **Dexterity:** +3
-- **Constitution:** +6
-- **Intelligence:** -
-- **Wisdom:** +1
-- **Charisma:** -
+- **Strength:** +10
+- **Dexterity:** +4
+- **Constitution:** +7
+- **Intelligence:** +0
+- **Wisdom:** +2
+- **Charisma:** +0
 
 ## Senses
 
-- **Passive Perception:** 15
-- **Passive Investigation:** 9
-- **Passive Insight:** 11
+- **Passive Perception:** 16
+- **Passive Investigation:** 10
+- **Passive Insight:** 12
 
 ## Proficiencies
 
@@ -80,5 +88,5 @@
 
 **Potion:** Potion of Healing (Greater), Potion of Psionic Fortitude
 **Weapon:** Glaive, Glaive +1, Javelin, Trident, Trident
-**Wondrous item:** Bracers of Defense, Periapt of Wound Closure
+**Wondrous item:** Bracers of Defense, Stone of Good Luck (Luckstone)
 **Gear:** Bedroll, Oil, Rations, Rope, Tinderbox, Torch, Waterskin

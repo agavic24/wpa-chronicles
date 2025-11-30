@@ -29,6 +29,8 @@ Directory Post: Here
 Languages: Common, Giant, Draconic, Druidic
 Darias is tall, a descendent of Stone Giants. His shock white hair is the color of white quartz. 
 
+### Goals
+
 ### Druid: Circle of Wildfire 
 He was called to Druidry because an elemental wildfire spirit, Cinder, was bound to him (he knows not how). The Wildfire circle of Druids has acknowledged him, but they are a circle only in name (anarchists of the world unite and all). Darias seeks balance, but sometimes that balance requires a cleansing fire to start over. He is chaotic neutral... a blend of wild fire and balance.
 

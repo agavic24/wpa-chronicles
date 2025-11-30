@@ -8,11 +8,11 @@ from typing import Dict, List, Any
 
 # URLs of the D&D Beyond character sheets to download
 urls = [
-  #  "https://www.dndbeyond.com/characters/144286017",  # Cala
-  #  "https://www.dndbeyond.com/characters/144271085",  # Ra
-  #  "https://www.dndbeyond.com/characters/144272244",  # Aillig
- #   "https://www.dndbeyond.com/characters/144272508",  # Quinn
- #   "https://www.dndbeyond.com/characters/141723643",  # Darias
+    "https://www.dndbeyond.com/characters/144286017",  # Cala
+    "https://www.dndbeyond.com/characters/144271085",  # Ra
+    "https://www.dndbeyond.com/characters/144272244",  # Aillig
+    "https://www.dndbeyond.com/characters/144272508",  # Quinn
+    "https://www.dndbeyond.com/characters/141723643",  # Darias
     "https://www.dndbeyond.com/characters/156262581",  # Mina
 ]
 
@@ -25,10 +25,26 @@ USE_LOCAL_FILE = None    # Set to None to download from web
 #USE_LOCAL_FILE = "Cala-raw.html"
 #USE_LOCAL_FILE = "Ra'vek-raw.html"
 #USE_LOCAL_FILE = "AilligMcCaird-raw.html"
-USE_LOCAL_FILE = "Mina'KhorDelhin-raw.html"
+#USE_LOCAL_FILE = "Mina'KhorDelhin-raw.html"
 
 # Output directory for character sheets
 OUTPUT_DIR = "/home/eiger/code/chronicles/CHARACTERS"
+
+# Mapping from extracted character names to desired markdown filenames
+CHARACTER_NAME_MAPPING = {
+    "AilligMcCaird": "Aillig",
+    "CalabazaDePeligroRatto": "Cala",
+    "DariasofStoneandFire": "Darias",
+    "Mina'KhorDelhin": "Mina",
+    "Quinn": "Quinn",
+    "Ra'vek": "Ra",
+    # Also handle names without spaces (in case extraction removes them)
+    "Aillig": "Aillig",
+    "Cala": "Cala",
+    "Darias": "Darias",
+    "Mina": "Mina",
+    "Ra": "Ra",
+}
 
 
 
@@ -1067,7 +1083,9 @@ def process_character(url: str) -> None:
             
             # Save as Markdown
             markdown_output = format_as_markdown(character_data)
-            markdown_path = os.path.join(OUTPUT_DIR, f"{character_name}.md")
+            # Map character name to desired filename
+            mapped_name = CHARACTER_NAME_MAPPING.get(character_name, character_name)
+            markdown_path = os.path.join(OUTPUT_DIR, f"{mapped_name}-sheet.md")
             with open(markdown_path, "w", encoding='utf-8') as f:
                 f.write(markdown_output)
             print(f"✓ Saved markdown format to {markdown_path}")

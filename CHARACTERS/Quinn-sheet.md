@@ -1,11 +1,11 @@
 # Quinn
 
-**Female** | **Tabaxi** | **Fighter 7 / Rogue 1**
+**Female** | **Tabaxi** | **Fighter 7 / Rogue 2**
 
 ## Combat Stats
 - **AC:** 16
 - **Speed:** 30 ft.
-- **Proficiency Bonus:** +3
+- **Proficiency Bonus:** +4
 
 ## Ability Scores
 
@@ -18,34 +18,34 @@
 
 ## Skills
 
-**Acrobatics:** DEX (+7)
-**Animal Handling:** WIS (+4)
+**Acrobatics:** DEX (+8)
+**Animal Handling:** WIS (+5)
 **Athletics:** STR (+0)
-**Deception:** CHA (+5)
-**Insight:** WIS (+4)
+**Deception:** CHA (+6)
+**Insight:** WIS (+5)
 **Intimidation:** CHA (+2)
 **Medicine:** WIS (+1)
-**Perception:** WIS (+7)
+**Perception:** WIS (+9)
 **Performance:** CHA (+2)
 **Persuasion:** CHA (+2)
-**Sleight of Hand:** DEX (+7)
-**Stealth:** DEX (+10)
+**Sleight of Hand:** DEX (+8)
+**Stealth:** DEX (+12)
 **Survival:** WIS (+1)
 
 ## Saving Throws
 
-- **Strength:** +3
+- **Strength:** +4
 - **Dexterity:** +4
-- **Constitution:** +5
+- **Constitution:** +6
 - **Intelligence:** -
 - **Wisdom:** +1
 - **Charisma:** +2
 
 ## Senses
 
-- **Passive Perception:** 17
+- **Passive Perception:** 19
 - **Passive Investigation:** 9
-- **Passive Insight:** 14
+- **Passive Insight:** 15
 - **Darkvision:** Darkvision
 
 ## Proficiencies
@@ -62,7 +62,7 @@
 
 ## Features & Traits
 
-**Class Features:** Core Fighter Traits, Fighting Style, Second Wind, Action Surge, Tactical Mind, Fighter Subclass, Improved Critical, Remarkable Athlete, Ability Score Improvement, Extra Attack, Tactical Shift, 6: Ability Score Improvement, Additional Fighting Style, Core Rogue Traits, Expertise, Sneak Attack, Thieves' Cant
+**Class Features:** Core Fighter Traits, Fighting Style, Second Wind, Action Surge, Tactical Mind, Fighter Subclass, Improved Critical, Remarkable Athlete, Ability Score Improvement, Extra Attack, Tactical Shift, 6: Ability Score Improvement, Additional Fighting Style, Core Rogue Traits, Expertise, Sneak Attack, Thieves' Cant, Cunning Action
 **Species Traits:**
 - Languages: Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. Thieves' Cant.
 - Creature Type: You are a Humanoid.
@@ -77,7 +77,8 @@
 ## Equipment
 
 **Light Armor:** Studded Leather
-**Weapon:** Dagger, Dagger, Mace, Potion of Healing, Potion of Poison Resistance, Potion of Pugilism, Scimitar
+**Potion:** Potion of Healing, Potion of Poison Resistance, Potion of Pugilism
+**Weapon:** Dagger, Dagger, Mace, Scimitar
 **Wondrous item:** Bracers of Archery, Cloak of Displacement, Feather Token (Feather Fall)
-**Gear:** Arrows, Bedroll, Caltrops, Climber's Kit, Clothing, cold weather, Crowbar, Dice, Oil, Rations, Rope, Thieves' Tools, Tinderbox, Torch, Traveler's Clothes, Waterskin
-**Custom:** Frost Arrow, Snake Eyes
+**Gear:** Arrows, Bedroll, Caltrops, Climber's Kit, Clothing cold weather, Crowbar, Dice, Oil, Rations, Rope, Thieves' Tools, Tinderbox, Torch, Traveler's Clothes, Waterskin
+**Custom:** 3 Gold Teeth, 7 Large Teeth, Frost Arrow, Frostbitten Handkerchief, Golden Braid, Lucky Charm, Snake Eyes
