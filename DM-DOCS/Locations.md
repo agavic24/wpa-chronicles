@@ -14,3 +14,6 @@
 
     ## Blackreef Reach
     A hidden pirate port on a secluded and uncharted island off the west coast of NLP. It's where Makolo is head captive.
+
+    ## Brokenstone Vale (Kingdom of Lorelai)
+    The lycanthropes of Brokenstone Vale are suspected to be under the protection of the *Maiden of the Moon*. The magic that permeates the vale that allows them to control their transformation, a blessing from her.

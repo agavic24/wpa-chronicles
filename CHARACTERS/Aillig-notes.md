@@ -1,22 +1,27 @@
 # Aillig McCaird
 
 ## PC Notes
+
 Human Artificer
 Aillig's moral compass is strictly aligned to rigid adherence to legally binding contracts between magical beings/groups and/or humanoid populations. His job as a sigil agent was to act as a mediator in negotiations, to prepare, certify and store the contracts, and to enforce penalty clauses for breaches of the contracts.
 
 Aillig's belief system is based in the energy that ties everything together and the use of proper forms and symbols to bind things in certain ways. He has dealt with too many demi (or potentially greater) deities' contracts to see them as anything other than normal beings with inordinate amounts of power. His experimental "elixirs" are like a meditative exercise in the vein of zen gardens.
 
+### Motivations & Desires
+
+### Familiar Name
 
 ## DM Notes
 
 ### Backstory
 
-### Key Moments
-
+### Key Moments & Plot Hooks
 
 ### Goals
 - Gain some power that could lead towards a new purpose as his old life as a sigil agent is done.
 - Add Magical Tattoos to party members; needs to learn the plan for a Magical Ability Tattoo Needle at 14th level; then create the needle, and collect gem dust.
+
+### Skill Proficiencies
 
 ### Unique Items in his Possession
 - Lockbox of Holding (contains plan for a "Magical Ability Tattoo Needle")
