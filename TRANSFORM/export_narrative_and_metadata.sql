@@ -11,7 +11,7 @@ USE SCHEMA WPA.DATA;
 -- ============================================================================
 -- Export 1: Complete markdown document to CSV file
 -- ============================================================================
-COPY INTO @WPA.RAW_DATA.RAW_WPA/WPA_NARRATIVE_1_to_83.csv
+COPY INTO @WPA.RAW_DATA.RAW_WPA/WPA_NARRATIVE_84_to_87.csv
 FROM (
     SELECT 
         '# Written Path Adventures\n\n' ||
@@ -23,6 +23,7 @@ FROM (
         ) WITHIN GROUP (ORDER BY SCENE_NUM)
         AS markdown_content
     FROM SCENE_NARRATIVE
+    WHERE SCENE_NUM BETWEEN 84 AND 87
 )
 FILE_FORMAT = (
     TYPE = 'CSV'

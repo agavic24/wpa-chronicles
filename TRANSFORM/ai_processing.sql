@@ -43,16 +43,14 @@ WHERE FINAL_MESSAGES.SESSION_NUM = classified_sessions.SESSION_NUM
   AND FINAL_MESSAGES.SESSION_TYPE IS NULL;
 
 -- Create stored procedure to generate unique session titles one at a time
-CREATE OR REPLACE PROCEDURE generate_session_titles()
+-- Optional parameter: p_session_number - if provided, only process this session and greater
+CREATE OR REPLACE PROCEDURE generate_session_titles(p_session_number INTEGER DEFAULT NULL)
 RETURNS VARCHAR
 LANGUAGE SQL
 AS
 $$
 DECLARE
-    session_cursor CURSOR FOR 
-        SELECT DISTINCT SESSION_NUM, SESSION_TYPE 
-        FROM FINAL_MESSAGES 
-        ORDER BY SESSION_NUM;
+    session_cursor RESULTSET;
     current_session_num INTEGER;
     current_session_type VARCHAR;
     session_messages_text VARCHAR;
@@ -60,8 +58,14 @@ DECLARE
     ai_prompt VARCHAR;
     generated_title VARCHAR;
 BEGIN
+    session_cursor := (
+        SELECT DISTINCT SESSION_NUM, SESSION_TYPE 
+        FROM FINAL_MESSAGES 
+        WHERE (:p_session_number IS NULL OR SESSION_NUM >= :p_session_number)
+        ORDER BY SESSION_NUM
+    );
+    
     -- Loop through each session in order
-    OPEN session_cursor;
     FOR session_rec IN session_cursor DO
         current_session_num := session_rec.SESSION_NUM;
         current_session_type := session_rec.SESSION_TYPE;
@@ -110,7 +114,6 @@ Current Session Messages:
         WHERE SESSION_NUM = :current_session_num;
         
     END FOR;
-    CLOSE session_cursor;
     
     RETURN 'Session titles generated successfully';
 END;
