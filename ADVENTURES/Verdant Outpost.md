@@ -110,3 +110,245 @@ You have content available to you in the CHARACTERS and DM-DOCS folders.
     **"Can we go somewhere to talk?"**
 
 
+# The Salty Pig (tavern scene)
+
+*The party settles around a worn wooden table in the corner of The Salty Pig, the warm glow of lanterns casting dancing shadows across their faces. steins clink and the low hum of conversation fills the tavern as stories begin to flow.*
+
+*After a moment of silence, Marz finish's his mugand clears his throat, his eyes darting between Mina and Quinn.*
+
+**"Look, uh... about earlier. I was out of line. Way out of line."**
+
+**"I was upset about Cedic and..."**
+
+*He pauses, then looks to Mina directly.*
+
+**"And... well, a friend of Quinn's is a friend of mine. I'm sorry about questioning your bloodline and all that."**
+
+*He gestures vaguely with his stein.*
+
+**"Maybe we can start over, eh?  Tell me... how did you all meet?"**
+
+> (TIME WARP as party tells their brief history)
+
+*Marz leans back in his chair, processing the story. A slow grin spreads across his face.*
+
+**"So Mina here just left you all a week or so ago, and I was fortunate enough to hire her for this journey. Small world, isn't it?"**
+
+*He takes a swig and fills back up his stein, his eyes sharp and curious. He turns his attention to Mina, studying her for a moment.*
+
+**"Mina, back on that mountain pass you held your own against those manticores. I've been wondering..."**
+
+*He pauses, choosing his words carefully, clearly trying not to set her off again.*
+
+**"... well, the way you fight... the fury you bring to battle... it's not something you just pick up. Where'd you learn to channel that kind of power?"**
+
+**Mina's Reponse**
+It takes a few moments for Mina to process she's been addressed and she blinks in surprise before getting herself together.
+
+"Oh! Uh, well i'm bad at holding grudges been paid for. All's taken care of. Starting over is the way of it since i'm not like half my kin." 
+
+~timey wimey~
+
+She scratches her head, brows furrowing a little as she contemplates how to reply.
+
+"Older I got, the more evident it was something was up. Wasn't quite fey, wasn't quite giant. Something a bit of both coming together. Took a few years to figure out the ancestors had found an outlet through young me. All those big feelings weren't just me, they was many past who wanted something else to do in the after or in their waiting and lingering about the family lines. Mum had to teach me the control of self and the quiet elegant ways I should listen and play with the tricky ones. Da had to guide me in the ways the giants of our kin are tricky too in the ways of the sky but also in their deep primordial depths that demanded to be known. Is not just me fighting when I do, it's many. And it took a lot to figure out how to wrangle that many spirits into letting me take the reigns instead of them all bickering about it."
+
+*Marz's eyes widen slightly as the pieces click into place. He sets his stein down slowly, his expression shifting from curiosity to dawning realization.*
+
+**"Wait... wait, hold on."** *He runs a hand through his hair, his gaze distant as he replays the fight in his mind.* **"Back on that pass... I thought I saw something. Out of the corner of my eye - shadows, figures moving. I was too busy trying not to get gutted by the manticore on top of me to really look, but..."**
+
+*He looks back at Mina, his voice dropping slightly.*
+
+**"When I finally got a moment to look up, you'd already finished off your manticore. And then you came charging in - I mean, I've never seen anyone move like that. The way you tore into the one pinning me down..."**
+
+*He shakes his head, a slow grin spreading across his face, equal parts wonder and something that might be respect.*
+
+**"Those weren't shadows, were they? Those were your ancestors. Fighting alongside you."** *He pauses, studying her.* **"And you saved my life. Despite everything I said afterward, you saved my life up there."**
+
+With a gentle smile Mina reaches out a hand, and one of those spectral butterflies materializes to land upon her finger. 
+
+“Del’hin. Two names, to families. Made one. These are those come before. A last hurrah from some people with a little bit more fight left in em. Or well, least a will to show off.” 
+
+She chuckles, turning her hand over and letting the little creature disappear. 
+
+“If they show other ways I don’t know it much. I’m a little lost in the wave of emotions to be looking too hard.”
+
+-- 
+Meanwhile... 
+Cala starts to agree to the second drink when he hears Marz yell
+“Sure I…oh. I should get back to my friends. It’s been nice meeting you Fraesia. I look forward to calling you Frae.”
+
+He smiles at her and slides off the stool with the rest of his drink, scuttling back to the table
+
+“Diiiiid someone holler about food?! What are you folks talking about over here?”
+
+Cala is drooling a little
+
+--
+
+"Very impressive, Mina Del'hin!", says Marz.
+
+Marz then looks around the table.
+
+"What do you say we get some food ordered, eh?  I'm starvin!"
+
+Without waiting for a response, Marz yells across the tavern to the barmaid, Fraesia.
+
+"Hey lady! We wants some food over here.  Should we order at the bar?"
+
+>>> *Before Fraesia can get a refill for the rat, a goblin calls out for food and asks how to get it, and Cala leaves quickly to rejoin the party. The terrier rolls her eyes, hearing their loud conversation. She doesn't deign to answer.*
+
+*The people in the back room are beginning to wander their way back into the main dining area, filtering to the bar for new drinks on their tabs or plopping down in the open chairs. The tavern is beginning to seem a bit more crowded, and quite a bit louder. They're rambunctious about something, talking of 'the pig' and 'eating my weight in hog'.*
+
+---
+
+Marz's expression tightens...
+
+... then relaxes.
+
+"Ah, she must not have heard me."
+
+He takes a quick breath and then bounds to his feet.
+
+"I'll swing over there and see what we can do."
+
+He takes a single step from the table and then hesitates.  In a blur, Marz pivots on his left foot, swings his arm around, grabs the empty pitcher off the table, and completes the full circle spin with a right step lunging forward towards the bar.  With a quick smirk and glint in his eye, Marz looks back to yell...
+
+"Might need this!"
+
+*Marz slides up to the bar with practiced ease, setting the pitcher down with a theatrical flourish in front of Fraesia.*
+
+**"Well now, I must say... I've been to taverns across three continents, and I've never seen a bar run with such... efficiency. You've got quite the operation here."**
+
+*He flashes a charming grin at Fraesia.*
+
+**"And that's not even mentioning how your handle this crowd. Most barkeeps would be pulling their fur out with this chaos, but you're keeping everything running smooth as silk. Impressive, really."**
+
+*He pauses, waiting to see how she responds.*
+
+>>> 
+Fraesia is arguing with an unruly patron who won't pay her tab when the goblin from the new party slides into a bar seat and places an empty pitcher on the bar. She barks a few more choice words at the patron, threatening them with something unintelligible, before she's in front of Marz in a blink. She listens with an ear perked towards the other side of the bar.
+
+"Most of the people that come here know what they're getting into,' she quips, taking the pitcher to a large barrel against the wall to refill it. "I'm fast, but my teeth are faster." She leaves it at that, barking back at others swarming the bar. The terrier turns and sets the now full pitcher back down in front of the goblin. "If you don't want to get squashed, I recommend you and your friends stay close together."
+
+The tavern's tables are getting fuller by the minute. The music has stopped, having been drowned out by loud chatter and groaning chairs. Many stood at the bar to keep out of the way, or maybe to be closer to the action. Marz's personal bubble was slowly getting smaller as a couple adventurers sided in, shoving their way to the bar and shouting their orders at Fraesia, who didn't respond but seemed to be grabbing their drinks anyways.
+
+
+**"Ah… thanks!"**
+
+*Marz slides 2 silver onto the bar for the pitcher and leans forward slightly.*
+
+**"Say, you look incredibly busy up here. Could you send that young gal working with you to stop by our table and take an order?"**
+
+*He looks around at the growing crowd.*
+
+**"Or... is food service about to end here?"**
+
+>>>
+The terrier picks up the silver in a split second, the flash of metal as though it was never there. She's handing off glasses and grabbing the occassional coin, caught up with the influx of people. A barbarian who squeezed next to Marz chuckled, grinning with broken teeth through an unkept black beard.
+
+"He thinks you just order off the menu!" he chirps to his companion, a lithe and muscular fighter with two long braids and a scar sliced down her forehead, sitting on the other side, and the two laugh boisterously. "Did you just drop out of the sky or somethin', little man?" she hollers. "Thinkin' Kise is gonna wait the tables like a fancy palace aye, what a hoot!" The two chortle some more, getting refills on their mugs and tossing coins to Fraesia, who catches them mid-air with her teeth as she sets a heap of precariously full steins onto the younger terrier's tray. "Get back to your table. You won't get any dibs with us."
+
+*Marz grins, not taking offense at their ribbing. He glances toward his table where the terrier is now taking orders, then back at the two adventurers.*
+
+**"Fair enough, fair enough. I'll admit, I'm new to this particular establishment. But clearly you two know the lay of the land around here."**
+
+*He shifts slightly, moving up the pitcher closer but not yet picking it up. His tone becomes more conversational.*
+
+**"Actually, since you both seem... familiar with the locals... maybe you could point me in the right direction? I'm looking for someone who deals in, ah, specialty goods. Collectables, rare items, that sort of thing. You know the type... someone who handles merchandise that doesn't exactly end up on the regular market stalls."**
+
+*He pauses, eyes darting between them with practiced casualness.*
+
+**"I've got coin to spend for the right information. You know anyone like that around here?"**
+
+Just then, the kitchen door swings open with a boom. Everyone who was chattering loudly is now cheering, and it is difficult to see the commotion until the crowd parts. The biggest pig you've ever seen is being wheeled out on a giant table, pushed by a large black wiry two-legged Canid. Nobody dares to reach out and touch the pig despite the drool seen on many a face. The smell of roasted pig, rosemary, and garlic permeates through the tavern. The table is rolled to the center of the tavern, and the dog picks up a large chef's knife and its sharpener, clanging them together.
+
+"The Pig is prepared!" he howls. More cheers erupt from the crowd. A moment later, a dozen little terriers come bolting out from the kitchen, hopping up onto tables across the tavern. One runs up to the party, a scruffy light brown, and throws a bowl to the center of the table as he vaults onto its top.
+
+"How much?" he asks, peering at the group with beady black eyes.
+
+
+# A few momemnts later Marz is at bar hoping to make a connection with the gray market.
+
+Fraesia's attention is taken away from the goblin as another goblin approaches, the one from not long before. She nods, sweeping by and taking the coins in a flash of a white paw before she prepares the drink. In no time, the glass is slid across the counter to him. "Washing down the ale?"
+
+Marz replies, “Oh no, nothing like that. A friend had a fire at his home and lost his collection of rare bird plumes.”
+
+“I’m hoping to find someone here who knows the local nesting grounds - or where such things might… settle.”
+
+The merchant chuckles, missing the subtle thieves cant entirely.
+
+“Fancy feathers, eh? Can’t say I know much about birds beyond the chickens we raise.”
+
+He drains his cup, nods politely to Marz, and slides off his stool.
+
+“Best of luck though - I must be off.  My wife is going to have me skinned for running late again.”
+
+And he disappears into the crowd and out the door.
+A small pocket of quiet settles at the bar where he’d been sitting.
+
+Banya, without turning her head, downs her drink in a single shot.
+
+She then takes a brief glance sideways at Marz… sizing him up.
+
+“Bazı kuşlar yuvalarını tahmin ettiğiniz yerlerde yapmazlar.”
+
+Goblin: “Some birds don’t nest where you expect.”
+
+
+Banya turns back away and continues in a low and even voice.
+
+Goblin: “Some birds molt when frightened… others only when caged. Which kind was your friend keeping?”
+
+
+The question hangs there...
+Marz answers in goblin, keeping his tone level and unassuming.
+
+Goblin: “The kind that sang freely once… and then stopped.”
+
+
+He turns his cup slowly in his hands and then looks at Banya.
+
+Goblin: “If the cage was sold, I only want to know which tree it was hung from.”
+
+
+Banya doesn’t respond.
+
+Instead, she gives him another look… locking eyes for but a breath… and then she gives a small, almost imperceptible nod.
+
+Banya rises from her stool, and as she passes by Marz she murmurs softly.
+
+Goblin: “Shoes wear thin near the graveyard.”
+
+
+Banya then pauses at the end of the bar and flashes Fraesia a crooked grin.  In her normal warm voice and common tongue you hear.
+
+“Save me a bone, Fraesia! I want to make a stew for the little ones.”
+
+And then with a little wave she is off, parting the room as she heads out the door.
+Quinn: As the goblin lady leaves the bar you see an immediate reaction from the room.  The two ruffians along the wall peel off to follow.  They’re not in pursuit, they are clearly an escort.
+
+You also see the dwarf react a heartbeat later.  He looks up to see Banya heading to the door and then does a short scan of the room.  He finishes counting the last few coins, closes his ledger after one more scribble, and then reaches for his plate of half-eaten pork. After a couple of bites he pushes the plate away and stands up with a grunt.  In a moment, he too walks out the tavern door with two more ruffians from a nearby table in close escort.
+Marz comes bounding back to the table with his half-finished tea just as Darias completes his tale.
+
+“Wow! You ate it all.”
+
+He gives you all a brief look and then sits back down next to @Quinn | Lindsey .
+
+“Sweet tea acquired! What did I miss?”
+
+Quinn looks at Marz as he returns, mulling over the information he was able to gather - or at least, what had happened around the bar. She shifts in her chair, wanting to follow the group leaving the tavern but not wanting to abandon her party. "Just talking, and Cala eating his weight in pork," she responds. "Good tea?"
+Leaning close, she whispers "Are we going to follow them?"
+, unsure if she needs to inform the group.
+
+*Marz leans in, voice dropped to a hurried whisper, fingers fidgeting with the rim of his mug.*
+
+**"Yeah - follow. Quietly. Not the whole circus tho. Don't want to spook 'em."**
+
+*His eyes flick toward the door, then back to Quinn.*
+
+**"She said 'shoes wear thin near the graveyard.' The graveyard must be a pick-up point... don't want eyes on 'em."**
+
+*He forces a crooked grin.*
+
+**"Quinn,,, you with me? I... I can't let this fizzle. Not this time."**

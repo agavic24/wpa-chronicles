@@ -18,8 +18,19 @@ Ra has three primary forms and never uses their Changeling form.  Those forms ar
 
 ### Motivations & Desires
 
-### Familiar Name
-- Klymok (An imp)
+1. **To maintain autonomy while fulfilling the pact**: Ra wants to serve the Maiden of the Moon and the Gloaming Court without losing themselves completely. They seek ways to exercise their own will and judgment within the bounds of their obligations, finding loopholes or creative interpretations that allow them to serve both their fey patron and their own moral compass.
+
+2. **To reclaim control over their identity**: Despite being a changeling with multiple forms, Ra struggles with feeling like their true self is becoming lost among their masks (Ra'mora, Ra'skar, Ra'vek) and their fey-given powers. They desire to discover or rediscover who they are beyond the roles they play and the powers they've been granted.
+
+3. **To cure the Heart of Stillwinter and restore their emotional connection**: The curse is slowly numbing Ra's emotions and making them feel more distant from others. They want to find a way to break this curse not just for practical reasons (removing the disadvantage), but to feel genuinely connected to their companions and experiences again - something that becomes increasingly precious as their fey powers threaten to distance them from their humanity.
+
+4. **To build genuine trust and connection with the party**: Ra has spent years operating alone, using deception and multiple identities. Now that they've found companions who know some of their secrets, they want to let their guard down and form authentic relationships - though they're still learning how to do this after a lifetime of masks and survival instincts.
+
+5. **To find their place between worlds**: Ra exists between the mortal realm and the Feywild, between criminal and agent, between changeling and humanoid. They want to find a way to reconcile these dualities rather than being torn apart by them, seeking a balance where they can honor their fey obligations while remaining grounded in the mortal world they've always known.
+
+### Klymok (An imp)
+
+During Ra's training in the Feywild, the Maiden of the Moon presented Klymok as a gift - a feywild spirit in imp form. The Maiden explained that Klymok would serve as Ra's eyes and ears, a loyal companion forged from the same twilight magic that flows through Ra's pact. Over time, Ra learned to call upon Klymok through the find familiar ritual. Klymok serves both Ra and, in subtle ways, the Maiden's interests, though the imp has grown genuinely fond of Ra's cunning and survival instincts.
 
 ## DM Notes
 

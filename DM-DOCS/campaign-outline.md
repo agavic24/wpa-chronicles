@@ -76,14 +76,14 @@ This outline details locations, characters, key events, and narrative flow withi
 
 ## Campaign Arc
 
-## Part 0: Setting the Stage
+### Setting the Stage
 An unlikely troop of characters bond together as they explore an island continent, the Norther Lights Providence.
 Within the swamp of Snakewood the party will see Saba depart the party, but make a new friend in Feligrinn.
 They will battle Oona the Lost and the Sporion that corrupted her.
 They know not what the Sporion exactly is or what to do with its heart they collected, so the journey begins seeking knowledge on how to unwind the corruption.
 Mina will depart at this point.
 
-## Part 1: Seeking Knowledge
+### Seeking Knowledge
 The party will seek out Edrik Fenwyn, a historian living in the Crimson Grove, who is their best lead on what the Sporion and the corruption could be.
 Edrik provides some answers into personal backstories and suggests they find Vaelith Duskrune, an elf likely to understand the corruption's true nature.
 Along the way, the party gets caught up with a bheur hag, Mother Snæbjörg, who's been corrupting the mountainous region of Isanya's Spine.
@@ -102,14 +102,16 @@ Challenge: Gaining entry into the surface is perilous — Drow society is highly
 Key NPC: Vaelith Duskrune, an exiled Drow druid and scholar, once a protector of the ley lines but now hunted for defying the Matron Mothers. She agrees to help if the party can eliminate a Mind Flayer cult that seeks to enslave the region.
 Discovery: Through her studies, Vaelith reveals that the corruption is tied directly to Venom’s heart, which he bound to the ley lines using a long-lost artifact—the Verdant Core—now hidden in a sunken elven vault.
 
-# Part 2: Recovering the Verdant Core
+### Recovering the Verdant Core
 Location: The Sunken Vault
 Once an elven sanctuary, this temple was swallowed by the ocean when the ley lines were twisted. It is now submerged beneath treacherous waters, guarded by restless spirits and sea creatures.
 Challenge: Navigating the ruins requires magical means or an alliance with the local merfolk, who view outsiders with suspicion.
 Key NPC: Queen Nylith of the Tideborn, ruler of the merfolk, offers aid in exchange for dealing with a monstrous abomination lurking within the ruins.
 Discovery: The Verdant Core is protected by a trial—visions of the past reveal the elves’ desperate battle against Venom and the moment the ley lines were corrupted.
 
-# Part 3: The Dragon’s Wrath
+### Into the Feywild
+
+### The Dragon’s Wrath
 Location: The Swamp, Venom’s Awakening
 With the Verdant Core in their possession, the party returns to the swamp to cleanse the ley lines. However, the moment they attempt to activate the artifact, Venom senses the disruption and launches a full-scale attack.
 Battle Setup: The swamp itself fights alongside Venom—animated vines, toxic mists, and corrupted beasts strike as the dragon unleashes his fury.
@@ -117,7 +119,7 @@ Battle Setup: The swamp itself fights alongside Venom—animated vines, toxic mi
 - Phase 2: As the party weakens him, he collapses sections of the swamp to isolate them and force a final confrontation in his lair.
 - Climax: With Venom defeated, his influence over the ley lines is severed, but the land is still scarred.
 
-# Part 4: The Final Restoration
+# The Final Restoration
 Location: The Elven Homeland, The Tree of Life
 The elves, now aware of Venom’s defeat, reveal the existence of a second Seed. This sacred relic, a direct offshoot of the legendary Tree of Life, has the power to restore the swamp’s balance.
 Challenge: The Tree of Life is located deep within an enchanted forest, protected by ancient guardians. The party must prove themselves worthy.

@@ -98,7 +98,7 @@
 **Light Armor:** Studded Leather
 **Potion:** Potion of Fire Breath, Potion of Necrotic Resistance
 **Weapon:** Crossbow Hand, Dagger, Dagger
-**Wondrous item:** Cloak of Elvenkind, Exhaustion (Level 1), Goggles of Night
+**Wondrous item:** Cloak of Elvenkind, Goggles of Night
 **Gear:** Cartographer's Tools, Grappling Hook, Thieves' Tools
 **Legacy:** Arcane Focus, Bedroll, Crossbow Bolts, Ink (1 ounce bottle), Ink Pen, Mess Kit, Pearl, Pot Iron, Potion of Healing, Rations (1 day), Rope Hempen (50 feet), Tinderbox, Torch, Waterskin
 **Custom:** Copper wire, Frost Bolt, Iron Dust, Length of thorned vine, Mason Jar of Unknown seeds steeped in Feywild Fizz Gin, Squirrel Skull necklace, Talc, Tambourine, pickles, regular dust

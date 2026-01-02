@@ -4,7 +4,7 @@
 
 Male, Fairy, Rogue, Arcane Trickster: 
 
-It was a foggy moonlit dream of a night when the chanced encounter produced Calabaza. A roaming Ratkin was bedazzled by the rusted glitter of dried blood on the wings of a flesh-eating Fey, while the Fey appreciated the sizable teeth and claws on the Ratkin. The gods chanced to look away for the evening's events and thus Cala came into being.
+It was a foggy moonlit dream of a night when the chanced encounter produced Calabaza. A roaming Ratkin (Cala's father from Brokenstone Vale) was bedazzled by the rusted glitter of dried blood on the wings of a flesh-eating Fey, while the Fey appreciated the sizable teeth and claws on the Ratkin. The gods chanced to look away for the evening's events and thus Cala came into being.
 
 A mercurial creature, Calabaza De Peligro  was raised in a dual custody situation. His mother being a member of the Autumn Fey court, he was with his Fey relatives for fall/winter and his Ratkin relatives during spring/summer. Cala is usually two feet tall with grey fur and small bug-like wings that he hides. While he typically adopts more of the look of his Ratkin heritage in public, when exposed to Fey magic he tends to morph more Fey in appearance, dropping the innate glamor that keeps him as ratty as possible.
 
@@ -16,23 +16,30 @@ The liminal space of shadows and secret places are where the Cala feels most at 
 
 Cala avoids Saba at all costs. Too much emotional turmoil and such. Cala loved her, didn't like being pressganged to Saba as a familiar by her ex husband Victor.
 
-🎶
-People are strange,
-When you're a Ratkin,
-Fey look down on 
-you all alone
+### Cala's Song
+    🎶
+    People are strange,
+    When you're a Ratkin,
+    Fey look down on 
+    you all alone
 
-Different seems wicked
-When you're unwanted
-Claws reach undaunted
-When you're a rat (+2 CON)
+    Different seems wicked
+    When you're unwanted
+    Claws reach undaunted
+    When you're a rat (+2 CON)
 
-… When you're strange
-Fey folk seek to deal pain. (+4 DEX)
-When you're strange
-No one remembers your name (+2 CHA)
-When you're strange….
-When you're straa-aaange…🎶
+    … When you're strange
+    Fey folk seek to deal pain. (+4 DEX)
+    When you're strange
+    No one remembers your name (+2 CHA)
+    When you're strange….
+    When you're straa-aaange…🎶
+
+### DM to PC: Where do you think your character's head and heart are at after everything that’s happened so far?
+    Cala is heartbroken that the hostages died and mad as hell that the hag Mother Snæbjörg' got him, costing his friends energy, time and life. It's vendetta time, and this is the most serious he's ever been.
+
+### DM to PC: Is there anything you’d love to explore more deeply this time around - with your character, the world, the story?
+    He's always been a bit of a Peter Pan, an irresponsible feral thing. I'm open to exploring him as a more serious character however. Ratkins tend to be considered were-creatures (at least in White Wolf), so maybe some moon based shenanigans?
 
 ### Motivations & Desires
 
@@ -42,10 +49,11 @@ When you're straa-aaange…🎶
 
 ### Backstory
 
-Father was a ratkin lycan
+Father, Bramble Mossrunner, was a ratkin lycan and a guide who helped folks with safe passage across the Brokenstone Vale.
 Mother was a fey fairy of the autumn court.
 Once passed adolescence Cala bartered with civilized lycans on the outskirts of the Brokenstone Vale in feywild.  (Guide origin)
-Evil lycans never liked that his father was mingling with the fey and something triggered them to take action… the last thing he remembered was a punch to the gut and a bag thrown over his head.
+Evil lycans never liked that his father was mingling with the fey and something triggered them to take action… 
+The last thing Cala clearly remembers from the feywild was a punch to the gut and a bag thrown over his head.
 Cala was captured and sent to Fomorians in Harrowhame as a slaved
 His parents tried their best to find him, but it was impossible. They felt terrible about it.
 Deemed too small and useless as a slave, he was transferred to Mug Tureah as a potential test subject for many planar portals in the tunnels
@@ -75,6 +83,7 @@ At temple works, he has to given thanks for Surriel Ghena and Ma'rat Suiquinna R
 - Cala was frozen solid by Mother Snæbjörg (similar to petrify).  In a ritual with the Shrina the Compassionate One, Cala's friends were able to bring him back with Shrina's Eternal Flame. Saved by Shrina and the Eternal Flame
 SHRINA to Cala: "Let it be known: no flame is ever truly lost. In love, in sacrifice, in compassion - it endures. Rise now, child of the Eternal Flame, and walk again."
 Note: You have not returned untouched. While you never died, death knows your name now and may come quicker next time. (Just make a note on your sheet: -1d4 to death saves)
+- Cala and the party kill off Mother Snæbjörg in an epic lair battle
 
 #### The Hag Mother Snæbjörg's Connection to Cala
 Long ago, before Cala escaped, the he was a "subject" for the Bheur Hag Mother Snæbjörg  
@@ -92,5 +101,15 @@ The hag can reveal (truthfully or not) that she had planned to use Cala to open 
 ### Skill Proficiencies
 
 ### Unique Items in his Possession
+Starshot Light Crossbow
+Cloak of Elvenkind
+Goggles of Night
+Frost Bolts (crafted from yeti claws)
 
 ### Magic Items of Interest
+Luck stone
+A bag of tricks (thematic)
+Bracer of Flying Daggers
+Gloves of Thievery
+Bag of Holding
+Boots of Haste
