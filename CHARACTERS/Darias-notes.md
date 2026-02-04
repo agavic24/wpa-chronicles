@@ -30,6 +30,12 @@ Cinder once enabled Darias to commune with the elemental plane of fire and he ma
 
 ## DM Notes
 
+### DARIAS PLOT - What has been shared with PCs
+- Darias came from a modest Goliath village where he spent his time either in the smith or causing trouble.
+- **He is on an adventure of exploration as he strives to bring balance to the world.**
+- He does not know why Cinder was bound to him, but it set him down the path of becoming a Wildfire Druid and forming a Pact with a noble **Efreeti Genie**.
+- He had a vision with his patron that reinforced the power structure,  tested his willingness to destroy the weak for a greater purpose, and warned him not to challenge their authority.
+
 ### Backstory
 
 Stone Goliath, Wildfire Druid, Efreeti Genie Warlock
@@ -37,6 +43,9 @@ Directory Post: Here
 8', 200lbs.
 Languages: Common, Giant, Draconic, Druidic
 Darias is tall, a descendent of Stone Giants. His shock white hair is the color of white quartz.
+
+#### Flaw
+If he creates too much fire he can get carried away and keeps burning more than balance justifies.
 
 #### Druid: Circle of Wildfire 
 He was called to Druidry because an elemental wildfire spirit, Cinder, was bound to him (he knows not how). The Wildfire circle of Druids has acknowledged him, but they are a circle only in name (anarchists of the world unite and all). Darias seeks balance, but sometimes that balance requires a cleansing fire to start over. He is chaotic neutral... a blend of wild fire and balance.
@@ -47,7 +56,7 @@ He was called to Druidry because an elemental wildfire spirit, Cinder, was bound
 - Personality: Shahzari the Ashen Queen is a being of searing intensity, her presence both mesmerizing and merciless. She is regal yet wrathful, a monarch who sees hesitation as weakness and mercy as a failing. Her words are honeyed embers—seductive, yet burning with hidden cruelty. She delights in negotiation not for fairness, but for the slow pleasure of watching others realize too late that they have already lost. To her, destruction is not chaos but refinement, a necessary purging that only the strong survive. Those who serve her are kindling, meant to burn brightly or be reduced to ash—there is no in-between.
 - Motivation: Shahzari believes that true balance is found only when everything has burned away and is reborn in flame. She sees herself as the great purifier of the world, erasing corruption and weakness to make way for a stronger order. She has no patience for hesitation or sentimentality—fire consumes, and so should Darias.
 - Interest in Darias: She sees Darias as a reluctant ember of destruction, one who does not yet understand that fire does not negotiate. She guides him to embrace his destructive potential, testing his limits and punishing hesitation. She grants him power, but always with a searing lesson—kindling a fire only to snuff it out if he disappoints her.
-- Vision Test: Shahzari gives Darias a vision test during an evening of rest. The intent is to establish the warlock's pact terms.  Darias gains power, but must accept his role as a instrument of destruction. The vision reinforces the power structure,  tests his ruthlessness, and shares the belief system where destruction of the weak serves a greater purpose.  If Darias passes the test, he will receive his Genie Vessel (Ring with a comparment) and a stern warning not to challenge the patron's authority.
+- Vision Test: Shahzari gives Darias a vision test during an evening of rest. The intent is to establish the warlock's pact terms.  Darias gains power, but must accept his role as a instrument of destruction. The vision reinforces the power structure,  tests his ruthlessness, and shares the belief system where destruction of the weak serves a greater purpose.  Darias passes the test and receives his Genie Vessel (Ring with a comparment) and a stern warning not to challenge the patron's authority.
 
 #### Cinder: Wildfire Spirit
 Cinder was the means of the party's escape while innocents died in the Shrine of Shrina; her Fiery Teleportation becomes unreliable when used around groups of humanoids. The spirit must make a Charisma saving throw (DC 14). On a fail, the spirit refuses the command entirely unless the player makes a DC 15 Persuasion check to "convince" it.

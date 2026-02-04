@@ -352,3 +352,55 @@ Leaning close, she whispers "Are we going to follow them?"
 *He forces a crooked grin.*
 
 **"Quinn,,, you with me? I... I can't let this fizzle. Not this time."**
+
+>> Ra'vek
+“Mmm… Sounds like work, then. Dangerous work.”
+
+Ra’s eyes flick briefly to Marz.
+
+“Which makes me curious…” 
+
+Ra’s voice raises in volume enough for all at the table to hear.
+
+“…why our quiet guest keeps leaning into Quinn like they’ve got unfinished business.”
+
+Ra catches eyes with Quinn.
+
+“I don’t mind side conversations, but yours looks important. What’s going on @Quinn | Lindsey ?”
+
+>> Quinn
+
+Quinn is about to respond when Ra suddenly addresses her, and she jerks upward, eyes wide. "Um..." She struggles for something to say, but after that Marz implied, it was probably best to come clean if she was going to make an easy exit for herself. "Yeah, um, it has been a wild week Mina, this conversation included..." A knot bobs in her throat. "Marz and I have someone we are tracking down, and he thinks they might be here, in this town. Whoever was at the bar just now gave a tip, and I need to follow through with it." Her hands grip her stein tightly. She avoids eye contact with anyone in particular. "Doesn't mean I'm leaving completely, but he and I should probably go check it out. We don't want them moving him, or catching wind that someone is interested." Her eyes eventually go up to Mina. "We've had, um, a near death experience yesterday. I can't stand the thought of possibly losing someone else."
+
+>> Cala
+
+Cala’s tail coils tight around the chair leg and joins in.
+
+“…Yeah… that happened.”
+
+He glances around the table, meeting each of your eyes in turn. There’s gratitude there. And something heavier underneath.
+
+“I didn’t think I was coming back…”
+
+Cala tone gets more serious than you’ve ever heard.
+
+“Thought I was done. Thought I’d… run my last trail.”
+
+He exhales through his nose, a small ratkin sigh.
+
+“Anyway, look at me. Breathing. Eating. Heart still doing its thumpy thing.
+
+He taps his chest twice.
+
+“See. All good.”
+
+He drains the last of his Cranberry Sow-er and stands slowly.
+
+“Sounds like y’all got something to work out. I’m gonna go let this settle and take a little siesta.”
+
+Cala pats his belly one last time, then skitters from the table without another word.  You watch as he swings around post avoiding a drunk patron, and then jumps a few rungs up a makeshift ladder to a hammock that hangs in the rafters.
+
+>> Ra'vek
+Ra watches their ratkin friend’s tail disappear into the hammock before he turns to Aillig at his side with a puzzled look.
+
+“Did she say, they don’t want ‘them moving him’?”

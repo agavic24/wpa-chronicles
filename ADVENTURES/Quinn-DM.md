@@ -29,7 +29,7 @@ Quinn watches Marz carefully. His behavior, his mannerisms, all the same from ye
 
 *He pauses, his voice dropping lower.*
 
-**"And I know he's alive, Quinn. I've seen the records. Just 6 months back someone paid for a 'singing tortle' to be kept... comfortable and brought here - to NLP. That's Makolo. It has to be!"**
+**"And I know he's alive, Quinn. I've seen the records. Just 3 months back someone paid for a 'singing tortle' to be kept... comfortable and brought here - to NLP. That's Makolo. It has to be!"**
 
 Quinn still was uncertain about all of this information. It was a little too convenient for her past to catch up to her now, in a random city, along with another person she knew that he apparently had a connection with. The thought of Makolo being alive, being -here-... Her gut tightened in an almost painful way. Her gaze went to the alley side they entered from, hearing the distant voices of her party, her friends. At least, she hoped they considered her to be one. If they knew what she had done, knew the origin of her precious dice set, they could very well throw her into the dirt and she wouldn't be able to argue.
 

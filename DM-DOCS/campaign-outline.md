@@ -1,7 +1,18 @@
 # Campaign Outline
 
 ## Overall Goal of Campaign
-Restoring Balance.  It's not just about removing corruption, but 
+Restoring Balance.  It's not just about removing corruption, but ....
+
+## CAMPAIGN PLOT - What has been shared with PCs
+- An unlikely troop of characters bonded together as they explored the island continent, the Northern Lights Providence.  #🎞slide-show provides highlights.
+- You discovered the corruption of plants, animals, and men within **Snakewood**, a swamp near Mirewatch Outpost.
+- You battled Oona the Lost and defeated her and the **Sporion** that had corrupted her. 
+- **The party decided to uncover the source of the corruption and what could be done to unwind it.**
+- You sought out **Edrik Fenwyn**, a historian living in the Crimson Grove, who was your best lead on the Sporion and the corruption.
+- You learned that the Snakewood swamp was once the **Galadrian Forest** and read a book on it's demise after the arrival of **Venom, an ancient green dragon**.
+  - Book (PLEASE READ!): https://docs.google.com/document/d/13oS6Pa0zEmMbl5eBndUX-Dw9vhC56Uqo5mCi9rGRWSs/edit
+- Edrik suggests you find **Vaelith Duskrune**, an elf likely to understand the corruption's true nature.
+- Valeith was last known to be headed to the tea house of **Merriwig Fiddlecap** in the heart of the Mushroom forest.
 
 ## Overview
 An evil green dragon, Venom, settled into the southern side of the island, drawn to the powerful ley lines there.
@@ -85,7 +96,8 @@ Mina will depart at this point.
 
 ### Seeking Knowledge
 The party will seek out Edrik Fenwyn, a historian living in the Crimson Grove, who is their best lead on what the Sporion and the corruption could be.
-Edrik provides some answers into personal backstories and suggests they find Vaelith Duskrune, an elf likely to understand the corruption's true nature.
+- Edrik provides some answers into personal backstories and gifts a magical compass.
+- He suggests they find Vaelith Duskrune, an elf likely to understand the corruption's true nature.
 Along the way, the party gets caught up with a bheur hag, Mother Snæbjörg, who's been corrupting the mountainous region of Isanya's Spine.
 As it turns out, she was behind Cala's kidnapping and loss of memory; clues are left for a future exploration of the Feywild and Feydark.
 The party will eventually defeat Snæbjörg and arrive at the Verdant Outpost.  Here they will be reunited with Mina and meet one of Quinn's old acquaintances, Marz. 
@@ -96,7 +108,7 @@ Part 2: Navigating Darkness
 Deep beneath the surface lies the Underdark.
 Szinth’alyra, or The Vault, is an ancient Drow city hidden in the vast tunnels of the Underdark. 
 The party must seek out Vaelith Duskrune there and obtain her knowledge of ley lines and corruption.
-Vaelith will explain that the dragon’s magic which corrupted the ley lines has started a rot is spreading on its own now.  If something could be made to consume the corruption in the ley lines, just as the mushrooms consumed rot, it could be undone from within.
+Vaelith will explain that the dragon’s magic which corrupted the ley lines has started to rot and is spreading on its own now.  If something could be made to consume the corruption in the ley lines, just as the mushrooms consumed rot, it could be undone from within.
 
 Challenge: Gaining entry into the surface is perilous — Drow society is highly secretive, and the party must either sneak in, earn an invitation, or strike a dangerous bargain with an Underdark faction.
 Key NPC: Vaelith Duskrune, an exiled Drow druid and scholar, once a protector of the ley lines but now hunted for defying the Matron Mothers. She agrees to help if the party can eliminate a Mind Flayer cult that seeks to enslave the region.

@@ -2,7 +2,7 @@
 
 ## PC Notes
 
-Ra was born a fey changeling but lived a hidden life among mortals.  Few know of their true nature, but the party has proven trustworthy and has seen the shapeshifter in action.
+Ra was born a changeling but lived a hidden life among mortals.  Few know of their true nature, but the party has proven trustworthy and has seen the shapeshifter in action.
 
 Ra is a changeling that can alter their appearance and voice. Changelings are pale, with colorless eyes and silver-white hair. It is rare to see a changeling in its true form, because a typical changeling alters their shape the way others might change clothes.  With ever-changing appearances, changelings reside in many societies undetected. Each changeling can supernaturally adopt any face they like. For some changelings, a new face is only a disguise. For other changelings, a new face may reveal an aspect of their soul.
 Ra has three primary forms and never uses their Changeling form.  Those forms are:
@@ -36,12 +36,19 @@ During Ra's training in the Feywild, the Maiden of the Moon presented Klymok as 
 
 Changeling, Misfortune Bringer Rogue, Archfey Patron Warlock
 
+### RA PLOT - What has been shared with PCs
+- Ra is a changeling who carved out a place in Sigil's criminal underworld - specializing in poisons and rare contraband.
+- **They struggle with finding balance and autonomy in life that is fraught with layers of secrecy, duty, and survival.**
+- He has shared that he no longer in contact with his old guild after an **"incident"**.
+- He has shared very little of the pact with his patron.
+- He has become more distant and abrasive in recent days.
+
 ### Backstory
 
 For many years Ra carved out a place in the criminal underworld - specializing in poisons and rare contraband.  They built up a reputation as someone who could acquire almost anything and leave no trace.
 The face of Ra during most of this time was of Ra'skar - an older male human.  The front helped Ra get into high-society … and the wealthy purses of potential clients.  Ra'skar never executed any deals… Ra had another form for that, Ra'mora.
 
-Ra spent years in this form, yet the party has never met her.  While Ra'vek was the fence or middle-man, Ra'mora was the thief or acquirer of goods that made it all possible. Her work required silence, subtlety, and an unflinching resolve - all skills she mastered with cold precision.
+Ra spent years in this form, yet the party has never met her.  While Ra'skar was the fence or middle-man, Ra'mora was the thief or acquirer of goods that made it all possible. Her work required silence, subtlety, and an unflinching resolve - all skills she mastered with cold precision.
 
 Several years ago, Ra'mora ventured into a shadowy black market to secure a rare and powerful toxin. The deal, however, was a setup. Three rival thieves ambushed her, hoping to end her influence permanently. They attacked, but she managed to escape during the fray.  Badly wounded and pursued through the city's underbelly, Ra'mora fled for her life.  She cried out a desperate plea to any power that might hear her.
 
@@ -55,7 +62,9 @@ During the next 3 cycles of the moon, Ra was taught eldritch invocations by the 
 
 Her pact was also sealed: she would act as the Maiden's covert agent in the mortal realm, an instrument of quiet justice and **Guardian of the Dreamflow**.
 
-Now, Ra walks the world once more, both rogue and warlock, they past buried in shadows and they future tied to the call of the Gloaming Court. 
+Now, Ra walks the world once more, both rogue and warlock, they past buried in shadows and they future tied to the call of the Gloaming Court.
+
+At one point SOMEONE from the Gloaming Court trained Ra in the skills of a **Misfortune Bringer**.
 
 Ra is a complex character - shaped by their past, the pact with the Maiden of the Moon, and their role as both a rogue and a warlock. The way they interact with others is influenced by these layers of secrecy, duty, and survival.  The results is Ra is a figure of calculated mystery, carefully managing what they reveal to others and even what they admit to themselves. The path they've chosen is fraught with complexity, and while they may be comfortable with some secrets, others weigh heavily on them—threatening to unravel the person they want to be.
 
@@ -84,7 +93,7 @@ Ra is a complex character - shaped by their past, the pact with the Maiden of th
 
     ### What Ra Wants to Hide from Themselves:
         #### The Cost of Their Pact:
-        Deep down, Ra may question whether their pact was worth it. They hide from themselves the gnawing realization that they've made a terrible bargain with a powerful and unpredictable archfey. They may justify their actions, telling themselves it's the price for survival, but the truth is, they've sacrificed a piece of their own autonomy. They fear that the more they use their fey-given powers, the less human they'll become.
+        Deep down, Ra may question whether their pact was worth it. They hide from themselves the gnawing realization that they've made a terrible bargain with a powerful and unpredictable archfey. They may justify their actions, telling themselves it's the price for survival, but the truth is, they've sacrificed a piece of their own autonomy. They fear that the more they use their fey-given powers, the less moral they'll become.
 
         #### Their Growing Dependence on the Feywild's Power:
         The more Ra draws on the Maiden's magic, the more they feel tied to the feyworld. They hide from themselves just how much their identity is now defined by the power granted to them. They want to believe that they're still in control, but deep down, they worry that they are slowly becoming a puppet of the Gloaming Court, bound to their will and losing the very freedom they once prized. In moments of defiance they choose to ignore their gift magic and try to get along with out it - sometimes at the risk of injury and worse.

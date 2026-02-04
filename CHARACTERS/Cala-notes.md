@@ -47,6 +47,15 @@ Cala avoids Saba at all costs. Too much emotional turmoil and such. Cala loved h
 
 ## DM Notes
 
+### CALA PLOT - What has been shared with PCs
+- Cala is a ratkin lycan from the Feywild with a cryptic past.
+- **He is on a journey of personal discovery, all the while maintaining a fun, mercurial fey mind.**
+- He does not remember much of his past but knows he was trapped in animus state (full rat) for 4 years as a wizard's familiar (Saba's).
+- He ran into **Mother Snæbjörg**, a bheur hag who reveals she was behind Cala's kidnapping and has memories stored in dolls. (Darias has such a doll)
+- He was frozen solid by Snæbjörg but saved by a ritual involving **Shrina the Compassionate One** and the Eternal Flame.
+- During an epic battle with Snæbjörg, Aillig learns from Lorrien that others were "hollowed out" like Cala and destined for **Thrumbolg's gates**.
+- He **disappeared** in the night after the party defeated Snæbjörg and they arrived in the Verdant outpost.
+
 ### Backstory
 
 Father, Bramble Mossrunner, was a ratkin lycan and a guide who helped folks with safe passage across the Brokenstone Vale.
@@ -90,7 +99,7 @@ Long ago, before Cala escaped, the he was a "subject" for the Bheur Hag Mother S
 Cala was one of the captives "marked" by the hag.
 Cala never saw the hag directly (being blindfolded or cursed), but most of Cala's memory loss and trauma is the hag's doing.
 The hag can reveal (truthfully or not) that she had planned to use Cala to open an ancient planar gate deep within the Feydark—a portal project still unfinished.
-"You were special once, my little seedling. The Fomorians wanted your magic, but they were blind. You could have been so much more…"
+"You were special once, my Little Squeek. The Fomorians wanted your magic, but they were blind. You could have been so much more…"
 
 ### Goals
 

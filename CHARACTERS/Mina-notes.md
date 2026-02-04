@@ -26,6 +26,12 @@ She wants to explore the wider world behind the feywilds where her father comes 
 
 ## DM Notes
 
+### MINA PLOT - What has been shared with PCs
+- Mina is a jovial half-giant, half-fey barbarian from the Feywild.
+- **She is on  a classic coming of age journey that will define who she is and channel the ancestors of both family sides for good.**
+- She has proven to be a formidable warrior and trusted ally of the party, but had to depart for important matters.
+- She was surprisingly reunited with the party at the Verdant Outpost, but is still long overdue for returning to the Feywild.
+
 ### Backstory
 
 Your mother's family has a longstanding pack with moonstone dragons that stretches back many generations.

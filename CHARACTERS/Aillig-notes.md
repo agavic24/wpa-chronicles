@@ -11,7 +11,7 @@ Aillig's belief system is based in the energy that ties everything together and 
     I think that he would be wearied, but trying to put on a stoic determined façade with the whole 'elder statesman' thing. I think that his mind would also keep wandering to both the cube and the seed. The first nagging as an unsolved riddle and the second with a sense as it being a ticking bomb.
 
 ### DM to PC: Is there anything you’d love to explore more deeply this time around - with your character, the world, the story?
-    - Play up the taken apart/put back together bit from the dream; it’s like a meditation… a full body scan...but is it more? (see dream below). What caused it? Is it the influence of the seed etc., being in this different place, something related to all the energy that was flying around with the defeat of the hag (maybe tying in with the part of his origin story where his mentor got to him in the swamp before a hag did)  or something else (god, fey whatever.)  
+    - Play up the taken apart/put back together bit from the dream; it’s like a meditation… a full body scan...but is it more? (see dream below). What caused it? Is it the influence of the seed etc., being in this different place, something related to all the energy that was flying around with the defeat of the hag (maybe tying in with the part of his origin story where his mentor got to him in the swamp before a hag did) or something else (god, fey whatever.)  
     - Play into the feat he'll get at level 12.
     - Would like to explore his Tinker's Magic ability (allows magically crafting mundane objects into existance until dawn the next day). For flavor, Aillig will create a paper oragami of the item and then it will pop into existence.  At least initially, he wouldn't know how it was working, and someone (who??) will need to leave him a message with a clue how to use this ability (and then the message will vanish at dawn).
     - Will find a peer for experimenting with on new elixer infusions
@@ -25,7 +25,14 @@ Aillig's belief system is based in the energy that ties everything together and 
 
 ## DM Notes
 
+### AILLIG PLOT - What has been shared with PCs
+- Aillig was a **sigil agent** who acted as a mediator in negotiations and upheld legal contracts in Sigil, The City of Doors.
+- **He is uncertain how he ended up in NLP and what his new purpose will be.**
+- His abilities appear to grow (eg. experimental elixirs) during times of **deep meditation and self-exploration**.
+- Ra'vek uncovers that he and Aillig have experience with **The Side Room** (the grey market of Sigil).
+
 ### Backstory
+
 
 ### Key Moments & Plot Hooks
 
