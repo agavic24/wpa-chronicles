@@ -124,3 +124,25 @@ The location and clue together only made sense. She gives a nod. "Seems a good c
 
 **"Ah... what's the plan, Quinn? You know this group better than anyone."**
 ```
+
+> (TIME WARP)
+> 
+> *The party cautiously approached **The Lofted Heel** across from the graveyard. When they knocked, a gruff dwarf with calloused hands and a merchant's wariness cracked the door just enough to growl:* **"Come back tomorrow."**
+> 
+> *But Marz had other plans. A few carefully chosen words in thieves' cant changed Finn's tune entirely. The door swung open, and the party filed into a workspace that smelled of leather, oil, and secrets.*
+> 
+> *Inside, Marz and Quinn began their careful dance. They asked about their missing friend, a "singing tortle".  Both sides tested and probed each other without ever saying too much. Finn's answers were measured, his eyes calculating. But it was **Quinn's sharp instincts** that allowed her to read him like a book. She caught every hesitation, every truth, every lie. When **she spun a few deceptions** of her own, Finn bought in just enough to loosen his tongue.*
+> 
+> *Finn admitted he didn't know where their friend was now... **but he had seen him!***
+> 
+> *Just three weeks ago a female half-elf and a couple of thugs had come along with a tortle in tow. They'd come looking for a safe house for the night.  Finn explained to you how he would occasionally (and discretely) put folks up for a night, but something about this half-elf put him on edge. She wasn't some petty criminal; she was dangerous, professional, and cold. So, despite a hefty offer of gold, he cautiously declined to help.*
+> 
+> *Finn didn't know where they went after that, but he did remember one of the thugs  grumbling something about: **"wasting time here when we've got a long ride west to the lake outpost."***
+
+> *Meanwhile, as this conversation unfolded, Ra'vek's keen eyes wandered across Finn's cluttered desk and landed on something strange among the awls and thread. A bizarre, multi-headed tool that shimmered faintly in the latern light. He nudged Aillig, who took one look and knew instantly from his **arcane studies** that it was an **All-Purpose Tool** of rare magical make.*
+> 
+> *Aillig's excitement got the better of him and he attempted to **persuade** Finn to sell it.  Finn just smirked and replied with: **"Sure - 2000 gold, friend. That's the price."** Clearly Aillig didn't have that amount of coin.*
+> 
+> *Ra'vek stepped in to help his friend out and suggested a trade instead. Finn doubted they'd have anything he'd want, but when Aillig produced his Dazzling Staff and activated its radiant light with a flourish, Finn's eyes gleamed with desire. And so... **a trade was made** - a rare magic item for a rare magic item. Both men walked away satisfied, each convinced they'd gotten the better deal.*
+> 
+> *The party left The Lofted Heel an hour later with a new lead and a new tool in hand.*

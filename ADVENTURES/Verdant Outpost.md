@@ -404,3 +404,74 @@ Cala pats his belly one last time, then skitters from the table without another 
 Ra watches their ratkin friend’s tail disappear into the hammock before he turns to Aillig at his side with a puzzled look.
 
 “Did she say, they don’t want ‘them moving him’?”
+
+> (TIME WARP)
+> 
+> *The night spiraled magnificently out of control. Between the Dragonleaf Schnapps and the relentless enthusiasm of Lilly and Poppy, both Mina and Darias both agreed to transform right there in the tavern.*
+> 
+> *For a brief, shining moment, **the whole tavern was united in the absurdity.** Even the grumpy regulars cracked smiles as the tavern bard and a few locals started singing everyone’s favorite songs and an impromptu dance party broke out.*
+> 
+> ***The bodyguard** -  introduced as Garrett - eventually retreated to the bar where he spent most of the evening with his arms crossed, resigned to his fate as a silenced guardian.*
+> 
+> ***Juniper** worked frantically to capture the moment in charcoal as the two enormous heroes jumped and danced with the two grinning halflings.​​​​​​​​​​​​​​​​*
+> 
+> *In a fervent moment of dancing, **Darias’s foot caught the edge of a chair** and he stumbled hard. He instinctively grabbed for help, which resulted in pulling Mina down with him. A table was overturned, drinks were spilled, and Mina smashed a glass under her palm as she landed.*
+> 
+> ***SUDDENLY there was blood everywhere!***
+> 
+> *As the music screeched to a halt, Mina’s eyes blazed with RAGE. She went to yell at Darias for being so clumsy, but all that came an out was a ridiculous sounding **HICCUP!***
+> 
+> *The halflings howled and everyone laughed.  Mina's rage subsided as quickly as it rose.  And Darias quickly made amends and poured another shot.*
+> 
+> *By the time the dust settled, **Garrett** had negotiated reparations and rooms for the two heroes, **Juniper** had somehow finished his sketch, and **the cousins** were absolutely DELIGHTED by how the night went.*
+> 
+> *Darias was gifted the remainder of the schnapps and after some debate, Mina was given the charcoal sketch for the injury she obtained.*
+
+
+> (TIME WARP)
+> 
+> *By the time Ra'vek, Aillig, Quinn, and Marz arrive back at The Salty Pig, the tavern has gone mostly quiet.  All the patron's are gone and Fraesia and Kise are wiping down the last of the tables.*
+> 
+> *You heard briefly that, **"Your friends were the life of the party tonight!"** And that they were likely sleeping hard after their BIG NIGHT.*
+> 
+> *You get the last of the rooms for yourselves and call it a night. It's been an exhausting day and you all look forward to sleeping in a real bed.*
+
+---
+
+# Morning After — Parting Ways and the Road Ahead
+
+*The following is DM dialogue to read or paraphrase when the party wakes and decides to pursue the campaign plot toward Merriwig Fiddlecap and the Mushroom forest.*
+
+---
+
+*The news settles with you each differntly. He's gone.*
+
+*You're tempted to run out the door looking for Cala... but it's pointless. This is what he wanted. And besides, he's near impossible to find when he's trying to hide.*
+
+*After a quiet, yet hearty breakfat, **Marz** walks in through the tavern door. He’s got a worn pack on his back and a determined look upon his face.*
+
+**"Morning all. I couldn't sit still this morning. That tip from Finn's about a 'long ride west to the lake outpost' is as good of lead as we've got. There’s a caravan pulling out within the hour, headed west to the Calamari Cove Outpost. I just paid my way on it and am here to say 'Goodbye... for now'."**
+
+*He looks across the group and then locks eyes on Quinn.*
+
+**"Quinn... if we need to get in touch, Finn mentioned he will can messages from the lake outpost every few days or so. Something about that aetheryte.... Anyway!  You can check in with Finn to see if he's heard from me OR if you make it to the Outpost yourself, head to the stables by the south gate. Finn has a man there, Rennick, who can pass messages. Tell him you’re 'a friend of the goblin who’s chasing the bird that stopped singing.' One way or another, this won't be the last time we meet."**
+
+*He adjusts his pack and offers a crooked grin.*
+
+**"OK, friends. Go find your elf. I’ll find our tortle. We’ll catch up wherever our trails meet."**
+
+*With that, he heads out towards the western gates where the caravan is forming.*
+
+---
+
+*For the remainder of the morning, the absence of **Cala** hangs over the table as you discuss your next move. You don’t like leaving without knowing where he went, but the outpost is as safe a place as any for him to "nest". If he’s motivated, he’ll find you.*
+
+*With that resolved in the back of your mind, you decide it's best to press on. The corruption in Snakewood isn’t waiting. **Edrik** pointed you toward **Vaelith Duskrune** who was last headed to the tea house of **Merriwig Fiddlecap**, deep within the heart of the **Mushroom Forest.***
+
+*You gather your gear, exit the Salty Pig, and begin your march out of town.*
+
+--
+
+
+outpost, and turn your faces towards the distant fields aheads. Every day that passes, the blight spreads.*
+
