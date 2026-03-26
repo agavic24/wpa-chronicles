@@ -1,6 +1,38 @@
 You are a DND expert.
 You have content available to you in the CHARACTERS and DM-DOCS folders.
 
+
+## Random Encounter Table
+
+*Use this table when the party leaves Verdant Outpost and travels across the Verdant Hills toward the Woodlands. Roll 1d20 once per travel day or at key transitions; adjust for pacing. Only three entries are combat.*
+
+| d20 | Encounter | Type |
+|-----|-----------|------|
+| 1 | **Territorial boars.** A sounder of wild boar (use boar stat block; 1d4+2) has claimed a grove of berry bushes. They charge if the party gets between them and their young or food. *Combat.* | Combat |
+| 2 | **Fey toll.** A narrow footbridge over a chuckling stream is guarded by a single satyr or dryad. They demand a "toll": a song, a story, a true secret, or a small offering (food, a pretty stone). Refusal means no violence—they simply won’t let anyone cross until satisfied. Clever or kind answers may earn a minor blessing (e.g., advantage on one roll before dusk). | Social / Obstacle |
+| 3 | **Cracked earth.** The ground here is choppy and split like drought-parched soil (as in the Verdant Hills description). A 30-foot stretch requires a DC 12 Acrobatics or Athletics check to cross without twisting an ankle or dropping into a shallow fissure. Failure: 1d4 bludgeoning and movement halved for 1 hour. | Natural Obstacle |
+| 4 | **Lost merchant.** A lone trader from a recent caravan has wandered off the main track. They’re relieved to see the party and offer a healing potion or 10 gp in trade goods in exchange for being guided back to the road. They may share a rumor about the Woodlands or the Mushroom Forest. | Non-combat |
+| 5 | **Standing stones.** Three moss-covered standing stones form a triangle. Carved runes (Fey script or Primordial) spell a riddle: *"I have no voice but answer when spoken; I have no feet but am never broken. What am I?"* (Echo.) Speaking the answer aloud causes the stones to chime; the party finds a *spell scroll* or a small gem (25 gp) in a hollow at the base of one stone. Wrong answers do nothing harmful. | Puzzle |
+| 6 | **Bandit ambush.** 1d3+1 bandits (or scouts) have set up at a bend in the trail, hoping to waylay travelers. They demand coin or valuables. If the party refuses or looks like an easy mark, they attack. *Combat.* | Combat |
+| 7 | **Static surge.** The air grows heavy and charged (Verdant Hills’ “static electricity”). Hair stands on end; metal tingles. Each spellcaster who casts a spell in the next minute rolls 1d6: on a 1, the spell targets a random creature within 30 feet (including allies) or fizzles at DM’s choice. No lasting harm. | Natural Hazard |
+| 8 | **Fairy ring.** A perfect ring of pale mushrooms glows faintly at dusk or in dim light. Stepping inside might cause a brief disorientation (DC 11 Wisdom save or the party believes 1 hour has passed when only minutes have). No combat; can be avoided or investigated. | Non-combat / Hazard |
+| 9 | **Spring Court blessing.** A small flock of sprites or pixies flit through a field of wildflowers, encouraging blooms. If the party doesn’t threaten them, one may gift a single *goodberry* or point toward the safest path to the Woodlands. A short, friendly interaction. | Non-combat |
+| 10 | **Fallen tree.** A storm-felled oak blocks the path. It can be climbed over (DC 10), chopped through (time and noise), or circumvented (extra 15–30 minutes). No enemies. | Natural Obstacle |
+| 11 | **Riddle stone.** A flat stone beside the path bears a carved riddle in Common: *"The more you take, the more you leave behind. What am I?"* (Steps.) Saying the answer grants a sense of being “on the right path”; the DM may grant advantage on the next Survival check to avoid getting lost. | Puzzle |
+| 12 | **Hill Giant herder.** A lone hill giant (not from the outpost) is driving a few sheep or goats. They’re surly but not immediately hostile. A DC 13 Persuasion or Intimidation check can result in a tense standoff that ends without combat; offering food or a harmless trade might turn it into a brief, wary exchange. Violence is possible but not required. | Social / Non-combat |
+| 13 | **Boggy patch.** Recent rain has turned a low stretch into mud. DC 12 Athletics or Survival to cross without getting stuck; failure means 10 minutes extricating and possibly losing a boot or a small item (DC 10 Perception to find). | Natural Obstacle |
+| 14 | **Wolves at the edge of the wood.** As the party nears the treeline, 1d4+1 wolves (or use dire wolf for one “alpha” and rest wolves) catch their scent. The pack is hungry and will stalk then attack unless the party presents a clear deterrent (fire, loud noise, obvious strength) or leaves sufficient food. *Combat.* | Combat |
+| 15 | **Abandoned camp.** A recent campsite—cold fire, trampled grass, a dropped waterskin or broken strap. A DC 12 Investigation or Survival check reveals signs of a hasty departure (e.g., claw marks, fey symbols, or boot prints). No enemies present; can provide a clue or a minor supply. | Non-combat |
+| 16 | **Misty hollow.** A dell fills with thick fog for 100 feet. Visibility drops to 10 feet; the path is easy to lose. DC 11 Survival to keep direction; failure adds 20–30 minutes of backtracking. No combat. | Natural Obstacle |
+| 17 | **Offering stone.** A small stone altar holds wilted flowers and a copper piece. A whispered voice (fey) asks for “something that costs you nothing but means something.” A lock of hair, a true name, a promise, or a heartfelt memory suffices. Refusing is fine; complying might grant inspiration or a one-use *guidance*-like effect for the next day. | Social / Non-combat |
+| 18 | **Bee tree.** A massive tree hums with a large but non-aggressive bee colony. Honey is visible in a high crevice. Climbing (DC 13) and careful harvesting can yield 1d4 doses of honey (heal 1 HP per dose or sell 5 gp each). Aggressive action triggers a swarm; otherwise no combat. | Non-combat / Obstacle |
+| 19 | **Bridge puzzle.** A wooden footbridge over a stream has a loose plank. Under it is a small box with three symbols (e.g., sun, moon, leaf). A nearby sign reads: *"Match the order of the day."* Correct order (e.g., leaf for dawn, sun for noon, moon for dusk) opens the box (minor trinket or 15 gp). Wrong order may trigger a harmless spray of water or a squeak. | Puzzle |
+| 20 | **First glimpse of the Woodlands.** No encounter—the party crests a rise and sees the towering trees of the Woodlands in the distance, redwoods and sequoias rising from a bed of green. A moment of wonder; optionally grant inspiration for good roleplay or a short rest. | Non-combat |
+
+---
+
+
+
 # Intro to Verdant Outpost.
 
     ## Approaching Verdant Outpost
@@ -472,6 +504,8 @@ Ra watches their ratkin friend’s tail disappear into the hammock before he tur
 
 --
 
+## DM Dialogue - Heading out of Town
 
-outpost, and turn your faces towards the distant fields aheads. Every day that passes, the blight spreads.*
+*The sun is rising higher on your backs as you leave the outpost behind in the mid-morning day. The Verdant Hills roll away before you, and ahead, the dark line of the Woodlands awaits. With every step, the thought nags: the corruption in Snakewood isn’t waiting, and somewhere beyond those trees, Merriwig and the Mushroom Forest lie.*
 
+--

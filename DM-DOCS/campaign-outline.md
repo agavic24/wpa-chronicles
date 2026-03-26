@@ -101,8 +101,8 @@ The party will seek out Edrik Fenwyn, a historian living in the Crimson Grove, w
 Along the way, the party gets caught up with a bheur hag, Mother Snæbjörg, who's been corrupting the mountainous region of Isanya's Spine.
 As it turns out, she was behind Cala's kidnapping and loss of memory; clues are left for a future exploration of the Feywild and Feydark.
 The party will eventually defeat Snæbjörg and arrive at the Verdant Outpost.  Here they will be reunited with Mina and meet one of Quinn's old acquaintances, Marz. 
-Merriwig Fiddlecap's in the Mushroom Forest, only to find out that Vaelith was rumored to have left for the Underdark.  
-The journey will continue under ground.
+Merriwig Fiddlecap's in the Mushroom Forest, only to find out that Vaelith was rumored to have left for Pinewood.  
+The journey will continue under ground as Vaelith found an entrance to the Underdark through connections in Pinewood.
 
 Part 2: Navigating Darkness
 Deep beneath the surface lies the Underdark.
