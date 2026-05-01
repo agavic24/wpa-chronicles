@@ -8,12 +8,13 @@ from typing import Dict, List, Any
 
 # URLs of the D&D Beyond character sheets to download
 urls = [
-    "https://www.dndbeyond.com/characters/144286017",  # Cala
-    "https://www.dndbeyond.com/characters/144271085",  # Ra
-    "https://www.dndbeyond.com/characters/144272244",  # Aillig
-    "https://www.dndbeyond.com/characters/144272508",  # Quinn
-    "https://www.dndbeyond.com/characters/141723643",  # Darias
-    "https://www.dndbeyond.com/characters/156262581",  # Mina
+    "https://www.dndbeyond.com/characters/164065677"   # Tirrimal
+    #"https://www.dndbeyond.com/characters/144286017",  # Cala
+    #"https://www.dndbeyond.com/characters/144271085",  # Ra
+    #"https://www.dndbeyond.com/characters/144272244",  # Aillig
+    #"https://www.dndbeyond.com/characters/144272508",  # Quinn
+    #"https://www.dndbeyond.com/characters/141723643",  # Darias
+    #"https://www.dndbeyond.com/characters/156262581",  # Mina
 ]
 
 # Add your CobaltSession cookie value here
@@ -44,6 +45,7 @@ CHARACTER_NAME_MAPPING = {
     "Darias": "Darias",
     "Mina": "Mina",
     "Ra": "Ra",
+    "Tirrimal": "Tirrimal",
 }
 
 

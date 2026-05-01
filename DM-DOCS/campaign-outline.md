@@ -6,13 +6,13 @@ Restoring Balance.  It's not just about removing corruption, but ....
 ## CAMPAIGN PLOT - What has been shared with PCs
 - An unlikely troop of characters bonded together as they explored the island continent, the Northern Lights Providence.  #🎞slide-show provides highlights.
 - You discovered the corruption of plants, animals, and men within **Snakewood**, a swamp near Mirewatch Outpost.
-- You battled Oona the Lost and defeated her and the **Sporion** that had corrupted her. 
+- You battled Oona the Lost and defeated her and the **Sporion** that had corrupted her (3 decades ago). 
 - **The party decided to uncover the source of the corruption and what could be done to unwind it.**
 - You sought out **Edrik Fenwyn**, a historian living in the Crimson Grove, who was your best lead on the Sporion and the corruption.
-- You learned that the Snakewood swamp was once the **Galadrian Forest** and read a book on it's demise after the arrival of **Venom, an ancient green dragon**.
+- You learned that the Snakewood swamp was once the **Galadrian Forest** and read a book on it's demise after the arrival of **Venom, an ancient green dragon** (3 centuries ago).
   - Book (PLEASE READ!): https://docs.google.com/document/d/13oS6Pa0zEmMbl5eBndUX-Dw9vhC56Uqo5mCi9rGRWSs/edit
-- Edrik suggests you find **Vaelith Duskrune**, an elf likely to understand the corruption's true nature.
-- Valeith was last known to be headed to the tea house of **Merriwig Fiddlecap** in the heart of the Mushroom forest.
+- Edrik suggests you find **Vaelith Duskrune**, a female wood elf likely to understand the corruption's true nature.
+- Vaelith was last known to be headed to the tea house of **Merriwig Fiddlecap** in the heart of the Mushroom forest.
 
 ## Overview
 An evil green dragon, Venom, settled into the southern side of the island, drawn to the powerful ley lines there.
@@ -56,7 +56,7 @@ This outline details locations, characters, key events, and narrative flow withi
         Who could be here? Merriwig Fiddlecap, Vaelith Duskrune
 
         #### Points of Interest
-        - Merriwig's Tea House - A tea house hidden beneath blue-capped mushrooms
+        - Merriwig's Tea House - Previously hidden beneath a blue-capped mushroom, but now a 2 story hamelet.
 
     ### Underdark
         #### Description
@@ -64,7 +64,7 @@ This outline details locations, characters, key events, and narrative flow withi
         Who could be here? Vaelith Duskrune
 
         #### Points of Interest
-        - Vaelith Labratory - Where he studies Shadow Magic.        
+        - Vaelith Labratory - Where she studies Shadow Magic.        
 
     ### Feywild
         #### Description
@@ -82,7 +82,6 @@ This outline details locations, characters, key events, and narrative flow withi
 
         #### Points of Interest
         - Mag Tureah
-        - 
         - Snæbjörg's Cold Nursery
 
 ## Campaign Arc
@@ -97,49 +96,19 @@ Mina will depart at this point.
 ### Seeking Knowledge
 The party will seek out Edrik Fenwyn, a historian living in the Crimson Grove, who is their best lead on what the Sporion and the corruption could be.
 - Edrik provides some answers into personal backstories and gifts a magical compass.
-- He suggests they find Vaelith Duskrune, an elf likely to understand the corruption's true nature.
+- He suggests they find Vaelith Duskrune, a female wood elf likely to understand the corruption's true nature.
 Along the way, the party gets caught up with a bheur hag, Mother Snæbjörg, who's been corrupting the mountainous region of Isanya's Spine.
 As it turns out, she was behind Cala's kidnapping and loss of memory; clues are left for a future exploration of the Feywild and Feydark.
-The party will eventually defeat Snæbjörg and arrive at the Verdant Outpost.  Here they will be reunited with Mina and meet one of Quinn's old acquaintances, Marz. 
-Merriwig Fiddlecap's in the Mushroom Forest, only to find out that Vaelith was rumored to have left for Pinewood.  
-The journey will continue under ground as Vaelith found an entrance to the Underdark through connections in Pinewood.
+The party will eventually defeat Snæbjörg and arrive at the Verdant Outpost. Here they will be reunited with Mina and meet one of Quinn's old acquaintances, Marz.
 
 Part 2: Navigating Darkness
-Deep beneath the surface lies the Underdark.
-Szinth’alyra, or The Vault, is an ancient Drow city hidden in the vast tunnels of the Underdark. 
-The party must seek out Vaelith Duskrune there and obtain her knowledge of ley lines and corruption.
-Vaelith will explain that the dragon’s magic which corrupted the ley lines has started to rot and is spreading on its own now.  If something could be made to consume the corruption in the ley lines, just as the mushrooms consumed rot, it could be undone from within.
 
-Challenge: Gaining entry into the surface is perilous — Drow society is highly secretive, and the party must either sneak in, earn an invitation, or strike a dangerous bargain with an Underdark faction.
-Key NPC: Vaelith Duskrune, an exiled Drow druid and scholar, once a protector of the ley lines but now hunted for defying the Matron Mothers. She agrees to help if the party can eliminate a Mind Flayer cult that seeks to enslave the region.
-Discovery: Through her studies, Vaelith reveals that the corruption is tied directly to Venom’s heart, which he bound to the ley lines using a long-lost artifact—the Verdant Core—now hidden in a sunken elven vault.
+The party heads to Merriwig Fiddlecap's in the Mushroom Forest. **Merriwig** (a high-level apothecary who knows mycelium and fungal alchemy inside out) explains that he and Vaelith worked together for months on the Swamps corruption.
 
-### Recovering the Verdant Core
-Location: The Sunken Vault
-Once an elven sanctuary, this temple was swallowed by the ocean when the ley lines were twisted. It is now submerged beneath treacherous waters, guarded by restless spirits and sea creatures.
-Challenge: Navigating the ruins requires magical means or an alliance with the local merfolk, who view outsiders with suspicion.
-Key NPC: Queen Nylith of the Tideborn, ruler of the merfolk, offers aid in exchange for dealing with a monstrous abomination lurking within the ruins.
-Discovery: The Verdant Core is protected by a trial—visions of the past reveal the elves’ desperate battle against Venom and the moment the ley lines were corrupted.
+Their work aimed at magically enhanced mycoremediation, which they hoped would consume the rot.  They'd run an experiment in Merriwig's lab and then Vaelith would run out to the Swamp to run a field test.  Eventually they determined the corruption was fueled by more than the dragon's aura. The corruption had bled into the ley lines underneath the forest and was now spread like a cancer throughout the land. Although **mycoremediation was a potential solution, but they needed more powerful magic, fungi, or both.** Merriwig’s craft had hit a ceiling.
 
-### Into the Feywild
+And so Vaelith started looking else where.  Last Merriwig knew, she was he talking to some folks in **Pinewood**.
 
-### The Dragon’s Wrath
-Location: The Swamp, Venom’s Awakening
-With the Verdant Core in their possession, the party returns to the swamp to cleanse the ley lines. However, the moment they attempt to activate the artifact, Venom senses the disruption and launches a full-scale attack.
-Battle Setup: The swamp itself fights alongside Venom—animated vines, toxic mists, and corrupted beasts strike as the dragon unleashes his fury.
-- Phase 1: Venom uses hit-and-run tactics, poisoning the air and attacking from the shadows.
-- Phase 2: As the party weakens him, he collapses sections of the swamp to isolate them and force a final confrontation in his lair.
-- Climax: With Venom defeated, his influence over the ley lines is severed, but the land is still scarred.
+---
 
-# The Final Restoration
-Location: The Elven Homeland, The Tree of Life
-The elves, now aware of Venom’s defeat, reveal the existence of a second Seed. This sacred relic, a direct offshoot of the legendary Tree of Life, has the power to restore the swamp’s balance.
-Challenge: The Tree of Life is located deep within an enchanted forest, protected by ancient guardians. The party must prove themselves worthy.
-
-Key NPC: Elder Lytheris, a weary but hopeful druid who reveals that planting the Seed will begin the land’s slow healing, but it will take centuries to fully recover.
-Final Choice: The party may choose to leave behind a piece of themselves—a sacrifice of magic, vitality, or an oath—to ensure the land’s renewal.
-
-# Conclusion: A New Dawn
-With the Seed planted, the first signs of life return to the swamp. The ley lines begin to pulse with their natural energy, and nature starts to reclaim what was lost. The elves return to the land, ready to guide its slow rebirth.
-Lasting Impact: The party’s names will be etched into legend, and future generations will speak of their deeds in restoring balance.
-Unresolved Threads: Though Venom is slain, whispers tell of another force that once sought to control the ley lines. Did the dragon act alone, or was he merely a pawn in a grander scheme?
+The journey continues through Pinewood...
